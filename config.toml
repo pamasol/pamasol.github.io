@@ -1,8 +1,8 @@
-baseURL = "https://example.com"
+baseURL = "https://pamasol.github.io/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "Hugo Relearn Documentation"
+title = "Pamasol Electrics Portal"
 theme = "hugo-theme-relearn"
 themesdir = "./themes"
 publishdir = "docs"
@@ -11,9 +11,9 @@ defaultContentLanguageInSubdir = true
 relativeURLs = true
 
 [params]
-  editURL = "https://github.com/McShelby/hugo-theme-relearn/edit/main/exampleSite/content/"
-  description = "Documentation for Hugo Relearn Theme"
-  author = "Sören Weber"
+  editURL = "https://github.com/pamasol/pamasol.github.io/tree/main/content"
+  description = "Pamasol Electrics bietet Wissen in den Bereichen Maschinenbau, Elektrotechnik und Softwareentwicklung."
+  author = "Pamasol"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false

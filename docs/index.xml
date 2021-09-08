@@ -2,25 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Relearn Theme for Hugo on Documentation for Hugo Relearn Theme</title>
-    <link>https://example.com/</link>
+    <link>https://pamasol.github.io/</link>
     <description>Recent content in Relearn Theme for Hugo on Documentation for Hugo Relearn Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="https://pamasol.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>page X</title>
-      <link>https://example.com/shortcodes/children/test/</link>
+      <title>Basics</title>
+      <link>https://pamasol.github.io/basics/_index.de/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/shortcodes/children/test/</guid>
+      <guid>https://pamasol.github.io/basics/_index.de/</guid>
+      <description>Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.</description>
+    </item>
+    
+    <item>
+      <title>page X</title>
+      <link>https://pamasol.github.io/shortcodes/children/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pamasol.github.io/shortcodes/children/test/</guid>
       <description>This is a plain demo child page.</description>
     </item>
     
     <item>
-      <title>Archetypes</title>
-      <link>https://example.com/cont/archetypes/</link>
+      <title>Content</title>
+      <link>https://pamasol.github.io/cont/_index.de/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/cont/archetypes/</guid>
+      <guid>https://pamasol.github.io/cont/_index.de/</guid>
+      <description>Chapter 2 Content Find out how to create and organize your content quickly and intuitively.</description>
+    </item>
+    
+    <item>
+      <title>Archetypes</title>
+      <link>https://pamasol.github.io/cont/archetypes.de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pamasol.github.io/cont/archetypes.de/</guid>
       <description>Using the command: hugo new [relative new content path], you can start a content file with the date and title automatically set. While this is a welcome feature, active writers need more: archetypes.
 It is pre-configured skeleton pages with default front matter. Please refer to the documentation for types of page to understand the differences.
 Chapter To create a Chapter page, run the following commands
@@ -28,11 +46,58 @@ hugo new --kind chapter &amp;lt;name&amp;gt;/_index.md It will create a page wit
     </item>
     
     <item>
-      <title>Markdown syntax</title>
-      <link>https://example.com/cont/markdown/</link>
+      <title>Archetypes</title>
+      <link>https://pamasol.github.io/cont/archetypes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/cont/markdown/</guid>
+      <guid>https://pamasol.github.io/cont/archetypes/</guid>
+      <description>Using the command: hugo new [relative new content path], you can start a content file with the date and title automatically set. While this is a welcome feature, active writers need more: archetypes.
+It is pre-configured skeleton pages with default front matter. Please refer to the documentation for types of page to understand the differences.
+Chapter To create a Chapter page, run the following commands
+hugo new --kind chapter &amp;lt;name&amp;gt;/_index.md It will create a page with predefined Front-Matter:</description>
+    </item>
+    
+    <item>
+      <title>Requirements</title>
+      <link>https://pamasol.github.io/basics/requirements/_index.de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pamasol.github.io/basics/requirements/_index.de/</guid>
+      <description>Thanks to the simplicity of Hugo, this page is as empty as this theme needs requirements.
+Just download latest version of Hugo binary (&amp;gt; 0.25) for your OS (Windows, Linux, Mac) : it&amp;rsquo;s that simple.</description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>https://pamasol.github.io/basics/installation/_index.de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pamasol.github.io/basics/installation/_index.de/</guid>
+      <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
+Create your project Hugo provides a new command to create a new website.
+hugo new site &amp;lt;new_project&amp;gt; Install the theme Install the Hugo-theme-relearn theme by following this documentation
+This theme&amp;rsquo;s repository is: https://github.com/McShelby/hugo-theme-relearn.git
+Alternatively, you can download the theme as .</description>
+    </item>
+    
+    <item>
+      <title>Markdown syntax</title>
+      <link>https://pamasol.github.io/cont/markdown.de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pamasol.github.io/cont/markdown.de/</guid>
+      <description>Let&amp;rsquo;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
+Markdown is a better way to write HTML, without all the complexities and ugliness that usually accompanies it.
+Some of the key benefits are:
+ Markdown is simple to learn, with minimal extra characters so it&amp;rsquo;s also quicker to write content. Less chance of errors when writing in markdown.</description>
+    </item>
+    
+    <item>
+      <title>Markdown syntax</title>
+      <link>https://pamasol.github.io/cont/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pamasol.github.io/cont/markdown/</guid>
       <description>Let&amp;rsquo;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
 Markdown is a better way to write HTML, without all the complexities and ugliness that usually accompanies it.
 Some of the key benefits are:
@@ -41,10 +106,10 @@ Some of the key benefits are:
     
     <item>
       <title>Code highlighting</title>
-      <link>https://example.com/cont/syntaxhighlight/</link>
+      <link>https://pamasol.github.io/cont/syntaxhighlight.de/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/cont/syntaxhighlight/</guid>
+      <guid>https://pamasol.github.io/cont/syntaxhighlight.de/</guid>
       <description>Relearn theme uses Hugo&amp;rsquo;s built-in syntax highlighting for code.
 Markdown syntax Wrap the code block with three backticks and the name of the language. Highlight will try to auto detect the language if one is not provided.
 ```json [ { &amp;#34;title&amp;#34;: &amp;#34;apples&amp;#34;, &amp;#34;count&amp;#34;: [12000, 20000], &amp;#34;description&amp;#34;: {&amp;#34;text&amp;#34;: &amp;#34;...&amp;#34;, &amp;#34;sensitive&amp;#34;: false} }, { &amp;#34;title&amp;#34;: &amp;#34;oranges&amp;#34;, &amp;#34;count&amp;#34;: [17500, null], &amp;#34;description&amp;#34;: {&amp;#34;text&amp;#34;: &amp;#34;...&amp;#34;, &amp;#34;sensitive&amp;#34;: false} } ] ``` Renders to:
@@ -52,11 +117,57 @@ Markdown syntax Wrap the code block with three backticks and the name of the lan
     </item>
     
     <item>
-      <title>Menu extra shortcuts</title>
-      <link>https://example.com/cont/menushortcuts/</link>
+      <title>Code highlighting</title>
+      <link>https://pamasol.github.io/cont/syntaxhighlight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/cont/menushortcuts/</guid>
+      <guid>https://pamasol.github.io/cont/syntaxhighlight/</guid>
+      <description>Relearn theme uses Hugo&amp;rsquo;s built-in syntax highlighting for code.
+Markdown syntax Wrap the code block with three backticks and the name of the language. Highlight will try to auto detect the language if one is not provided.
+```json [ { &amp;#34;title&amp;#34;: &amp;#34;apples&amp;#34;, &amp;#34;count&amp;#34;: [12000, 20000], &amp;#34;description&amp;#34;: {&amp;#34;text&amp;#34;: &amp;#34;...&amp;#34;, &amp;#34;sensitive&amp;#34;: false} }, { &amp;#34;title&amp;#34;: &amp;#34;oranges&amp;#34;, &amp;#34;count&amp;#34;: [17500, null], &amp;#34;description&amp;#34;: {&amp;#34;text&amp;#34;: &amp;#34;...&amp;#34;, &amp;#34;sensitive&amp;#34;: false} } ] ``` Renders to:
+[ { &amp;#34;title&amp;#34;: &amp;#34;apples&amp;#34;, &amp;#34;count&amp;#34;: [12000, 20000], &amp;#34;description&amp;#34;: {&amp;#34;text&amp;#34;: &amp;#34;.</description>
+    </item>
+    
+    <item>
+      <title>Migration</title>
+      <link>https://pamasol.github.io/basics/migration/_index.de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pamasol.github.io/basics/migration/_index.de/</guid>
+      <description>If you are upgrading from a previous version of the theme or even from the hugo-theme-learn, you may have to change a few things in your own installation.
+For a detailed list of changes, the history page.
+From this theme Before 2.0.0  If you are using a custom color variant, you may want to check your CSS file as there were additions missing in the documenation  From hugo-theme-learn  If you are using a custom color variant, you may want to check your CSS file as there were additions missing in the documenation  </description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>https://pamasol.github.io/basics/configuration/_index.de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pamasol.github.io/basics/configuration/_index.de/</guid>
+      <description>Global site parameters On top of Hugo global configuration, Hugo-theme-relearn lets you define the following parameters in your config.toml (here, values are default).
+Note that some of these parameters are explained in details in other sections of this documentation.
+[params] # Prefix URL to edit current page. Will display an &amp;#34;Edit this page&amp;#34; button on top right hand corner of every page. # Useful to give opportunity to people to create merge request for your doc.</description>
+    </item>
+    
+    <item>
+      <title>Menu extra shortcuts</title>
+      <link>https://pamasol.github.io/cont/menushortcuts.de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pamasol.github.io/cont/menushortcuts.de/</guid>
+      <description>You can define additional menu entries or shortcuts in the navigation menu without any link to content.
+Basic configuration Edit the website configuration config.toml and add a [[menu.shortcuts]] entry for each link your want to add.
+Example from the current website:
+[[menu.shortcuts]] name = &amp;#34;&amp;lt;i class=&amp;#39;fab fa-github&amp;#39;&amp;gt;&amp;lt;/i&amp;gt; Github repo&amp;#34; identifier = &amp;#34;ds&amp;#34; url = &amp;#34;https://github.com/McShelby/hugo-theme-relearn&amp;#34; weight = 10 [[menu.shortcuts]] name = &amp;#34;&amp;lt;i class=&amp;#39;fas fa-camera&amp;#39;&amp;gt;&amp;lt;/i&amp;gt; Showcases&amp;#34; url = &amp;#34;/showcase&amp;#34; weight = 11 [[menu.</description>
+    </item>
+    
+    <item>
+      <title>Menu extra shortcuts</title>
+      <link>https://pamasol.github.io/cont/menushortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pamasol.github.io/cont/menushortcuts/</guid>
       <description>You can define additional menu entries or shortcuts in the navigation menu without any link to content.
 Basic configuration Edit the website configuration config.toml and add a [[menu.shortcuts]] entry for each link your want to add.
 Example from the current website:
@@ -65,21 +176,54 @@ Example from the current website:
     
     <item>
       <title>Icons and logos</title>
-      <link>https://example.com/cont/icons/</link>
+      <link>https://pamasol.github.io/cont/icons.de/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/cont/icons/</guid>
+      <guid>https://pamasol.github.io/cont/icons.de/</guid>
       <description>The Relearn theme for Hugo loads the Font Awesome library, allowing you to easily display any icon or logo available in the Font Awesome free collection.
 Finding an icon Browse through the available icons in the Font Awesome Gallery. Notice that the free filter is enabled, as only the free icons are available by default.
 Once on the Font Awesome page for a specific icon, for example the page for the heart, copy the HTML reference and paste into the markdown content.</description>
     </item>
     
     <item>
-      <title>Tags</title>
-      <link>https://example.com/cont/tags/</link>
+      <title>Icons and logos</title>
+      <link>https://pamasol.github.io/cont/icons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/cont/tags/</guid>
+      <guid>https://pamasol.github.io/cont/icons/</guid>
+      <description>The Relearn theme for Hugo loads the Font Awesome library, allowing you to easily display any icon or logo available in the Font Awesome free collection.
+Finding an icon Browse through the available icons in the Font Awesome Gallery. Notice that the free filter is enabled, as only the free icons are available by default.
+Once on the Font Awesome page for a specific icon, for example the page for the heart, copy the HTML reference and paste into the markdown content.</description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>https://pamasol.github.io/basics/history/_index.de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pamasol.github.io/basics/history/_index.de/</guid>
+      <description>Changelog 2.1.0 (2021-09-07) Enhancements  [feature] search: open expand if it contains search term #80 [feature] menu: scroll active item into view #79 [feature] search: disable search in hidden pages #76 [feature] search: improve readablility of index.json #75 [feature] search: increase performance #74 [feature] search: improve search context preview #73  Bug Fixes  [bug] search: hide non-site content #81 [bug] menu: always hide hidden sub pages #77   2.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://pamasol.github.io/cont/tags.de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pamasol.github.io/cont/tags.de/</guid>
+      <description>Relearn theme supports one default taxonomy of Hugo: the tag feature.
+Configuration Just add tags to any page:
++++ tags = [&amp;#34;tutorial&amp;#34;, &amp;#34;theme&amp;#34;] title = &amp;#34;Theme tutorial&amp;#34; weight = 15 +++ Behavior The tags are displayed at the top of the page, in their insertion order.
+Each tag is a link to a Taxonomy page displaying all the articles with the given tag.
+List all the tags In the config.toml file you can add a shortcut to display all the tags</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://pamasol.github.io/cont/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pamasol.github.io/cont/tags/</guid>
       <description>Relearn theme supports one default taxonomy of Hugo: the tag feature.
 Configuration Just add tags to any page:
 +++ tags = [&amp;#34;tutorial&amp;#34;, &amp;#34;theme&amp;#34;] title = &amp;#34;Theme tutorial&amp;#34; weight = 15 +++ Behavior The tags are displayed at the top of the page, in their insertion order.
@@ -89,19 +233,19 @@ List all the tags In the config.toml file you can add a shortcut to display all 
     
     <item>
       <title></title>
-      <link>https://example.com/basics/changelog/</link>
+      <link>https://pamasol.github.io/basics/changelog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/basics/changelog/</guid>
+      <guid>https://pamasol.github.io/basics/changelog/</guid>
       <description>Changelog 2.1.0 (2021-09-07) Enhancements  [feature] search: open expand if it contains search term #80 [feature] menu: scroll active item into view #79 [feature] search: disable search in hidden pages #76 [feature] search: improve readablility of index.json #75 [feature] search: increase performance #74 [feature] search: improve search context preview #73  Bug Fixes  [bug] search: hide non-site content #81 [bug] menu: always hide hidden sub pages #77   2.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/shortcodes/include_me/</link>
+      <link>https://pamasol.github.io/shortcodes/include_me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/shortcodes/include_me/</guid>
+      <guid>https://pamasol.github.io/shortcodes/include_me/</guid>
       <description>You can add:
  multiple paragraphs bullet point lists emphasized, bold and even bold emphasized text links other shortcodes besides include etc.  ...and even source code  the possiblities are endless
  </description>
@@ -109,10 +253,10 @@ List all the tags In the config.toml file you can add a shortcut to display all 
     
     <item>
       <title>Attachments</title>
-      <link>https://example.com/shortcodes/attachments/</link>
+      <link>https://pamasol.github.io/shortcodes/attachments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/shortcodes/attachments/</guid>
+      <guid>https://pamasol.github.io/shortcodes/attachments/</guid>
       <description>The Attachments shortcode displays a list of files attached to a page.
 Attachments  adivorciarsetoca00cape.pdf (361 KB)   BachGavotteShort.mp3 (357 KB)   Carroll_AliceAuPaysDesMerveilles.pdf (175 KB)   hugo.png (17 KB)   hugo.txt (20 B)   movieselectricsheep-flock-244-32500-2.mp4 (340 KB)    Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
   If your page is a markdown file, attachements must be placed in a folder named like your page and ending with .</description>
@@ -120,20 +264,20 @@ Attachments  adivorciarsetoca00cape.pdf (361 KB)   BachGavotteShort.mp3 (357 KB)
     
     <item>
       <title>Button</title>
-      <link>https://example.com/shortcodes/button/</link>
+      <link>https://pamasol.github.io/shortcodes/button/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/shortcodes/button/</guid>
+      <guid>https://pamasol.github.io/shortcodes/button/</guid>
       <description>A button is a just a clickable button with optional icon.
 {{% button href=&amp;#34;https://gohugo.io/&amp;#34; %}}Get Hugo{{% /button %}} {{% button href=&amp;#34;https://gohugo.io/&amp;#34; icon=&amp;#34;fas fa-download&amp;#34; %}}Get Hugo with icon{{% /button %}} {{% button href=&amp;#34;https://gohugo.io/&amp;#34; icon=&amp;#34;fas fa-download&amp;#34; icon-position=&amp;#34;right&amp;#34; %}}Get Hugo with icon right{{% /button %}}  Get Hugo   Get Hugo with icon  Get Hugo with icon right   </description>
     </item>
     
     <item>
       <title>Credits</title>
-      <link>https://example.com/credits/</link>
+      <link>https://pamasol.github.io/credits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/credits/</guid>
+      <guid>https://pamasol.github.io/credits/</guid>
       <description>Contributors Special thanks to everyone who has contributed to this project.
 Many thanks to @matcornic for his work on hugo-theme-learn.
 Packages and libraries  mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library jquery-svg-zoom-pan - enable pan and zoom in mermaid graphs lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services&amp;hellip; clipboard.</description>
@@ -141,10 +285,10 @@ Packages and libraries  mermaid - generation of diagram and flowchart from text 
     
     <item>
       <title>Expand</title>
-      <link>https://example.com/shortcodes/expand/</link>
+      <link>https://pamasol.github.io/shortcodes/expand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/shortcodes/expand/</guid>
+      <guid>https://pamasol.github.io/shortcodes/expand/</guid>
       <description>The Expand shortcode displays an expandable/collapsible section of text on your page.
 Usage {{% expand &amp;#34;Does this relearn theme rock?&amp;#34; { &amp;#34;true&amp;#34; | &amp;#34;false&amp;#34; } %}} Yes! {{% /expand %}} The first optional parameter defines the text that appears next to the expand/collapse icon. The default text is &amp;quot;Expand me...&amp;quot;.
 The second optional parameter controls if the block is initially shown as expanded (&amp;quot;true&amp;quot;) or collapsed (&amp;quot;false&amp;quot;). The default ist &amp;quot;false&amp;quot;.</description>
@@ -152,10 +296,10 @@ The second optional parameter controls if the block is initially shown as expand
     
     <item>
       <title>Include</title>
-      <link>https://example.com/shortcodes/include/</link>
+      <link>https://pamasol.github.io/shortcodes/include/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/shortcodes/include/</guid>
+      <guid>https://pamasol.github.io/shortcodes/include/</guid>
       <description>The include shortcode includes other files from your project inside of the current file. This can even contain markdown and will be taken into account when generating the table of contents.
 Usage {{% include &amp;#34;&amp;lt;file&amp;gt;&amp;#34; { &amp;#34;true&amp;#34; | &amp;#34;false&amp;#34; } %}} The first parameter is the path to the file to be included.
 If the file&amp;rsquo;s content will be displayed as HTML, the second optional parameter controls if the first heading of the included file should be displayed (&amp;ldquo;true&amp;rdquo;)- which is the default - or be hidden.</description>
@@ -163,10 +307,10 @@ If the file&amp;rsquo;s content will be displayed as HTML, the second optional p
     
     <item>
       <title>Mermaid</title>
-      <link>https://example.com/shortcodes/mermaid/</link>
+      <link>https://pamasol.github.io/shortcodes/mermaid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/shortcodes/mermaid/</guid>
+      <guid>https://pamasol.github.io/shortcodes/mermaid/</guid>
       <description>Mermaid is a library helping you to generate diagram and flowcharts from text, in a similar manner as Markdown.
 Usage Just insert your mermaid code in the mermaid shortcode like this:
 {{&amp;lt; mermaid [ align=(left|right|center|justify) ] &amp;gt;}} classDiagram Person *-- Dog {{&amp;lt; /mermaid &amp;gt;}} You can set an optional align attribute which defaults to center.
@@ -176,10 +320,10 @@ If you don&amp;rsquo;t need alignment you can use the alternative syntax using c
     
     <item>
       <title>Notice</title>
-      <link>https://example.com/shortcodes/notice/</link>
+      <link>https://pamasol.github.io/shortcodes/notice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/shortcodes/notice/</guid>
+      <guid>https://pamasol.github.io/shortcodes/notice/</guid>
       <description>The notice shortcode shows four types of disclaimers to help you structure your page.
 Usage {{% notice [ note | info | tip | warning ] %}} Some markup {{% /notice %}} Examples Note Note A notice disclaimer
 You can add:
@@ -188,41 +332,41 @@ You can add:
     
     <item>
       <title>page 3-1</title>
-      <link>https://example.com/shortcodes/children/children-3/test3/</link>
+      <link>https://pamasol.github.io/shortcodes/children/children-3/test3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/shortcodes/children/children-3/test3/</guid>
+      <guid>https://pamasol.github.io/shortcodes/children/children-3/test3/</guid>
       <description>This is a plain demo child page.</description>
     </item>
     
     <item>
       <title>Showcase</title>
-      <link>https://example.com/showcase/</link>
+      <link>https://pamasol.github.io/showcase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/showcase/</guid>
+      <guid>https://pamasol.github.io/showcase/</guid>
       <description>TAT by OVH Tshark.dev by Ross Jacobs inteliver by Amir Lavasani </description>
     </item>
     
     <item>
       <title>Site param</title>
-      <link>https://example.com/shortcodes/siteparam/</link>
+      <link>https://pamasol.github.io/shortcodes/siteparam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/shortcodes/siteparam/</guid>
+      <guid>https://pamasol.github.io/shortcodes/siteparam/</guid>
       <description>siteparam shortcode is used to help you print values of site params.
 For instance, in this current site, the editURL variable is used in config.toml
 [params] editURL = &amp;#34;https://github.com/McShelby/hugo-theme-relearn/edit/main/exampleSite/content/&amp;#34; Use the siteparam shortcode to display its value.
 `editURL` Value : {{% siteparam &amp;#34;editURL&amp;#34; %}} is displayed as
-editURL Value : https://github.com/McShelby/hugo-theme-relearn/edit/main/exampleSite/content/</description>
+editURL Value : https://github.com/pamasol/pamasol.github.io/tree/main/content</description>
     </item>
     
     <item>
       <title>Tabbed views</title>
-      <link>https://example.com/shortcodes/tabs/</link>
+      <link>https://pamasol.github.io/shortcodes/tabs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/shortcodes/tabs/</guid>
+      <guid>https://pamasol.github.io/shortcodes/tabs/</guid>
       <description>Choose which content to see across the page. Very handy for providing code snippets for multiple languages or providing configuration in different formats.
 Code example {{&amp;lt; tabs &amp;gt;}} {{% tab name=&amp;#34;python&amp;#34; %}} ```python print(&amp;#34;Hello World!&amp;#34;) ``` {{% /tab %}} {{% tab name=&amp;#34;R&amp;#34; %}} ```R &amp;gt; print(&amp;#34;Hello World!&amp;#34;) ``` {{% /tab %}} {{% tab name=&amp;#34;Bash&amp;#34; %}} ```Bash echo &amp;#34;Hello World!&amp;#34; ``` {{% /tab %}} {{&amp;lt; /tabs &amp;gt;}} Renders as:
 python R Bash  print(&amp;#34;Hello World!</description>

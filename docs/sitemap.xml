@@ -2,108 +2,121 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/basics/</loc>
+    <loc>https://pamasol.github.io/basics/_index.de/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/children/test/</loc>
+    <loc>https://pamasol.github.io/shortcodes/children/test/</loc>
   </url><url>
-    <loc>https://example.com/cont/</loc>
+    <loc>https://pamasol.github.io/cont/_index.de/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/</loc>
+    <loc>https://pamasol.github.io/shortcodes/</loc>
   </url><url>
-    <loc>https://example.com/yours/</loc>
+    <loc>https://pamasol.github.io/yours/</loc>
   </url><url>
-    <loc>https://example.com/cont/pages/</loc>
+    <loc>https://pamasol.github.io/cont/pages/</loc>
   </url><url>
-    <loc>https://example.com/cont/archetypes/</loc>
+    <loc>https://pamasol.github.io/cont/archetypes.de/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/children/children-1/</loc>
+    <loc>https://pamasol.github.io/cont/archetypes/</loc>
   </url><url>
-    <loc>https://example.com/basics/requirements/</loc>
+    <loc>https://pamasol.github.io/shortcodes/children/children-1/</loc>
   </url><url>
-    <loc>https://example.com/basics/installation/</loc>
+    <loc>https://pamasol.github.io/basics/requirements/_index.de/</loc>
   </url><url>
-    <loc>https://example.com/cont/markdown/</loc>
+    <loc>https://pamasol.github.io/basics/installation/_index.de/</loc>
   </url><url>
-    <loc>https://example.com/cont/syntaxhighlight/</loc>
+    <loc>https://pamasol.github.io/cont/markdown.de/</loc>
   </url><url>
-    <loc>https://example.com/basics/migration/</loc>
+    <loc>https://pamasol.github.io/cont/markdown/</loc>
   </url><url>
-    <loc>https://example.com/basics/configuration/</loc>
+    <loc>https://pamasol.github.io/cont/syntaxhighlight.de/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/children/children-2/</loc>
+    <loc>https://pamasol.github.io/cont/syntaxhighlight/</loc>
   </url><url>
-    <loc>https://example.com/basics/customization/</loc>
+    <loc>https://pamasol.github.io/basics/migration/_index.de/</loc>
   </url><url>
-    <loc>https://example.com/cont/menushortcuts/</loc>
+    <loc>https://pamasol.github.io/basics/configuration/_index.de/</loc>
   </url><url>
-    <loc>https://example.com/cont/icons/</loc>
+    <loc>https://pamasol.github.io/shortcodes/children/children-2/</loc>
   </url><url>
-    <loc>https://example.com/basics/history/</loc>
+    <loc>https://pamasol.github.io/basics/customization/</loc>
   </url><url>
-    <loc>https://example.com/cont/i18n/</loc>
+    <loc>https://pamasol.github.io/cont/menushortcuts.de/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/children/children-3/</loc>
+    <loc>https://pamasol.github.io/cont/menushortcuts/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/children/children-4/</loc>
+    <loc>https://pamasol.github.io/cont/icons.de/</loc>
   </url><url>
-    <loc>https://example.com/cont/tags/</loc>
+    <loc>https://pamasol.github.io/cont/icons/</loc>
   </url><url>
-    <loc>https://example.com/basics/changelog/</loc>
+    <loc>https://pamasol.github.io/basics/history/_index.de/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/include_me/</loc>
+    <loc>https://pamasol.github.io/cont/i18n/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/attachments/</loc>
+    <loc>https://pamasol.github.io/shortcodes/children/children-3/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/button/</loc>
+    <loc>https://pamasol.github.io/shortcodes/children/children-4/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://pamasol.github.io/cont/tags.de/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/children/</loc>
+    <loc>https://pamasol.github.io/cont/tags/</loc>
   </url><url>
-    <loc>https://example.com/credits/</loc>
+    <loc>https://pamasol.github.io/basics/changelog/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://example.com/tags/documentation/</loc>
+    <loc>https://pamasol.github.io/shortcodes/include_me/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/expand/</loc>
+    <loc>https://pamasol.github.io/shortcodes/attachments/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/include/</loc>
+    <loc>https://pamasol.github.io/shortcodes/button/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/mermaid/</loc>
+    <loc>https://pamasol.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/notice/</loc>
+    <loc>https://pamasol.github.io/shortcodes/children/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/children/children-1/children-1-1/</loc>
+    <loc>https://pamasol.github.io/credits/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
+    <loc>https://pamasol.github.io/tags/documentation/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
+    <loc>https://pamasol.github.io/shortcodes/expand/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
+    <loc>https://pamasol.github.io/shortcodes/include/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/children-1-1-1-1-1-1/</loc>
+    <loc>https://pamasol.github.io/shortcodes/mermaid/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/children/children-1/children-1-1/children-1-1-2/</loc>
+    <loc>https://pamasol.github.io/shortcodes/notice/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/children/children-1/children-1-1/children-1-1-2/children-1-1-2-1/</loc>
+    <loc>https://pamasol.github.io/shortcodes/children/children-1/children-1-1/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/children/children-1/children-1-1/children-1-1-2/children-1-1-2-2/</loc>
+    <loc>https://pamasol.github.io/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/children/children-1/children-1-1/children-1-1-3/</loc>
+    <loc>https://pamasol.github.io/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/children/children-3/test3/</loc>
+    <loc>https://pamasol.github.io/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://pamasol.github.io/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/children-1-1-1-1-1-1/</loc>
   </url><url>
-    <loc>https://example.com/showcase/</loc>
+    <loc>https://pamasol.github.io/shortcodes/children/children-1/children-1-1/children-1-1-2/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/siteparam/</loc>
+    <loc>https://pamasol.github.io/shortcodes/children/children-1/children-1-1/children-1-1-2/children-1-1-2-1/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/tabs/</loc>
+    <loc>https://pamasol.github.io/shortcodes/children/children-1/children-1-1/children-1-1-2/children-1-1-2-2/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://pamasol.github.io/shortcodes/children/children-1/children-1-1/children-1-1-3/</loc>
   </url><url>
-    <loc>https://example.com/yours/children-1/</loc>
+    <loc>https://pamasol.github.io/shortcodes/children/children-3/test3/</loc>
   </url><url>
-    <loc>https://example.com/tags/tutorial/</loc>
+    <loc>https://pamasol.github.io/</loc>
+  </url><url>
+    <loc>https://pamasol.github.io/showcase/</loc>
+  </url><url>
+    <loc>https://pamasol.github.io/shortcodes/siteparam/</loc>
+  </url><url>
+    <loc>https://pamasol.github.io/shortcodes/tabs/</loc>
+  </url><url>
+    <loc>https://pamasol.github.io/tags/</loc>
+  </url><url>
+    <loc>https://pamasol.github.io/yours/children-1/</loc>
+  </url><url>
+    <loc>https://pamasol.github.io/tags/tutorial/</loc>
   </url>
 </urlset>
