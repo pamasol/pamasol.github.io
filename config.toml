@@ -5,6 +5,7 @@ defaultContentLanguage = "en"
 title = "Hugo Relearn Documentation"
 theme = "hugo-theme-relearn"
 themesdir = "./themes"
+publishdir = "docs"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir = true
 relativeURLs = true
