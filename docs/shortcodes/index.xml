@@ -95,7 +95,7 @@ You can add:
 For instance, in this current site, the editURL variable is used in config.toml
 [params] editURL = &amp;#34;https://github.com/McShelby/hugo-theme-relearn/edit/main/exampleSite/content/&amp;#34; Use the siteparam shortcode to display its value.
 `editURL` Value : {{% siteparam &amp;#34;editURL&amp;#34; %}} is displayed as
-editURL Value : https://github.com/pamasol/pamasol.github.io/tree/main/content</description>
+editURL Value : https://github.com/pamasol/pamasol.github.io/tree/main/content/</description>
     </item>
     
     <item>

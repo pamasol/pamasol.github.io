@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Basics on Documentation for Hugo Relearn Theme</title>
-    <link>https://example.com/basics/</link>
+    <link>https://pamasol.github.io/basics/</link>
     <description>Recent content in Basics on Documentation for Hugo Relearn Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://example.com/basics/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="https://pamasol.github.io/basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.com/basics/changelog/</link>
+      <link>https://pamasol.github.io/basics/changelog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/basics/changelog/</guid>
+      <guid>https://pamasol.github.io/basics/changelog/</guid>
       <description>Changelog 2.1.0 (2021-09-07) Enhancements  [feature] search: open expand if it contains search term #80 [feature] menu: scroll active item into view #79 [feature] search: disable search in hidden pages #76 [feature] search: improve readablility of index.json #75 [feature] search: increase performance #74 [feature] search: improve search context preview #73  Bug Fixes  [bug] search: hide non-site content #81 [bug] menu: always hide hidden sub pages #77   2.</description>
     </item>
     

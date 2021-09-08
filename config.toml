@@ -11,7 +11,7 @@ defaultContentLanguageInSubdir = true
 relativeURLs = true
 
 [params]
-  editURL = "https://github.com/pamasol/pamasol.github.io/tree/main/content"
+  editURL = "https://github.com/pamasol/pamasol.github.io/tree/main/content/"
   description = "Pamasol Electrics bietet Wissen in den Bereichen Maschinenbau, Elektrotechnik und Softwareentwicklung."
   author = "Pamasol"
   showVisitedLinks = true
