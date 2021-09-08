@@ -20,7 +20,7 @@ relativeURLs = true
   disableLandingPageButton = true
   disableMermaid = false
   titleSeparator = "::"
-  themeVariant = "relearn"
+  themeVariant = "pamasol"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -38,30 +38,24 @@ relativeURLs = true
 
 [Languages]
   [Languages.en]
-    title = "Documentation for Hugo Relearn Theme"
+    title = "Pamasol Electrics Portal"
     weight = 1
     languageName = "English"
     landingPageURL = "/"
     landingPageName = "<i class='fas fa-home'></i> Home"
 
   [[Languages.en.menu.shortcuts]]
-    name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
-    identifier = "ds"
-    url = "https://github.com/McShelby/hugo-theme-relearn"
+    name = "<i class='fas fa-fw fa-globe-europe'></i> Pamasol Official Website"
+    url = "https://www.pamasol.com/"
     weight = 10
 
   [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-camera'></i> Showcases"
-    url = "showcase"
-    weight = 11
-
-  [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
-    identifier = "hugodoc"
-    url = "https://gohugo.io/"
+    name = "<i class='fab fa-fw fa-linkedin'></i> Pamasol on LinkedIn"
+    url = "https://www.linkedin.com/company/pamasol"
     weight = 20
 
   [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
-    url = "/credits"
+    name = "<i class='fab fa-fw fa-github'></i> Pamasol on GitHub"
+    identifier = "ds"
+    url = "https://github.com/pamasol/"
     weight = 30
