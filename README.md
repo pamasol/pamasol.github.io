@@ -26,3 +26,12 @@ Following commands are helpful:
 * `hugo help` gives you a command overview
 * `hugo server -D` runs a local server with drafts enabled.
 * `hugo -D` builds static pages
+
+
+# Base theme
+
+Update git submodule as follows.
+
+```
+git submodule update --remote --merge
+```

@@ -2,7 +2,7 @@ baseURL = "https://pamasol.github.io/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "Pamasol Electrics Portal"
+title = "Pamasol Electrics"
 theme = "hugo-theme-relearn"
 themesdir = "./themes"
 publishdir = "docs"
@@ -19,7 +19,7 @@ relativeURLs = true
   disableNextPrev = false
   disableLandingPageButton = true
   disableMermaid = false
-  titleSeparator = "::"
+  titleSeparator = "-"
   themeVariant = "pamasol"
 
 [outputs]
@@ -38,7 +38,7 @@ relativeURLs = true
 
 [Languages]
   [Languages.en]
-    title = "Pamasol Electrics Portal"
+    title = "Pamasol Electrics"
     weight = 1
     languageName = "English"
     landingPageURL = "/"
