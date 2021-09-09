@@ -34,4 +34,7 @@ Update git submodule as follows.
 
 ```
 git submodule update --remote --merge
+git add themes/hugo-theme-relearn
+git commit -m "update gitlink to themes/hugo-theme-relearn"
+git push
 ```
