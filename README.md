@@ -20,17 +20,25 @@ Source code of [pamasol.github.io](https://pamasol.github.io/) website, based on
 
 5. Reboot your PC.
 
-6. Now you can use hugo with your prefered CLI
+6. Go to `C:\Hugo\Sites` and run ([Git](https://git-scm.com/downloads) must be installed on your machine):
+    ```
+    git clone https://github.com/pamasol/pamasol.github.io.git
+    ```
 
-Following commands are helpful:
-* `hugo help` gives you a command overview
-* `hugo server -D` runs a local server with drafts enabled.
-* `hugo -D` builds static pages
+7. Cd into the project folder as follows:
+    ```
+    cd pamasol.github.io
+    ```
+
+8. Now you can run hugo comands. Following commands are helpful:
+    * `hugo help` gives you a command overview
+    * `hugo server -D` runs a local server with drafts enabled.
+    * `hugo -D` builds static pages
 
 
-# Base theme
+# Base theme update
 
-Update git submodule as follows.
+This template is based on the [Hugo Relearn Theme](https://github.com/McShelby/hugo-theme-relearn) from [@McShelby](https://github.com/McShelby). Many thanks to him for this great piece of code.
 
 ```
 git submodule update --remote --merge

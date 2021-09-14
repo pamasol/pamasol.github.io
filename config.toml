@@ -1,5 +1,5 @@
 baseURL = "https://pamasol.github.io/"
-languageCode = "en-US"
+languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "Pamasol Electrics"
@@ -38,24 +38,52 @@ relativeURLs = true
 
 [Languages]
   [Languages.en]
-    title = "Pamasol Electrics"
+    title = "Pamasol Electrics Portal"
     weight = 1
     languageName = "English"
-    landingPageURL = "/"
+    landingPageURL = "/en"
     landingPageName = "<i class='fas fa-home'></i> Home"
 
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-globe-europe'></i> Pamasol Official Website"
+    identifier = "pamasolWebsite"
     url = "https://www.pamasol.com/"
     weight = 10
 
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fab fa-fw fa-linkedin'></i> Pamasol on LinkedIn"
+    identifier = "pamasolLinkedIn"
     url = "https://www.linkedin.com/company/pamasol"
     weight = 20
 
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fab fa-fw fa-github'></i> Pamasol on GitHub"
-    identifier = "ds"
+    identifier = "pamasolGitHub"
     url = "https://github.com/pamasol/"
     weight = 30
+
+  [Languages.de]
+    title = "Documentat'n fer Cap'n Hugo Relearrrn Theme"
+    weight = 1
+    languageName = "Deutsch"
+    landingPageURL = "/de"
+    landingPageName = "<i class='fas fa-home'></i> Startseite"
+
+  [[Languages.de.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-globe-europe'></i> Offizielle Webseite von Pamasol"
+    identifier = "pamasolWebsite"
+    url = "https://www.pamasol.com/"
+    weight = 10
+
+  [[Languages.de.menu.shortcuts]]
+    name = "<i class='fab fa-fw fa-linkedin'></i> Pamasol auf LinkedIn"
+    identifier = "pamasolLinkedIn"
+    url = "https://www.linkedin.com/company/pamasol"
+    weight = 20
+
+  [[Languages.de.menu.shortcuts]]
+    name = "<i class='fab fa-fw fa-github'></i> Pamasol auf GitHub"
+    identifier = "pamasolGitHub"
+    url = "https://github.com/pamasol/"
+    weight = 30
+

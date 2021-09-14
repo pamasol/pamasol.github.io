@@ -1,0 +1,11 @@
++++
+title = "Relearn Theme for Hugo"
++++
+
+# Hugo Relearn Theme
+
+[Hugo-theme-relearn](http://github.com/McShelby/hugo-theme-relearn) is a theme for [Hugo](https://gohugo.io/), a static website generator written in Go. Where Hugo is often used for blogs, this theme is designed with documentation in mind.
+
+{{% notice info %}}
+The theme initially was a fork of the great [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) with the aim of fixing long outstanding bugs and adepting to latest Hugo features. As far as possible this theme tries to be a drop-in replacement for hugo-theme-learn.
+{{% /notice %}}
