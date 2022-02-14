@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Hugo 0.92.2" />
+    <meta name="generator" content="Relearn 2.9.6">
+    <meta name="description" content="Pamasol Electrics bietet Wissen in den Bereichen Maschinenbau, Elektrotechnik und Softwareentwicklung.">
+    <meta name="author" content="Pamasol">
+    <title>404 Page not found - Pamasol Electrics Portal</title><link rel="shortcut icon" href="../images/logo.svg" />
+    <link href="../css/nucleus.css?1644862803" rel="stylesheet">
+    <link href="../css/fontawesome-all.min.css?1644862803" rel="stylesheet">
+    <link href="../css/featherlight.min.css?1644862803" rel="stylesheet">
+    <link href="../css/perfect-scrollbar.min.css?1644862803" rel="stylesheet">
+    <link href="../css/auto-complete.css?1644862803" rel="stylesheet">
+    <link href="../css/theme.css?1644862803" rel="stylesheet">
+    <link id="variant-style" href="../css/theme-pamasol.css?1644862803" rel="stylesheet">
+    <link href="../css/variant.css?1644862803" rel="stylesheet">
+    <link href="../css/print.css?1644862803" rel="stylesheet" media="print">
+    <style>
+    </style>
+    <script>
+      
+      
+      var theme = window.localStorage.getItem( 'theme' );
+      changeTheme( theme );
+      function getTheme(){
+        var link = document.querySelector( '#variant-style' );
+        if( !link ){
+          return;
+        }
+        var path = link.getAttribute( 'href' );
+        var theme = path.match(/^.*\/theme-(.*?)\.css.*$/)[ 1 ];
+        return theme;
+      }
+      function markTheme( theme ){
+        var select = document.querySelector( '#select-theme' );
+        if( !select ){
+          return;
+        }
+        select.value = theme;
+      }
+      function changeTheme( theme ){
+        var themes = [ "pamasol" ];
+        if( !themes.find( function(e){ return e==theme; } ) ){
+          theme = themes.length ? themes[ 0 ] : null;
+        }
+        if( !theme ){
+          return;
+        }
+        var link = document.querySelector( '#variant-style' );
+        if( !link ){
+          return;
+        }
+        var old_path = link.getAttribute( 'href' );
+        var new_path = old_path.replace( /^(.*\/theme-).*?(\.css.*)$/, '$1' + theme + '$2' );
+        if( old_path != new_path ){
+          window.localStorage.setItem( 'theme', theme );
+          link.setAttribute( 'href', new_path );
+          markTheme( theme );
+          
+          
+          
+          if( document.activeElement ){
+            document.activeElement.blur();
+          }
+        }
+      }
+    </script>
+    <script src="../js/jquery.min.js?1644862803"></script>
+    <style>
+      p, li, ul {
+        text-align: center
+      }
+      ul {
+        list-style-type: none;
+      }
+    </style>
+  </head>
+  <body class="default-animation" data-url="../">
+    <div id="body default-animation" style="margin-left:0px;">
+      <div id="overlay"></div>
+      <div id="chapter">
+        <main id="body-inner">
+          <h1>Error</h1>
+          <p></p>
+          <p>Woops. Looks like this page doesn&#39;t exist ¯\_(ツ)_/¯.</p>
+          <p></p>
+          <p><a href="../en/">Go to homepage</a></p>
+          <p><img src="../images/gopher-404.jpg" style="width:50%" alt="Page not found!"></p>
+        </main>
+      </div>
+    </div>
+  </body>
+</html>
