@@ -1,11 +1,9 @@
 +++
-title = "Relearn Theme for Hugo"
+title = "Pamasol Elektroabteilung"
 +++
 
-# Hugo Relearn Theme
-
-[Hugo-theme-relearn](http://github.com/McShelby/hugo-theme-relearn) is a theme for [Hugo](https://gohugo.io/), a static website generator written in Go. Where Hugo is often used for blogs, this theme is designed with documentation in mind.
+# Pamasol Electrics Portal
 
 {{% notice info %}}
-The theme initially was a fork of the great [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) with the aim of fixing long outstanding bugs and adepting to latest Hugo features. As far as possible this theme tries to be a drop-in replacement for hugo-theme-learn.
+Dieses Webportal wird von technikbegeisterten Mitarbeitern und Lernenden der Pamasol Willi Mäder AG gepflegt. Primär werden Projekte und Themen behandelt, welche Elektrotechniker und SPS-Softwareentwickler sowie Jugendliche mit Interesse des Berufes [Automatiker](https://www.swissmechanic.ch/grundbildung-erwachsenenbildung/deine-lehre-grundbildung/artmid/786/articleid/105/automatikerin-efz) ansprechen sollen. Die offizielle Webseite von Pamasol erreicht man unter [www.pamasol.com](https://www.pamasol.com).
 {{% /notice %}}

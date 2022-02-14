@@ -4,7 +4,8 @@ Source code of [pamasol.github.io](https://pamasol.github.io/) website, based on
 ## Installation
 
 1. Create following folders on your machine:
-    ```
+
+    ```bash
     C:\Hugo\bin
     C:\Hugo\Sites
     ```
@@ -14,19 +15,22 @@ Source code of [pamasol.github.io](https://pamasol.github.io/) website, based on
 3. Extract all contents to your `C:\Hugo\bin` folder.
 
 4. In [CMD](https://en.wikipedia.org/wiki/Cmd.exe), add the `hugo.exe` executable to your `PATH` with the following command (you need administrator privileges):
-    ```
+
+    ```bash
     set PATH=%PATH%;C:\Hugo\bin
     ```
 
 5. Reboot your PC.
 
 6. Go to `C:\Hugo\Sites` and run ([Git](https://git-scm.com/downloads) must be installed on your machine):
-    ```
+
+    ```bash
     git clone https://github.com/pamasol/pamasol.github.io.git
     ```
 
 7. Cd into the project folder as follows:
-    ```
+
+    ```bash
     cd pamasol.github.io
     ```
 
@@ -40,7 +44,7 @@ Source code of [pamasol.github.io](https://pamasol.github.io/) website, based on
 
 This template is based on the [Hugo Relearn Theme](https://github.com/McShelby/hugo-theme-relearn) from [@McShelby](https://github.com/McShelby). Many thanks to him for this great piece of code.
 
-```
+```bash
 git submodule update --remote --merge
 git add themes/hugo-theme-relearn
 git commit -m "update gitlink to themes/hugo-theme-relearn"
