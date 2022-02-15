@@ -1,7 +1,7 @@
 +++
-chapter = true
+chapter = false
 title = "Support"
-weight = 1
+weight = 10
 +++
 
 ### Kapitel 1
