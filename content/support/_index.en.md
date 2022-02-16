@@ -10,4 +10,4 @@ The machine is down, red LEDs everywhere (or nowhere), operators and managers ar
 
 At such a moment it is important to remain calm, analyzing the situation and if necessary, contact the product support or after-sales team of the machine manufacturer.
 
-This chapter describes how to get efficient and quick support by Pamasol.
+This chapter describes how to get efficient and quick support by Pamasol After-Sales.

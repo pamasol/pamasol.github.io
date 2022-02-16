@@ -5,7 +5,7 @@ weight = 2
 
 ## Let a software engineer check your machine remotely
 
-Most Pamasol machines are equipped with a secure industrial **remote access device**. In many cases it is as blue colored unit with the label "EWON" or "VIPA" that can be found in the main control cabinet. The following picture shows the modem which acts as VPN connector.
+Most Pamasol machines are equipped with a secure industrial **remote access device**. In many cases it is as blue colored unit with the label "EWON" or "VIPA" that can be found in the main control cabinet. The following picture shows the modem which acts as VPN router.
 
 ![Industrial modem](images/ewon_industrial_modem.en.png?width=100%)
 
@@ -13,7 +13,7 @@ Most Pamasol machines are equipped with a secure industrial **remote access devi
 
 ![Front side view](images/ewon_front_side.en.png?width=100%)
 
-Some modems come with a 2 position knob rotary switch, where internet access can be switched on and off for the modem hardware wise. Check if it is switched on.
+Some modems come with a 2 position knob rotary switch, where internet access can be switched on and off hardware wise. Check if it is switched on.
 
 Following LEDs need to light green:
 

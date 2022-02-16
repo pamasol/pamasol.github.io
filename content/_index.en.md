@@ -1,5 +1,5 @@
 +++
-title = "Pamasol Electrics Portal"
+title = "Pamasol unofficial"
 +++
 
 # Pamasol Electrics Portal
