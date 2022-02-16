@@ -7,7 +7,7 @@ weight = 1
 
 In a first step the after-sales team member needs to know the **serial number** of the affected machine. In case of an electrical or software issue, it can be found in the main control cabinet on the most left door inside. See image below. An example for a serial number could be 12345-A1.
 
-![Control cabinet type plate](images/control_cabinet_type_plate.png?width=100%)
+![Control cabinet type plate](images/control_cabinet_type_plate.en.png?width=100%)
 
 In a second step try to describe the error or malfunction. You should also ask yourself or your team mates the following questions:
 

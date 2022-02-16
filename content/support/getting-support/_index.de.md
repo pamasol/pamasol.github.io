@@ -7,7 +7,7 @@ weight = 1
 
 In einem ersten Schritt muss das After-Sales Team die **Seriennummer** der betroffenen Maschine kennen. Im Falle eines Problems mit Elektrotechnik oder Software ist die Seriennummer vom Schaltschrank entscheidend. Diese findet man auf dem Typenschild, welches auf der Türe ganz Link an der Innenseite angebracht ist. Siehe dazu folgendes Bild. Ein Beispiel für eine Seriennummer ist 12345-A1.
 
-![Control cabinet type plate](images/control_cabinet_type_plate.png?width=100%)
+![Control cabinet type plate](images/control_cabinet_type_plate.de.png?width=100%)
 
 In einem zweiten Schritt muss der Fehler oder die Störung beschrieben werden. Im Idealfall hat man eine Antwort folgende Fragen:
 
