@@ -9,7 +9,7 @@ In a first step the after-sales team member needs to know the **serial number** 
 
 ![Control cabinet type plate](images/control_cabinet_type_plate.png?width=100%)
 
-In a second step try to describe the error or mailfunction. You should also ask yourself or your team mates the following questions:
+In a second step try to describe the error or malfunction. You should also ask yourself or your team mates the following questions:
 
 1. Do you see any error **messages or warnings on the HMI**? Does a red or yellow LED light up on control panel or a stack light?
 

@@ -11,14 +11,17 @@
       <link>https://pamasol.github.io/de/support/getting-support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pamasol.github.io/de/support/getting-support/</guid>
-      <description>Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.</description>
+      <description>Collect information before contacting support In einem ersten Schritt muss das After-Sales Team die Seriennummer der betroffenen Maschine kennen. Im Falle eines Problems mit Elektrotechnik oder Software ist die Seriennummer vom Schaltschrank entscheidend. Diese findet man auf dem Typenschild, welches auf der Türe ganz Link an der Innenseite angebracht ist. Siehe dazu folgendes Bild. Ein Beispiel für eine Seriennummer ist 12345-A1.
+In einem zweiten Schritt muss der Fehler oder die Störung beschrieben werden.</description>
     </item>
     <item>
       <title>Fernwartung</title>
       <link>https://pamasol.github.io/de/support/remote-connection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pamasol.github.io/de/support/remote-connection/</guid>
-      <description>Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.</description>
+      <description>Fehleranalyse via Fernwartung von Pamasol auf die Kundenanlage Die meisten Anlagen sind mit einem Fernwartungsmodul ausgestattet, welches eine sichere Verbindung via Internet von der Anlage zum Pamasol Techniker herstellt.
+Es handelt sich grösstenteils um ein blau gefärbtes Gerät von den Herstellern «EWON» oder «VIPA», welches im Hauptschaltschrank eingebaut ist. Das folgend Bild zeigt ein EWON Gateway, eingebaut im Schaltschrank.
+Suchen Sie nach dem Fernwartungsmodul im Schaltschrank und verbinden Sie das Ethernet Kabel, welches eine Internetverbindung bereitstellt mit Port Nummer 4, wie folgend gezeigt.</description>
     </item>
   </channel>
 </rss>

@@ -30,3 +30,7 @@ See also image below.
 Typically, **your IT department** needs to do nothing for using the modem. The VPN tunnels are initiated by the router and use only outgoing connections. No incoming connections are made,
 so no ports need to be enabled in your corporate firewall for incoming connections. In addition, it is designed to be minimally intrusive by using outgoing ports that are usually already enabled (HTTPS port 443 or UDP port 1194).
 {{% /notice %}}
+
+{{% notice tip %}}
+If the IT department does not provide internet connection via company network, a **GSM modem** can be used as well. In this case the company network and the machine are strictly separated.
+{{% /notice %}}

@@ -4,8 +4,10 @@ title = "Support"
 weight = 10
 +++
 
-### Kapitel 1
+## Kundensupport erhalten
 
-# Kundensupport
+Die Maschine läuft nicht, rote LEDs leuchten überall (oder nirgends), Linien-Bediener und Vorgesetzte schauen Sie mit der Erwartung an, das Problem im Nu zu finden und zu beheben.
 
-Discover what this Hugo theme is all about and the core-concepts behind it.
+In diesem Moment ist es wichtig, Ruhe zu bewahren, die Situation zu analysieren und allenfalls den Produkt-Support oder die After-Sales Abteilung vom Maschinenhersteller zu kontaktieren.
+
+Dieses Kapitel beschreibt, wie man sich vorbereiten kann, um effiziente und schnelle Hilfe von der Pamasol After-Sales Abteilung zu erhalten.

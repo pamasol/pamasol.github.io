@@ -8,16 +8,16 @@
     <meta name="description" content="Pamasol Electrics bietet Wissen in den Bereichen Maschinenbau, Elektrotechnik und Softwareentwicklung.">
     <meta name="author" content="Pamasol">
     <title>Fernwartung - Documentat&#39;n fer Cap&#39;n Hugo Relearrrn Theme</title>
-    <link rel="alternate" type="application/rss&#43;xml" href="../../../de/support/remote-connection/index.xml" title="Documentat&#39;n fer Cap&#39;n Hugo Relearrrn Theme" /><link rel="shortcut icon" href="../../../images/logo.svg" />
-    <link href="../../../css/nucleus.css?1644992764" rel="stylesheet">
-    <link href="../../../css/fontawesome-all.min.css?1644992764" rel="stylesheet">
-    <link href="../../../css/featherlight.min.css?1644992764" rel="stylesheet">
-    <link href="../../../css/perfect-scrollbar.min.css?1644992764" rel="stylesheet">
-    <link href="../../../css/auto-complete.css?1644992764" rel="stylesheet">
-    <link href="../../../css/theme.css?1644992764" rel="stylesheet">
-    <link id="variant-style" href="../../../css/theme-pamasol.css?1644992764" rel="stylesheet">
-    <link href="../../../css/variant.css?1644992764" rel="stylesheet">
-    <link href="../../../css/print.css?1644992764" rel="stylesheet" media="print">
+    <link rel="alternate" type="application/rss&#43;xml" href="../../../de/support/remote-connection/index.xml" title="Documentat&#39;n fer Cap&#39;n Hugo Relearrrn Theme" /><link rel="shortcut icon" href="../../../images/favicon.png" />
+    <link href="../../../css/nucleus.css?1645008275" rel="stylesheet">
+    <link href="../../../css/fontawesome-all.min.css?1645008275" rel="stylesheet">
+    <link href="../../../css/featherlight.min.css?1645008275" rel="stylesheet">
+    <link href="../../../css/perfect-scrollbar.min.css?1645008275" rel="stylesheet">
+    <link href="../../../css/auto-complete.css?1645008275" rel="stylesheet">
+    <link href="../../../css/theme.css?1645008275" rel="stylesheet">
+    <link id="variant-style" href="../../../css/theme-pamasol.css?1645008275" rel="stylesheet">
+    <link href="../../../css/variant.css?1645008275" rel="stylesheet">
+    <link href="../../../css/print.css?1645008275" rel="stylesheet" media="print">
     <style>
     </style>
     <script>
@@ -68,7 +68,7 @@
         }
       }
     </script>
-    <script src="../../../js/jquery.min.js?1644992764"></script>
+    <script src="../../../js/jquery.min.js?1645008275"></script>
   </head>
   <body class="default-animation" data-url="../../../de/support/remote-connection/">
     <!-- hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic: -->
@@ -156,9 +156,9 @@ href="../../../de/">
           <input data-search-input id="search-by" type="search" placeholder="Suchen...">
           <span data-search-clear=""><i class="fas fa-times"></i></span>
         </div>
-        <script src="../../../js/lunr.min.js?1644992764"></script>
-        <script src="../../../js/auto-complete.js?1644992764"></script>
-        <script src="../../../js/search.js?1644992764"></script>
+        <script src="../../../js/lunr.min.js?1645008275"></script>
+        <script src="../../../js/auto-complete.js?1645008275"></script>
+        <script src="../../../js/search.js?1645008275"></script>
       </div>
       <div class="highlightable">
         <ul class="topics">
@@ -239,11 +239,7 @@ Fernwartung<i class="fas fa-check read-icon"></i></a><ul></ul></li></ul></li>
               <div class="wrapper">
 <nav id="TableOfContents">
   <ul>
-    <li>
-      <ul>
-        <li><a href="#chapter-1">Chapter 1</a></li>
-      </ul>
-    </li>
+    <li><a href="#fehleranalyse-via-fernwartung-von-pamasol-auf-die-kundenanlage">Fehleranalyse via Fernwartung von Pamasol auf die Kundenanlage</a></li>
   </ul>
 </nav>
               </div>
@@ -254,9 +250,32 @@ Fernwartung<i class="fas fa-check read-icon"></i></a><ul></ul></li></ul></li>
         <main id="body-inner">
           <h1>Fernwartung</h1>
 
-<h3 id="chapter-1">Chapter 1</h3>
-<h1 id="basics">Basics</h1>
-<p>Discover what this Hugo theme is all about and the core-concepts behind it.</p>
+<h2 id="fehleranalyse-via-fernwartung-von-pamasol-auf-die-kundenanlage">Fehleranalyse via Fernwartung von Pamasol auf die Kundenanlage</h2>
+<p>Die meisten Anlagen sind mit einem <strong>Fernwartungsmodul</strong> ausgestattet, welches eine sichere Verbindung via Internet von der Anlage zum Pamasol Techniker herstellt.</p>
+<p>Es handelt sich grösstenteils um ein blau gefärbtes Gerät von den Herstellern «EWON» oder «VIPA», welches im Hauptschaltschrank eingebaut ist. Das folgend Bild zeigt ein EWON Gateway, eingebaut im Schaltschrank.</p>
+<p><img src="images/ewon_industrial_modem.png?width=100%25" alt="Fernwartungsmodul im Schaltschrank"></p>
+<p><strong>Suchen Sie nach dem Fernwartungsmodul</strong> im Schaltschrank und verbinden Sie das Ethernet Kabel, welches eine <strong>Internetverbindung</strong> bereitstellt mit <strong>Port Nummer 4</strong>, wie folgend gezeigt.</p>
+<p><img src="images/ewon_front_side.png?width=100%25" alt="Frontseite des Modems"></p>
+<p>Bei einigen Modems ist zusätzlich ein Drehschalter eingebaut, mit welchem der Internetzugang des Modems hardwaremässig abgeschaltet werden kann. Prüfen Sie, ob dieser Schalter eingeschaltet ist.</p>
+<p>Folgende Status LEDs müssen leuchten, damit das Modem korrekt arbeiten kann:</p>
+<ul>
+<li><strong>PWR</strong> = Dauerhaft grün</li>
+<li><strong>USR</strong> = Langsam blinkend grün</li>
+<li><strong>T2M</strong> = Dauerhaft grün</li>
+<li><strong>@</strong>   = Dauerhaft grün</li>
+</ul>
+<p>Siehe dazu auch folgende Illustration.</p>
+<p><img src="images/ewon_status_leds_general.png?width=100%25" alt="Status LEDs Legende"></p>
+
+<div class="notices info">
+    <div class="label">Info</div>
+<p>Normalerweise muss <strong>Ihre IT-Abteilung</strong> nichts tun, damit sich das Modem mit dem Server verbinden kann. Der VPN-Tunnel wird vom Modem initiiert. Es gibt nur eine ausgehende Verbindung (HTTPS-Port 443 oder UDP-Port 1194) und keine eingehenden Verbindungen. Deshalb müssen in der Firewall auch keine Ports freigegeben werden.</p>
+</div>
+
+<div class="notices tip">
+    <div class="label">Tipp</div>
+<p>Wenn die IT-Abteilung keine Internetverbindung über das Firmennetzwerk zulässt, kann alternativ ein <strong>GSM-Modem</strong> verwendet werden. In diesem Fall sind Firmennetzwerk und Anlage strikt getrennt.</p>
+</div>
 
           <footer class=" footline">
           </footer>
@@ -269,18 +288,18 @@ Fernwartung<i class="fas fa-check read-icon"></i></a><ul></ul></li></ul></li>
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="../../../js/clipboard.min.js?1644992764"></script>
-    <script src="../../../js/perfect-scrollbar.min.js?1644992764"></script>
-    <script src="../../../js/perfect-scrollbar.jquery.min.js?1644992764"></script>
-    <script src="../../../js/jquery.svg.pan.zoom.js?1644992764"></script>
-    <script src="../../../js/featherlight.min.js?1644992764"></script>
-    <script src="../../../js/modernizr.custom-3.6.0.js?1644992764"></script>
-    <script src="../../../js/mermaid.min.js?1644992764"></script>
+    <script src="../../../js/clipboard.min.js?1645008275"></script>
+    <script src="../../../js/perfect-scrollbar.min.js?1645008275"></script>
+    <script src="../../../js/perfect-scrollbar.jquery.min.js?1645008275"></script>
+    <script src="../../../js/jquery.svg.pan.zoom.js?1645008275"></script>
+    <script src="../../../js/featherlight.min.js?1645008275"></script>
+    <script src="../../../js/modernizr.custom-3.6.0.js?1645008275"></script>
+    <script src="../../../js/mermaid.min.js?1645008275"></script>
     <script>
       if (typeof mermaid != 'undefined' && typeof mermaid.mermaidAPI != 'undefined') {
         mermaid.mermaidAPI.initialize( Object.assign( { "securityLevel": "antiscript" }, JSON.parse("{ \"startOnLoad\": true }"), { startOnLoad: false } ) );
       }
     </script>
-    <script src="../../../js/relearn.js?1644992764"></script>
+    <script src="../../../js/relearn.js?1645008275"></script>
   </body>
 </html>
