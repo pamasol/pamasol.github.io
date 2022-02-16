@@ -1,5 +1,5 @@
 +++
-title = "Pamasol Inofiziell"
+title = "Startseite"
 +++
 
 # Pamasol Electrics Portal
