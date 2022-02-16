@@ -1,5 +1,26 @@
 [
   {
+    "content": "Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.\n",
+    "description": "",
+    "tags": null,
+    "title": "Anfrage vorbereiten",
+    "uri": "/de/support/getting-support/"
+  },
+  {
+    "content": "Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.\n",
+    "description": "",
+    "tags": null,
+    "title": "Fernwartung",
+    "uri": "/de/support/remote-connection/"
+  },
+  {
+    "content": "Kapitel 1 Kundensupport Discover what this Hugo theme is all about and the core-concepts behind it.\n",
+    "description": "",
+    "tags": null,
+    "title": "Support",
+    "uri": "/de/support/"
+  },
+  {
     "content": "",
     "description": "",
     "tags": null,

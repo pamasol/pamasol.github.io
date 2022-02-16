@@ -6,5 +6,12 @@
     <description>Recent content in Pamasol Elektroabteilung on Documentat&#39;n fer Cap&#39;n Hugo Relearrrn Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://pamasol.github.io/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Support</title>
+      <link>https://pamasol.github.io/de/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pamasol.github.io/de/support/</guid>
+      <description>Kapitel 1 Kundensupport Discover what this Hugo theme is all about and the core-concepts behind it.</description>
+    </item>
   </channel>
 </rss>
