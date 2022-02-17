@@ -22,9 +22,11 @@ Following LEDs need to light green:
 * **T2M** = Steady green
 * **@**   = Steady green
 
-See also image below.
-
 ![Status LEDs general](images/ewon_status_leds_general.en.png)
+
+The image below shows a modem that connected successfully. There is an **internet connection (@)** and it was able to **register at the server (T2M)**. The orange LED below the RJ45 port lights up constantly whereas the green LED lights up almost all the time (short interruptions that visualize the communication).
+
+![Connected modem](images/ewon_modem_connected_to_server.en.png)
 
 {{% notice info %}}
 Typically, **your IT department** needs to do nothing for using the modem. The VPN tunnels are initiated by the router and use only outgoing connections. No incoming connections are made,

@@ -19,7 +19,7 @@ In a second step try to describe the error or malfunction. You should also ask y
 
 4. Has **something been changed prior** to the error occurrence? For example, was there a changeover, centerlining, servicing, shift change, recipe change?
 
-5. **Have you been in contact** with the after sales team regarding this machine or this issue **in the past** already?
+5. **Had you been in contact** with the after sales team regarding this machine or this issue **in the past** already?
 
 6. Has some **troubleshooting been performed already**? If so, what has been tested or checked?
 

@@ -24,9 +24,11 @@ Folgende Status LEDs müssen leuchten, damit das Modem korrekt arbeiten kann:
 * **T2M** = Dauerhaft grün
 * **@**   = Dauerhaft grün
 
-Siehe dazu auch folgende Illustration.
-
 ![Status LEDs Legende](images/ewon_status_leds_general.de.png)
+
+Das folgende Bild zeigt ein Modem, welches sich erfolgreich verbinden konnte. Zum einen leuchtet die **@-LED**, welche für Internetverbindung steht. Zum anderen leuchtet auch die **T2M-LED**, welche die erfolgreiche Anmeldung auf dem Fernwartungsserver anzeigt. Die orange LED beim RJ45 Stecker leuchtet permanent, während die grüne LED kurzzeitig unterbricht (Visualisierung Kommunikation).
+
+![Connected modem](images/ewon_modem_connected_to_server.de.png)
 
 {{% notice info %}}
 Normalerweise muss **Ihre IT-Abteilung** nichts tun, damit sich das Modem mit dem Server verbinden kann. Der VPN-Tunnel wird vom Modem initiiert. Es gibt nur eine ausgehende Verbindung (HTTPS-Port 443 oder UDP-Port 1194) und keine eingehenden Verbindungen. Deshalb müssen in der Firewall keine Ports freigegeben werden.

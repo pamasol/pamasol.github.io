@@ -10,4 +10,5 @@ Diese Webseite wird von technikbegeisterten Mitarbeitern und Lernenden der Pamas
 
 ## Changelog
 
+* **17-Feb-22:** Kapitel Support erweitert mit Foto von EWON Cosy 131
 * **16-Feb-22:** Kapitel Support hinzugefügt
