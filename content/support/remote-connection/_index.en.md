@@ -9,7 +9,7 @@ Most Pamasol machines are equipped with a secure industrial **remote access devi
 
 ![Industrial modem](images/ewon_industrial_modem.en.png)
 
-**Locate this device** in your control cabinet and provide internet connection via Ethernet cable if it hasn't been done already. The RJ45 **cable with internet connection** needs to be connected to **port number 4** as shown below.
+**Locate this device** in your control cabinet and provide internet connection via Ethernet cable if it hasn't been done already. The RJ45 **cable with internet connection** needs to be connected to **port number 4**, which is the WAN port, as shown below.
 
 ![Front side view](images/ewon_front_side.en.png)
 

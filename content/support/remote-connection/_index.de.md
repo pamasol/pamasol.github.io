@@ -11,7 +11,7 @@ Es handelt sich grösstenteils um ein blau gefärbtes Gerät von den Herstellern
 
 ![Fernwartungsmodul im Schaltschrank](images/ewon_industrial_modem.de.png)
 
-**Suchen Sie nach dem Fernwartungsmodul** im Schaltschrank und verbinden Sie das Ethernet Kabel, welches eine **Internetverbindung** bereitstellt mit **Port Nummer 4**, wie folgend gezeigt.
+**Suchen Sie nach dem Fernwartungsmodul** im Schaltschrank und verbinden Sie das Ethernet Kabel, welches eine **Internetverbindung** bereitstellt, mit **Port Nummer 4** (WAN Port), wie folgend gezeigt.
 
 ![Frontseite des Modems](images/ewon_front_side.de.png)
 
