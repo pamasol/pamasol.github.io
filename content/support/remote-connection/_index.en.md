@@ -30,7 +30,7 @@ The image below shows a modem that connected successfully. There is an **interne
 
 ## Firewall settings
 
-Typically, **your IT department** needs to do nothing for using the modem. The VPN tunnels are initiated by the router and use only outgoing connections. No incoming connections are made, so no ports need to be enabled in your corporate firewall for incoming connections. In addition, it is designed to be minimally intrusive by using outgoing ports that are usually already enabled (HTTPS port 443 or UDP port 1194).
+Typically, **your IT department** needs to do nothing for using the modem. The VPN tunnels are initiated by the router and use only outgoing connections. No incoming connections are made, so no ports need to be enabled in your corporate firewall for incoming connections. In addition, it is designed to be minimally intrusive by using outgoing ports that are usually already enabled (**HTTPS port 443** or **UDP port 1194**).
 
 {{% notice info %}}
 If there are any connection  issues (and therefore T2M does not light), it is reccomeneded, **whitelisting** URL `*.talk2m.com` by your IT department.
