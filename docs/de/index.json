@@ -7,6 +7,20 @@
     "uri": "/de/support/getting-support/"
   },
   {
+    "content": "Baue eine Bahnlampe in der Schnupperlehre Auf der Webseite von Pamasol kannst du dich zu allen Lehrberufen informieren, welche angeboten werden.\nInteressiert dich ein Beruf? Beispielsweise der des Automatikers? Dann nichts wie los, melde dich zur Schnupperlehre an und du erhältst einen Einblick in die spannende Welt des Maschinenbaus – angefangen von mechanischen Bearbeitung und Montage, über die Verdrahtung von Elektrokomponenten bis hin zur Softwareentwicklung.\nWährend deiner Schnupperlehre baust du eine Bahnlampe aus Aluminium- und Plexiglasteilen. Dazu kommen Elektrokomponenten, welche nach einem Elektroschema gelötet, und somit zu einem elektrischen Schaltkreis zusammengebaut werden. Die Lampe kannst du mit nach Hause nehmen. Sie spendet Licht und es gibt eine Morsefunktion.\nNeben der Bahnlampe erhältst du einen authentischen Einblick in unser tägliches Schaffen und die damit verbundenen, spannenden Herausforderungen.\nInfo\rWende dich an Andreas Rüttimann andreas.ruettimann@pamasol.com oder Telefon +41 55 417 40 40, um dich für eine Schnupperlehre anzumelden.\n ",
+    "description": "",
+    "tags": null,
+    "title": "Schnupperlehre",
+    "uri": "/de/railway-light/"
+  },
+  {
+    "content": "Roboter programmieren für lernende Automatiker    Name Lehrjahr Lehrberuf Dokumentation     Marvin Büeler 2016-2020 Automatiker Download PDF   Joel Glaus 2017-2021 Automatiker    David Bernhard 2018-2022 Automatiker    Jonas Bisig 2018-2022 Automatiker Download PDF   Stefan Feier 2019-2023 Automatiker    Nicolas Diethelm 2020-2024 Automatiker    Flavio Knobel 2020-2024 Automatiker     Tipp\rDie Projektbeschreibung in Englisch sowie alle Aufgaben und Hilfestellungen gibt es auf GitHub: https://github.com/pamasol/Lehrlingsprojekt-Nibo-Burger\n ",
+    "description": "",
+    "tags": null,
+    "title": "Elektronikprojekt",
+    "uri": "/de/electronic-project/"
+  },
+  {
     "content": "Fehleranalyse und Support via Fernwartung Die meisten Anlagen sind mit einem Fernwartungsmodul ausgestattet, welches eine sichere Verbindung via Internet von der Anlage zum Pamasol Techniker herstellt.\nEs handelt sich grösstenteils um ein blau gefärbtes Gerät von den Herstellern «EWON» oder «VIPA», welches im Hauptschaltschrank eingebaut ist. Das folgende Bild zeigt ein EWON Gateway.\nSuchen Sie nach dem Fernwartungsmodul im Schaltschrank und verbinden Sie das Ethernet Kabel, welches eine Internetverbindung bereitstellt, mit Port Nummer 4 (WAN Port), wie folgend gezeigt.\nBei einigen Modems ist zusätzlich ein Drehschalter eingebaut, mit welchem der Internetzugang des Modems hardwaremässig abgeschaltet werden kann. Prüfen Sie, ob dieser Schalter eingeschaltet ist.\nFolgende Status LEDs müssen leuchten, damit das Modem korrekt arbeiten kann:\n PWR = Dauerhaft grün USR = Langsam blinkend grün T2M = Dauerhaft grün @ = Dauerhaft grün  Das folgende Bild zeigt ein Modem, welches sich erfolgreich verbinden konnte. Zum einen leuchtet die @-LED, welche für Internetverbindung steht. Zum anderen leuchtet auch die T2M-LED, welche die erfolgreiche Anmeldung auf dem Fernwartungsserver anzeigt. Die orange LED beim RJ45 Stecker leuchtet permanent, während die grüne LED kurzzeitig unterbricht (Visualisierung Kommunikation).\nFirewall Einstellungen Normalerweise muss Ihre IT-Abteilung nichts tun, damit sich das Modem mit dem Server verbinden kann. Der VPN-Tunnel wird vom Modem initiiert. Es gibt nur eine ausgehende Verbindung (HTTPS-Port 443 oder UDP-Port 1194) und keine eingehenden Verbindungen. Deshalb müssen in der Firewall keine Ports freigegeben werden.\nInfo\rWenn es Verbindungsprobleme gibt (und LED T2M nicht leuchtet), wird empfohlen, die URL *.talk2m.com von Ihrer IT-Abteilung auf die Whitelist zu setzen.\n Tipp\rWenn die IT-Abteilung keine Internetverbindung über das Firmennetzwerk zulässt, kann alternativ ein GSM-Modem verwendet werden. In diesem Fall sind Firmennetzwerk und Anlage strikt getrennt.\n ",
     "description": "",
     "tags": null,

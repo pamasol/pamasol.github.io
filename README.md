@@ -34,20 +34,14 @@ Source code of [pamasol.github.io](https://pamasol.github.io/) website, based on
     cd pamasol.github.io
     ```
 
-8. Now you can run hugo comands. Following commands are helpful:
+8. This template is based on the [Hugo Relearn Theme](https://github.com/McShelby/hugo-theme-relearn) from [@McShelby](https://github.com/McShelby). Many thanks to him for this great piece of code. The submodule can be downloaded as follows:
+
+    ```bash
+    git submodule init
+    git submodule update
+    ```
+
+9. Now you can run hugo comands. Following commands are helpful:
     * `hugo help` gives you a command overview
     * `hugo server -D` runs a local server with drafts enabled.
     * `hugo -D` builds static pages
-
-
-# Base theme update
-
-This template is based on the [Hugo Relearn Theme](https://github.com/McShelby/hugo-theme-relearn) from [@McShelby](https://github.com/McShelby). Many thanks to him for this great piece of code.
-
-```bash
-git submodule update --remote --merge
-git add themes/hugo-theme-relearn
-git commit -m "update gitlink to themes/hugo-theme-relearn"
-git push
-cd themes/hugo-theme-relearn
-```
