@@ -9,15 +9,15 @@
     <meta name="author" content="Pamasol">
     <title>Elektronikprojekt - Documentat&#39;n fer Cap&#39;n Hugo Relearrrn Theme</title>
     <link rel="alternate" type="application/rss&#43;xml" href="../../de/electronic-project/index.xml" title="Documentat&#39;n fer Cap&#39;n Hugo Relearrrn Theme" /><link rel="shortcut icon" href="../../images/favicon.png" />
-    <link href="../../css/nucleus.css?1646677866" rel="stylesheet">
-    <link href="../../css/fontawesome-all.min.css?1646677866" rel="stylesheet">
-    <link href="../../css/featherlight.min.css?1646677866" rel="stylesheet">
-    <link href="../../css/perfect-scrollbar.min.css?1646677866" rel="stylesheet">
-    <link href="../../css/auto-complete.css?1646677866" rel="stylesheet">
-    <link href="../../css/theme.css?1646677866" rel="stylesheet">
-    <link id="variant-style" href="../../css/theme-pamasol.css?1646677866" rel="stylesheet">
-    <link href="../../css/variant.css?1646677866" rel="stylesheet">
-    <link href="../../css/print.css?1646677866" rel="stylesheet" media="print">
+    <link href="../../css/nucleus.css?1646736784" rel="stylesheet">
+    <link href="../../css/fontawesome-all.min.css?1646736784" rel="stylesheet">
+    <link href="../../css/featherlight.min.css?1646736784" rel="stylesheet">
+    <link href="../../css/perfect-scrollbar.min.css?1646736784" rel="stylesheet">
+    <link href="../../css/auto-complete.css?1646736784" rel="stylesheet">
+    <link href="../../css/theme.css?1646736784" rel="stylesheet">
+    <link id="variant-style" href="../../css/theme-pamasol.css?1646736784" rel="stylesheet">
+    <link href="../../css/variant.css?1646736784" rel="stylesheet">
+    <link href="../../css/print.css?1646736784" rel="stylesheet" media="print">
     <style>
     </style>
     <script>
@@ -68,7 +68,7 @@
         }
       }
     </script>
-    <script src="../../js/jquery.min.js?1646677866"></script>
+    <script src="../../js/jquery.min.js?1646736784"></script>
   </head>
   <body class="default-animation" data-url="../../de/electronic-project/">
     <!-- hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic: -->
@@ -156,9 +156,9 @@ href="../../de/">
           <input data-search-input id="search-by" type="search" placeholder="Suchen...">
           <span data-search-clear=""><i class="fas fa-times"></i></span>
         </div>
-        <script src="../../js/lunr.min.js?1646677866"></script>
-        <script src="../../js/auto-complete.js?1646677866"></script>
-        <script src="../../js/search.js?1646677866"></script>
+        <script src="../../js/lunr.min.js?1646736784"></script>
+        <script src="../../js/auto-complete.js?1646736784"></script>
+        <script src="../../js/search.js?1646736784"></script>
       </div>
       <div class="highlightable">
         <ul class="topics">
@@ -241,7 +241,16 @@ Fernwartung<i class="fas fa-check read-icon"></i></a><ul></ul></li></ul></li>
               <div class="wrapper">
 <nav id="TableOfContents">
   <ul>
-    <li><a href="#roboter-programmieren-für-lernende-automatiker">Roboter programmieren für lernende Automatiker</a></li>
+    <li><a href="#roboter-programmieren-für-lernende-automatiker">Roboter programmieren für lernende Automatiker</a>
+      <ul>
+        <li><a href="#a-round-trip">A) Round trip</a></li>
+        <li><a href="#b-fraidy-cat">B) Fraidy cat</a></li>
+        <li><a href="#c-follow-me">C) Follow me</a></li>
+        <li><a href="#d-colour-detection">D) Colour detection</a></li>
+        <li><a href="#e-rabbit-warren">E) Rabbit warren</a></li>
+      </ul>
+    </li>
+    <li><a href="#dokumentation">Dokumentation</a></li>
   </ul>
 </nav>
               </div>
@@ -254,6 +263,26 @@ Fernwartung<i class="fas fa-check read-icon"></i></a><ul></ul></li></ul></li>
 
 <h2 id="roboter-programmieren-für-lernende-automatiker">Roboter programmieren für lernende Automatiker</h2>
 <p><img src="./images/nibo_group.de.jpg" alt="NIBO Burger Roboter"></p>
+<p>Neben Berufsschule, den überbetrieblichen <a href="https://www.swissmechanic.ch/">Swissmechanic</a> Kursen und dem praktischen Arbeiten an Aerosol-Anlagen für Kunden aus der ganzen Welt, arbeiten Automatiker Lernende bei Pamasol auch an Projekten, welche den Fokus auf ein bestimmtes Ausbildungsthema setzen.</p>
+<p>NIBO Burger repräsentiert das <strong>Elektronikprojekt</strong> der Ausbildung. Es handelt sich hierbei um einen kleinen Roboter, welcher von den Lernenden zusammengebaut, <strong>gelötet</strong> und in der <a href="https://de.wikipedia.org/wiki/C_(Programmiersprache)">Hochsprache C</a> programmiert wird.</p>
+<p>Die Aufgabenstellung, wie auch sämtliche Datenblätter und Wiki Beiträge sind in Englisch geschrieben. Nach dem Zusammenbau und den Funktionstests, erhalten die Lernenden eine Einführung in die <strong>C-Programmierung</strong>. Im Anschluss werden folgende «Master-Tasks» programmiert</p>
+<h3 id="a-round-trip">A) Round trip</h3>
+<p>Der Roboter muss genau 1.5m nach vorne fahren, eine 180° Drehung machen und wieder an seinen Startpunkt zurückkehren. Damit das funktioniert, müssen die <a href="https://de.wikipedia.org/wiki/Odometrie">Odometrie-Sensoren</a> der Räder ausgelesen und verglichen werden. Basierend darauf werden die <a href="https://de.wikipedia.org/wiki/Regler#PID-Regler">PID-geregelten</a> Motoren angesteuert.</p>
+<p><em>TODO: Video einfügen</em></p>
+<h3 id="b-fraidy-cat">B) Fraidy cat</h3>
+<p>Frontseitig ist der Roboter mit IR-Bricks versehen. Das sind Infrarotsensoren, welche Hindernisse detektieren können. In dieser Aufgabe geht es darum, den Hindernissen auszuweichen.</p>
+<p><em>TODO: Video einfügen</em></p>
+<h3 id="c-follow-me">C) Follow me</h3>
+<p>Im Gegensatz zu Aufgabe B muss man in Aufgabe C den Hindernissen nicht ausweichen, sondern dem Hindernis folgen. In diesem Fall der menschlichen Hand.</p>
+<p><em>TODO: Video einfügen</em></p>
+<h3 id="d-colour-detection">D) Colour detection</h3>
+<p>Mit den <a href="https://de.wikipedia.org/wiki/RGB-Farbraum">RGB</a> (Rot-Grün-Blau) Farbsensoren muss die Farbe detektiert und auf dem Display angezeigt werden. Das Display läuft eigenständig mit eigenem <a href="https://de.wikipedia.org/wiki/Mikrocontroller">Microcontroller</a>. Der Microcontroller vom Roboter kommuniziert via <a href="https://de.wikipedia.org/wiki/Universal_Asynchronous_Receiver_Transmitter">UART</a> mit dem Microcontroller des Displays.</p>
+<p><em>TODO: Video einfügen</em></p>
+<h3 id="e-rabbit-warren">E) Rabbit warren</h3>
+<p>In der Königsaufgabe muss der Roboter einer schwarzen Linie auf dem Boden folgen. Die Linie wird mittels Sensoren detektiert und basierend darauf werden die Motoren gesteuert.</p>
+<p><em>TODO: Video einfügen</em></p>
+<h2 id="dokumentation">Dokumentation</h2>
+<p>Die Arbeiten werden dokumentiert. Folgend können die PDFs heruntergeladen und nachgelesen werden.</p>
 <table>
 <thead>
 <tr>
@@ -311,7 +340,7 @@ Fernwartung<i class="fas fa-check read-icon"></i></a><ul></ul></li></ul></li>
 
 <div class="notices tip">
     <div class="label">Tipp</div>
-<p>Die Projektbeschreibung in Englisch sowie alle Aufgaben und Hilfestellungen gibt es auf GitHub: <a href="https://github.com/pamasol/Lehrlingsprojekt-Nibo-Burger">https://github.com/pamasol/Lehrlingsprojekt-Nibo-Burger</a></p>
+<p>Die Projektbeschreibung in Englisch sowie alle Aufgaben und Hilfestellungen gibt es in folgendem GitHub Repository: <a href="https://github.com/pamasol/Lehrlingsprojekt-Nibo-Burger">https://github.com/pamasol/Lehrlingsprojekt-Nibo-Burger</a></p>
 </div>
 
           <footer class=" footline">
@@ -326,18 +355,18 @@ Fernwartung<i class="fas fa-check read-icon"></i></a><ul></ul></li></ul></li>
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="../../js/clipboard.min.js?1646677866"></script>
-    <script src="../../js/perfect-scrollbar.min.js?1646677866"></script>
-    <script src="../../js/perfect-scrollbar.jquery.min.js?1646677866"></script>
-    <script src="../../js/jquery.svg.pan.zoom.js?1646677866"></script>
-    <script src="../../js/featherlight.min.js?1646677866"></script>
-    <script src="../../js/modernizr.custom-3.6.0.js?1646677866"></script>
-    <script src="../../js/mermaid.min.js?1646677866"></script>
+    <script src="../../js/clipboard.min.js?1646736784"></script>
+    <script src="../../js/perfect-scrollbar.min.js?1646736784"></script>
+    <script src="../../js/perfect-scrollbar.jquery.min.js?1646736784"></script>
+    <script src="../../js/jquery.svg.pan.zoom.js?1646736784"></script>
+    <script src="../../js/featherlight.min.js?1646736784"></script>
+    <script src="../../js/modernizr.custom-3.6.0.js?1646736784"></script>
+    <script src="../../js/mermaid.min.js?1646736784"></script>
     <script>
       if (typeof mermaid != 'undefined' && typeof mermaid.mermaidAPI != 'undefined') {
         mermaid.mermaidAPI.initialize( Object.assign( { "securityLevel": "antiscript" }, JSON.parse("{ \"startOnLoad\": true }"), { startOnLoad: false } ) );
       }
     </script>
-    <script src="../../js/relearn.js?1646677866"></script>
+    <script src="../../js/relearn.js?1646736784"></script>
   </body>
 </html>

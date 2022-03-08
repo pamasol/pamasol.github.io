@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pamasol.github.io/de/railway-light/</guid>
       <description>Baue eine Bahnlampe in der Schnupperlehre Auf der Webseite von Pamasol kannst du dich zu allen Lehrberufen informieren, welche angeboten werden.
-Interessiert dich ein Beruf? Beispielsweise der des Automatikers? Dann nichts wie los, melde dich zur Schnupperlehre an und du erhältst einen Einblick in die spannende Welt des Maschinenbaus – angefangen von mechanischen Bearbeitung und Montage, über die Verdrahtung von Elektrokomponenten bis hin zur Softwareentwicklung.
+Interessiert dich ein Beruf? Beispielsweise der des Automatikers? Dann nichts wie los, melde dich zur Schnupperlehre an und du erhältst einen Einblick in die spannende Welt des Maschinenbaus – angefangen von der mechanischen Bearbeitung und Montage, über die Verdrahtung von Elektrokomponenten bis hin zur Pneumatiksteuerung und Softwareentwicklung.
 Während deiner Schnupperlehre baust du eine Bahnlampe aus Aluminium- und Plexiglasteilen.</description>
     </item>
     <item>
@@ -20,7 +20,9 @@ Während deiner Schnupperlehre baust du eine Bahnlampe aus Aluminium- und Plexig
       <link>https://pamasol.github.io/de/electronic-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pamasol.github.io/de/electronic-project/</guid>
-      <description>Roboter programmieren für lernende Automatiker    Name Lehrjahr Lehrberuf Dokumentation     Marvin Büeler 2016-2020 Automatiker Download PDF   Joel Glaus 2017-2021 Automatiker    David Bernhard 2018-2022 Automatiker    Jonas Bisig 2018-2022 Automatiker Download PDF   Stefan Feier 2019-2023 Automatiker    Nicolas Diethelm 2020-2024 Automatiker    Flavio Knobel 2020-2024 Automatiker     TippDie Projektbeschreibung in Englisch sowie alle Aufgaben und Hilfestellungen gibt es auf GitHub: https://github.</description>
+      <description>Roboter programmieren für lernende Automatiker Neben Berufsschule, den überbetrieblichen Swissmechanic Kursen und dem praktischen Arbeiten an Aerosol-Anlagen für Kunden aus der ganzen Welt, arbeiten Automatiker Lernende bei Pamasol auch an Projekten, welche den Fokus auf ein bestimmtes Ausbildungsthema setzen.
+NIBO Burger repräsentiert das Elektronikprojekt der Ausbildung. Es handelt sich hierbei um einen kleinen Roboter, welcher von den Lernenden zusammengebaut, gelötet und in der Hochsprache C programmiert wird.
+Die Aufgabenstellung, wie auch sämtliche Datenblätter und Wiki Beiträge sind in Englisch geschrieben.</description>
     </item>
     <item>
       <title>Support</title>
