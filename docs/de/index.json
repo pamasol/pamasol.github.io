@@ -18,7 +18,7 @@
     "description": "",
     "tags": null,
     "title": "Elektronikprojekt",
-    "uri": "/de/electronic-project/"
+    "uri": "/de/nibo-burger-project/"
   },
   {
     "content": "Fehleranalyse und Support via Fernwartung Die meisten Anlagen sind mit einem Fernwartungsmodul ausgestattet, welches eine sichere Verbindung via Internet von der Anlage zum Pamasol Techniker herstellt.\nEs handelt sich grösstenteils um ein blau gefärbtes Gerät von den Herstellern «EWON» oder «VIPA», welches im Hauptschaltschrank eingebaut ist. Das folgende Bild zeigt ein EWON Gateway.\nSuchen Sie nach dem Fernwartungsmodul im Schaltschrank und verbinden Sie das Ethernet Kabel, welches eine Internetverbindung bereitstellt, mit Port Nummer 4 (WAN Port), wie folgend gezeigt.\nBei einigen Modems ist zusätzlich ein Drehschalter eingebaut, mit welchem der Internetzugang des Modems hardwaremässig abgeschaltet werden kann. Prüfen Sie, ob dieser Schalter eingeschaltet ist.\nFolgende Status LEDs müssen leuchten, damit das Modem korrekt arbeiten kann:\n PWR = Dauerhaft grün USR = Langsam blinkend grün T2M = Dauerhaft grün @ = Dauerhaft grün  Das folgende Bild zeigt ein Modem, welches sich erfolgreich verbinden konnte. Zum einen leuchtet die @-LED, welche für Internetverbindung steht. Zum anderen leuchtet auch die T2M-LED, welche die erfolgreiche Anmeldung auf dem Fernwartungsserver anzeigt. Die orange LED beim RJ45 Stecker leuchtet permanent, während die grüne LED kurzzeitig unterbricht (Visualisierung Kommunikation).\nFirewall Einstellungen Normalerweise muss Ihre IT-Abteilung nichts tun, damit sich das Modem mit dem Server verbinden kann. Der VPN-Tunnel wird vom Modem initiiert. Es gibt nur eine ausgehende Verbindung (HTTPS-Port 443 oder UDP-Port 1194) und keine eingehenden Verbindungen. Deshalb müssen in der Firewall keine Ports freigegeben werden.\nInfo\rWenn es Verbindungsprobleme gibt (und LED T2M nicht leuchtet), wird empfohlen, die URL *.talk2m.com von Ihrer IT-Abteilung auf die Whitelist zu setzen.\n Tipp\rWenn die IT-Abteilung keine Internetverbindung über das Firmennetzwerk zulässt, kann alternativ ein GSM-Modem verwendet werden. In diesem Fall sind Firmennetzwerk und Anlage strikt getrennt.\n ",
@@ -26,6 +26,13 @@
     "tags": null,
     "title": "Fernwartung",
     "uri": "/de/support/remote-connection/"
+  },
+  {
+    "content": "Pick\u0026Place Roboter mit Siemens SPS programmieren Neben Berufsschule, den überbetrieblichen Swissmechanic Kursen und dem praktischen Arbeiten an Aerosol-Anlagen für Kunden aus der ganzen Welt, arbeiten Automatiker Lernende bei Pamasol auch an Projekten, welche den Fokus auf ein bestimmtes Ausbildungsthema setzen.\nDer Pick\u0026Place Roboter repräsentiert das SPS Automatisierungsprojekt der Ausbildung. Es handelt sich hierbei um einen pneumatischen Greifer von Festo Didactic.\nDer Roboter wird durch eine Siemens ET200SP SPS (Speicherprogrammierbare Steuerung) gesteuert. Programmiert wird die SPS mit dem Siemens TIA Portal, wobei man zwischen folgenden Programmiersprachen wählen kann:\n Anweisungsliste AWL Kontaktplan KOP Funktionsplan FUP Structured Control Language SCL S7-Graph AS  Info\rDas Elektroschema des Steuerschranks kann hier als PDF heruntergeladen werden.\n ",
+    "description": "",
+    "tags": null,
+    "title": "Automatisierungsprojekt",
+    "uri": "/de/pick-n-place-project/"
   },
   {
     "content": "Kundensupport erhalten Die Maschine läuft nicht, rote LEDs leuchten überall (oder nirgends), Linien-Bediener und Vorgesetzte schauen Sie mit der Erwartung an, das Problem im Nu zu finden und zu beheben.\nIn diesem Moment ist es wichtig, Ruhe zu bewahren, die Situation zu analysieren und allenfalls den Produkt-Support oder die After-Sales Abteilung vom Maschinenhersteller zu kontaktieren.\nDieses Kapitel beschreibt, wie man sich vorbereiten kann, um effiziente und schnelle Hilfe von der Pamasol After-Sales Abteilung zu erhalten.\n",
@@ -42,7 +49,7 @@
     "uri": "/de/categories/"
   },
   {
-    "content": "Pamasol Electrics Portal Info\rDiese Webseite wird von technikbegeisterten Mitarbeitern und Lernenden der Pamasol Willi Mäder AG gepflegt. Primär werden Projekte und Themen behandelt, welche Elektrotechniker und SPS-Softwareentwickler sowie Jugendliche mit Interesse des Berufes Automatiker ansprechen sollen. Die offizielle Webseite von Pamasol erreicht man unter www.pamasol.com.\n Changelog  08-Mar-22: Kapitel Bahnlampe und Elektronikprojekt erstellt 17-Feb-22: Kapitel Support erweitert mit Foto von EWON Cosy 131 16-Feb-22: Kapitel Support hinzugefügt  ",
+    "content": "Pamasol Electrics Portal Info\rDiese Webseite wird von technikbegeisterten Mitarbeitern und Lernenden der Pamasol Willi Mäder AG gepflegt. Primär werden Projekte und Themen behandelt, welche Elektrotechniker und SPS-Softwareentwickler sowie Jugendliche mit Interesse des Berufes Automatiker ansprechen sollen. Die offizielle Webseite von Pamasol erreicht man unter www.pamasol.com.\n Changelog  08-Mar-22: Kapitel Bahnlampe, Elektronikprojekt und Automatisierungsprojekt erstellt 17-Feb-22: Kapitel Support erweitert mit Foto von EWON Cosy 131 16-Feb-22: Kapitel Support hinzugefügt  ",
     "description": "",
     "tags": null,
     "title": "Startseite",

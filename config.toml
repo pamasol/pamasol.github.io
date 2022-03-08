@@ -63,7 +63,7 @@ relativeURLs = true
     weight = 30
 
   [Languages.de]
-    title = "Documentat'n fer Cap'n Hugo Relearrrn Theme"
+    title = "Pamasol Electrics Portal"
     weight = 1
     languageName = "Deutsch"
     landingPageURL = "/de/"
