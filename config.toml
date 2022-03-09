@@ -1,6 +1,6 @@
 baseURL = "https://pamasol.github.io/"
-languageCode = "en"
-defaultContentLanguage = "en"
+languageCode = "de"
+defaultContentLanguage = "de"
 
 title = "Pamasol Electrics"
 theme = "hugo-theme-relearn"
