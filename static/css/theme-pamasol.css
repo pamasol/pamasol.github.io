@@ -94,6 +94,7 @@ a:hover {
 #sidebar .searchbox {
     border-color: var(--MENU-SEARCH-BOX-color);
     background: var(--MENU-SEARCH-BG-color);
+    margin-top: 0.5rem;
 }
 
 #sidebar ul.topics > li.parent, #sidebar ul.topics > li.active {
