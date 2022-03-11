@@ -46,7 +46,7 @@ Die Arbeiten werden dokumentiert. Folgend können die PDFs heruntergeladen und n
 | Name             | Lehrjahr  | Lehrberuf   | Dokumentation   |
 | ---------------- | --------- | ----------- | --------------- |
 | Marvin Büeler    | 2016-2020 | Automatiker | [Download PDF](./docs/2019-12-16_Nibo_Doku_MarvinBueeler.de.pdf)
-| Joel Glaus       | 2017-2021 | Automatiker |
+| Joel Glaus       | 2017-2021 | Automatiker | [Download PDF](./docs/2020-04-28_Nibo_Doku_JoelGlaus.de.pdf)
 | David Bernhard   | 2018-2022 | Automatiker |
 | Jonas Bisig      | 2018-2022 | Automatiker | [Download PDF](./docs/2022-03-04_Nibo_Doku_JonasBisig.de.pdf)
 | Stefan Feier     | 2019-2023 | Automatiker |
