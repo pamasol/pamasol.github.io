@@ -44,7 +44,7 @@ Source code of [pamasol.github.io](https://pamasol.github.io/) website, based on
 9. Now you can run hugo comands. Following commands are helpful:
     * `hugo help` gives you a command overview
     * `hugo server -D` runs a local server with drafts enabled.
-    * `hugo -D` builds static pages (NOT NEEDED IN THIS REPO)
+    * `hugo -D` builds static pages (not needed in this repo since done with GitHub actions)
 
 ## Deployment
 
