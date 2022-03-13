@@ -25,7 +25,7 @@ Frontseitig ist der Roboter mit IR-Bricks versehen. Das sind Infrarotsensoren, w
 _TODO: Video einfügen_
 
 ### C) Follow me
-Im Gegensatz zu Aufgabe B muss man in Aufgabe C den Hindernissen nicht ausweichen, sondern dem Hindernis folgen. In diesem Fall der menschlichen Hand.
+Im Gegensatz zu Aufgabe B, muss man in Aufgabe C den Hindernissen nicht ausweichen, sondern dem Hindernis folgen. In diesem Fall der menschlichen Hand.
 
 _TODO: Video einfügen_
 
