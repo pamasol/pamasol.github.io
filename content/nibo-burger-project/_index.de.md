@@ -30,7 +30,7 @@ Im Gegensatz zu Aufgabe B, muss man in Aufgabe C den Hindernissen nicht ausweich
 _TODO: Video einfügen_
 
 ### D) Colour detection
-Mit den [RGB](https://de.wikipedia.org/wiki/RGB-Farbraum) (Rot-Grün-Blau) Farbsensoren müssen die Bodenfarben Schwarz, Weiss, Rot, Gelb, Grün und Blau detektiert sowie auf dem Display angezeigt werden. Das Display läuft eigenständig mit eigenem [Microcontroller](https://de.wikipedia.org/wiki/Mikrocontroller). Der Microcontroller vom Roboter kommuniziert via [UART](https://de.wikipedia.org/wiki/Universal_Asynchronous_Receiver_Transmitter) mit dem Microcontroller des Displays.
+Mit den [RGB](https://de.wikipedia.org/wiki/RGB-Farbraum) (Rot-Grün-Blau) Farbsensoren müssen die Bodenfarben Schwarz, Weiss, Rot, Gelb, Grün und Blau detektiert sowie auf dem Display angezeigt werden. Das Display läuft eigenständig mit eigenem [Microcontroller](https://de.wikipedia.org/wiki/Mikrocontroller). Der Microcontroller des Roboters kommuniziert via [UART](https://de.wikipedia.org/wiki/Universal_Asynchronous_Receiver_Transmitter) mit dem Microcontroller des Displays.
 
 _TODO: Video einfügen_
 
