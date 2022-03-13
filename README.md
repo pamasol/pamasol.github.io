@@ -52,4 +52,4 @@ When pushing to master branch following pipeline gets triggered that builds the 
 
 1. `create-static-page` is defined in [`.github/workflows/gh-pages.yml`](https://github.com/pamasol/pamasol.github.io/blob/main/.github/workflows/gh-pages.yml). It creates the static content and places it in the `gh-pages` branch.
 
-2. `pages-build-deployment`takes the static pages and pushes them on GitHub Pages. There is no `*.yml` file for this procedure, it is defined in [settings > pages](https://github.com/pamasol/pamasol.github.io/settings/pages).
+2. `pages-build-deployment` takes the static pages and pushes them on GitHub Pages. There is no `*.yml` file for this procedure, it is defined in [settings > pages](https://github.com/pamasol/pamasol.github.io/settings/pages).
