@@ -8,7 +8,7 @@ weight = 3
 
 ![Festo Pick&Place Robot](./images/festo_pick_n_place.de.gif)
 
-Neben Berufsschule, den überbetrieblichen [Swissmechanic](https://www.swissmechanic.ch/) Kursen und dem praktischen Arbeiten an Aerosol-Anlagen für Kunden aus der ganzen Welt, arbeiten Automatiker Lernende bei Pamasol auch an Projekten, welche den Fokus auf ein bestimmtes Ausbildungsthema setzen.
+Neben Berufsschule, den überbetrieblichen [Swissmechanic](https://www.swissmechanic.ch/) Kursen und dem praktischen Arbeiten an Aerosol-Anlagen für Kunden aus der ganzen Welt, arbeiten **Automatiker Lernende** bei Pamasol auch an Projekten, welche den Fokus auf ein bestimmtes Ausbildungsthema setzen.
 
 Der Pick&Place Roboter repräsentiert das **SPS Automatisierungsprojekt** der Ausbildung. Es handelt sich hierbei um einen pneumatischen Greifer von [Festo Didactic](https://www.festo-didactic.ch/).
 
