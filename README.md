@@ -44,4 +44,12 @@ Source code of [pamasol.github.io](https://pamasol.github.io/) website, based on
 9. Now you can run hugo comands. Following commands are helpful:
     * `hugo help` gives you a command overview
     * `hugo server -D` runs a local server with drafts enabled.
-    * `hugo -D` builds static pages
+    * `hugo -D` builds static pages (NOT NEEDED IN THIS REPO)
+
+## Deployment
+
+When pushing to master branch following pipeline gets triggered that builds the static pages and moves them to [https://pamasol.github.io](https://pamasol.github.io/):
+
+1. `create-static-page` is defined in [`.github/workflows/gh-pages.yml`](https://github.com/pamasol/pamasol.github.io/blob/main/.github/workflows/gh-pages.yml). It creates the static content and places it in the `gh-pages` branch.
+
+2. `pages-build-deployment`takes the static pages and pushes them on GitHub Pages. There is no `*.yml` file for this procedure, it is defined in [settings > pages](https://github.com/pamasol/pamasol.github.io/settings/pages).
