@@ -1,9 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Startseite on Pamasol Electrics Portal</title><link>https://pamasol.github.io/de/</link><description>Recent content in Startseite on Pamasol Electrics Portal</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://pamasol.github.io/de/index.xml" rel="self" type="application/rss+xml"/><item><title>Schnupperlehre</title><link>https://pamasol.github.io/de/railway-light/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pamasol.github.io/de/railway-light/</guid><description>Baue eine Bahnlampe in der Schnupperlehre Auf der Webseite von Pamasol kannst du dich zu allen Lehrberufen informieren, welche angeboten werden.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Startseite on Pamasol Electrics Portal</title>
+    <link>https://pamasol.github.io/de/</link>
+    <description>Recent content in Startseite on Pamasol Electrics Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language><atom:link href="https://pamasol.github.io/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schnupperlehre</title>
+      <link>https://pamasol.github.io/de/railway-light/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pamasol.github.io/de/railway-light/</guid>
+      <description>Baue eine Bahnlampe in der Schnupperlehre Auf der Webseite von Pamasol kannst du dich zu allen Lehrberufen informieren, welche angeboten werden.
 Interessiert dich ein Beruf? Beispielsweise der des Automatikers? Dann nichts wie los, melde dich zur Schnupperlehre an und du erhältst einen Einblick in die spannende Welt des Maschinenbaus – angefangen von der mechanischen Bearbeitung und Montage, über die Verdrahtung von Elektrokomponenten bis hin zur Pneumatiksteuerung und Softwareentwicklung.
-Während deiner Schnupperlehre baust du eine Bahnlampe aus Aluminium- und Plexiglasteilen.</description></item><item><title>Elektronikprojekt</title><link>https://pamasol.github.io/de/nibo-burger-project/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pamasol.github.io/de/nibo-burger-project/</guid><description>Roboter programmieren für lernende Automatiker Neben Berufsschule, den überbetrieblichen Swissmechanic Kursen und dem praktischen Arbeiten an Aerosol-Anlagen für Kunden aus der ganzen Welt, arbeiten Automatiker Lernende bei Pamasol auch an Projekten, welche den Fokus auf ein bestimmtes Ausbildungsthema setzen.
+Während deiner Schnupperlehre baust du eine Bahnlampe aus Aluminium- und Plexiglasteilen.</description>
+    </item>
+    <item>
+      <title>Elektronikprojekt</title>
+      <link>https://pamasol.github.io/de/nibo-burger-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pamasol.github.io/de/nibo-burger-project/</guid>
+      <description>Roboter programmieren für lernende Automatiker Neben Berufsschule, den überbetrieblichen Swissmechanic Kursen und dem praktischen Arbeiten an Aerosol-Anlagen für Kunden aus der ganzen Welt, arbeiten Automatiker Lernende bei Pamasol auch an Projekten, welche den Fokus auf ein bestimmtes Ausbildungsthema setzen.
 NIBO Burger repräsentiert das Elektronikprojekt der Ausbildung. Es handelt sich hierbei um einen kleinen Roboter, welcher von den Lernenden zusammengebaut, gelötet und in der Hochsprache C programmiert wird.
-Die Aufgabenstellung, wie auch sämtliche Datenblätter und Wiki Beiträge sind in Englisch geschrieben.</description></item><item><title>Automatisierungsprojekt</title><link>https://pamasol.github.io/de/pick-n-place-project/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pamasol.github.io/de/pick-n-place-project/</guid><description>Pick&amp;amp;Place Roboter mit Siemens SPS programmieren Neben Berufsschule, den überbetrieblichen Swissmechanic Kursen und dem praktischen Arbeiten an Aerosol-Anlagen für Kunden aus der ganzen Welt, arbeiten Automatiker Lernende bei Pamasol auch an Projekten, welche den Fokus auf ein bestimmtes Ausbildungsthema setzen.
+Die Aufgabenstellung, wie auch sämtliche Datenblätter und Wiki Beiträge sind in Englisch geschrieben.</description>
+    </item>
+    <item>
+      <title>Automatisierungsprojekt</title>
+      <link>https://pamasol.github.io/de/pick-n-place-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pamasol.github.io/de/pick-n-place-project/</guid>
+      <description>Pick&amp;amp;Place Roboter mit Siemens SPS programmieren Neben Berufsschule, den überbetrieblichen Swissmechanic Kursen und dem praktischen Arbeiten an Aerosol-Anlagen für Kunden aus der ganzen Welt, arbeiten Automatiker Lernende bei Pamasol auch an Projekten, welche den Fokus auf ein bestimmtes Ausbildungsthema setzen.
 Der Pick&amp;amp;Place Roboter repräsentiert das SPS Automatisierungsprojekt der Ausbildung. Es handelt sich hierbei um einen pneumatischen Greifer von Festo Didactic.
-Der Roboter wird durch eine Siemens ET200SP SPS (Speicherprogrammierbare Steuerung) gesteuert.</description></item><item><title>Support</title><link>https://pamasol.github.io/de/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pamasol.github.io/de/support/</guid><description>Kundensupport erhalten Die Maschine läuft nicht, rote LEDs leuchten überall (oder nirgends), Linien-Bediener und Vorgesetzte schauen Sie mit der Erwartung an, das Problem im Nu zu finden und zu beheben.
+Der Roboter wird durch eine Siemens ET200SP SPS (Speicherprogrammierbare Steuerung) gesteuert.</description>
+    </item>
+    <item>
+      <title>Support</title>
+      <link>https://pamasol.github.io/de/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pamasol.github.io/de/support/</guid>
+      <description>Kundensupport erhalten Die Maschine läuft nicht, rote LEDs leuchten überall (oder nirgends), Linien-Bediener und Vorgesetzte schauen Sie mit der Erwartung an, das Problem im Nu zu finden und zu beheben.
 In diesem Moment ist es wichtig, Ruhe zu bewahren, die Situation zu analysieren und allenfalls den Produkt-Support oder die After-Sales Abteilung vom Maschinenhersteller zu kontaktieren.
-Dieses Kapitel beschreibt, wie man sich vorbereiten kann, um effiziente und schnelle Hilfe von der Pamasol After-Sales Abteilung zu erhalten.</description></item></channel></rss>
+Dieses Kapitel beschreibt, wie man sich vorbereiten kann, um effiziente und schnelle Hilfe von der Pamasol After-Sales Abteilung zu erhalten.</description>
+    </item>
+  </channel>
+</rss>

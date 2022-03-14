@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Support on Pamasol Electrics Portal</title><link>https://pamasol.github.io/de/support/</link><description>Recent content in Support on Pamasol Electrics Portal</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://pamasol.github.io/de/support/index.xml" rel="self" type="application/rss+xml"/><item><title>Anfrage vorbereiten</title><link>https://pamasol.github.io/de/support/getting-support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pamasol.github.io/de/support/getting-support/</guid><description>Informationen sammeln vor der Supportanfrage In einem ersten Schritt muss das After-Sales Team die Seriennummer der betroffenen Maschine kennen. Im Falle eines Problems mit Elektrotechnik oder Software ist die Seriennummer des Schaltschranks entscheidend. Diese findet man auf dem Typenschild, welches auf der Türe ganz Link an der Innenseite angebracht ist. Siehe dazu folgendes Bild. Ein Beispiel für eine Seriennummer ist 12345-A1.
-In einem zweiten Schritt muss der Fehler oder die Störung beschrieben werden.</description></item><item><title>Fernwartung</title><link>https://pamasol.github.io/de/support/remote-connection/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pamasol.github.io/de/support/remote-connection/</guid><description>Fehleranalyse und Support via Fernwartung Die meisten Anlagen sind mit einem Fernwartungsmodul ausgestattet, welches eine sichere Verbindung via Internet von der Anlage zum Pamasol Techniker herstellt.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Support on Pamasol Electrics Portal</title>
+    <link>https://pamasol.github.io/de/support/</link>
+    <description>Recent content in Support on Pamasol Electrics Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language><atom:link href="https://pamasol.github.io/de/support/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anfrage vorbereiten</title>
+      <link>https://pamasol.github.io/de/support/getting-support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pamasol.github.io/de/support/getting-support/</guid>
+      <description>Informationen sammeln vor der Supportanfrage In einem ersten Schritt muss das After-Sales Team die Seriennummer der betroffenen Maschine kennen. Im Falle eines Problems mit Elektrotechnik oder Software ist die Seriennummer des Schaltschranks entscheidend. Diese findet man auf dem Typenschild, welches auf der Türe ganz Link an der Innenseite angebracht ist. Siehe dazu folgendes Bild. Ein Beispiel für eine Seriennummer ist 12345-A1.
+In einem zweiten Schritt muss der Fehler oder die Störung beschrieben werden.</description>
+    </item>
+    <item>
+      <title>Fernwartung</title>
+      <link>https://pamasol.github.io/de/support/remote-connection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pamasol.github.io/de/support/remote-connection/</guid>
+      <description>Fehleranalyse und Support via Fernwartung Die meisten Anlagen sind mit einem Fernwartungsmodul ausgestattet, welches eine sichere Verbindung via Internet von der Anlage zum Pamasol Techniker herstellt.
 Es handelt sich grösstenteils um ein blau gefärbtes Gerät von den Herstellern «EWON» oder «VIPA», welches im Hauptschaltschrank eingebaut ist. Das folgende Bild zeigt ein EWON Gateway.
-Suchen Sie nach dem Fernwartungsmodul im Schaltschrank und verbinden Sie das Ethernet Kabel, welches eine Internetverbindung bereitstellt, mit Port Nummer 4 (WAN Port), wie folgend gezeigt.</description></item></channel></rss>
+Suchen Sie nach dem Fernwartungsmodul im Schaltschrank und verbinden Sie das Ethernet Kabel, welches eine Internetverbindung bereitstellt, mit Port Nummer 4 (WAN Port), wie folgend gezeigt.</description>
+    </item>
+  </channel>
+</rss>
