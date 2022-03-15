@@ -48,7 +48,7 @@ Source code of [pamasol.github.io](https://pamasol.github.io/) website, based on
 
 ## Deployment
 
-When pushing to master branch following pipeline gets triggered that builds the static pages and moves them to [https://pamasol.github.io](https://pamasol.github.io/):
+When pushing to `master` branch following pipeline gets triggered that builds the static pages in a first step. The static pages are placed in th `gh-pages` branch and will be moved from there to [https://pamasol.github.io](https://pamasol.github.io/) in a second step:
 
 1. `create-static-page` is defined in [`.github/workflows/gh-pages.yml`](https://github.com/pamasol/pamasol.github.io/blob/main/.github/workflows/gh-pages.yml). It creates the static content and places it in the `gh-pages` branch.
 
