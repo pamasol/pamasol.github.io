@@ -17,27 +17,27 @@ Die Aufgabenstellung, wie auch sämtliche Datenblätter und Wiki Beiträge sind 
 ### A) Round trip
 Der Roboter muss genau 1.5m nach vorne fahren, eine 180° Drehung machen und wieder an seinen Startpunkt zurückkehren. Damit das funktioniert, müssen die [Odometrie-Sensoren](https://de.wikipedia.org/wiki/Odometrie) der Räder ausgelesen und verglichen werden. Basierend darauf werden die [PID-geregelten](https://de.wikipedia.org/wiki/Regler#PID-Regler) Motoren angesteuert.
 
-_TODO: Video einfügen_
+![NIBO Burger Roboter](./images/A_Round_trip_medium.de.gif)
 
 ### B) Fraidy cat
 Frontseitig ist der Roboter mit IR-Bricks versehen. Das sind Infrarotsensoren, welche Hindernisse detektieren können. In dieser Aufgabe geht es darum, den Hindernissen auszuweichen.
 
-_TODO: Video einfügen_
+![NIBO Burger Roboter](./images/B_Fraidy_cat_medium.de.gif)
 
 ### C) Follow me
 Im Gegensatz zu Aufgabe B, muss man in Aufgabe C den Hindernissen nicht ausweichen, sondern dem Hindernis folgen. In diesem Fall der menschlichen Hand.
 
-_TODO: Video einfügen_
+![NIBO Burger Roboter](./images/C_Follow_me_medium.de.gif)
 
 ### D) Colour detection
 Mit den [RGB](https://de.wikipedia.org/wiki/RGB-Farbraum) (Rot-Grün-Blau) Farbsensoren müssen die Bodenfarben Schwarz, Weiss, Rot, Gelb, Grün und Blau detektiert sowie auf dem Display angezeigt werden. Das Display läuft eigenständig mit eigenem [Microcontroller](https://de.wikipedia.org/wiki/Mikrocontroller). Der Microcontroller des Roboters kommuniziert via [UART](https://de.wikipedia.org/wiki/Universal_Asynchronous_Receiver_Transmitter) mit dem Microcontroller des Displays.
 
-_TODO: Video einfügen_
+![NIBO Burger Roboter](./images/D_Color_Detection_medium.de.gif)
 
 ### E) Rabbit warren
 In der Königsaufgabe muss der Roboter einer schwarzen Linie auf dem Boden folgen. Die Linie wird mittels Sensoren detektiert und basierend darauf werden die Motoren gesteuert.
 
-_TODO: Video einfügen_
+![NIBO Burger Roboter](./images/E_Rabbit_warren_medium.de.gif)
 
 ## Dokumentation
 
