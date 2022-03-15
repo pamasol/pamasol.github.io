@@ -19,25 +19,35 @@ Der Roboter muss genau 1.5m nach vorne fahren, eine 180° Drehung machen und wie
 
 ![NIBO Burger Roboter](./images/A_Round_trip_medium.de.gif)
 
+[Aufgabenstellung Round trip (Nibo01_V1.0.pdf)](https://github.com/pamasol/Lehrlingsprojekt-Nibo-Burger/files/3652583/Nibo01_V1.0.pdf)
+
 ### B) Fraidy cat
 Frontseitig ist der Roboter mit IR-Bricks versehen. Das sind Infrarotsensoren, welche Hindernisse detektieren können. In dieser Aufgabe geht es darum, den Hindernissen auszuweichen.
 
 ![NIBO Burger Roboter](./images/B_Fraidy_cat_medium.de.gif)
+
+[Aufgabenstellung Fraidy cat (Nibo02_V1.0.pdf)](https://github.com/pamasol/Lehrlingsprojekt-Nibo-Burger/files/3652584/Nibo02_V1.0.pdf)
 
 ### C) Follow me
 Im Gegensatz zu Aufgabe B, muss man in Aufgabe C den Hindernissen nicht ausweichen, sondern dem Hindernis folgen. In diesem Fall der menschlichen Hand.
 
 ![NIBO Burger Roboter](./images/C_Follow_me_medium.de.gif)
 
+[Aufgabenstellung Follow me (Nibo03_V1.0.pdf)](https://github.com/pamasol/Lehrlingsprojekt-Nibo-Burger/files/3652585/Nibo03_V1.0.pdf)
+
 ### D) Colour detection
 Mit den [RGB](https://de.wikipedia.org/wiki/RGB-Farbraum) (Rot-Grün-Blau) Farbsensoren müssen die Bodenfarben Schwarz, Weiss, Rot, Gelb, Grün und Blau detektiert sowie auf dem Display angezeigt werden. Das Display läuft eigenständig mit eigenem [Microcontroller](https://de.wikipedia.org/wiki/Mikrocontroller). Der Microcontroller des Roboters kommuniziert via [UART](https://de.wikipedia.org/wiki/Universal_Asynchronous_Receiver_Transmitter) mit dem Microcontroller des Displays.
 
 ![NIBO Burger Roboter](./images/D_Color_Detection_medium.de.gif)
 
+[Aufgabenstellung Colour detection (Nibo04_V1.1.pdf)](https://github.com/pamasol/Lehrlingsprojekt-Nibo-Burger/files/8169805/Nibo04_V1.1.pdf)
+
 ### E) Rabbit warren
 In der Königsaufgabe muss der Roboter einer schwarzen Linie auf dem Boden folgen. Die Linie wird mittels Sensoren detektiert und basierend darauf werden die Motoren gesteuert.
 
 ![NIBO Burger Roboter](./images/E_Rabbit_warren_medium.de.gif)
+
+[Aufgabenstellung Rabbit warren (Nibo05_V1.0.pdf)](https://github.com/pamasol/Lehrlingsprojekt-Nibo-Burger/files/3652587/Nibo05_V1.0.pdf)
 
 ## Dokumentation
 
