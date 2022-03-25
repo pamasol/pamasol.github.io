@@ -62,6 +62,7 @@ Die Arbeiten werden dokumentiert. Folgend können die PDFs heruntergeladen und n
 | Stefan Feier     | 2019-2023 | Automatiker |
 | Nicolas Diethelm | 2020-2024 | Automatiker |
 | Flavio Knobel    | 2020-2024 | Automatiker |
+| Kevin Kälin      | 2021-2025 | Automatiker |
 
 {{% notice tip %}}
 Die Projektbeschreibung in Englisch sowie alle Aufgaben und Hilfestellungen gibt es in folgendem GitHub Repository: https://github.com/pamasol/Lehrlingsprojekt-Nibo-Burger
