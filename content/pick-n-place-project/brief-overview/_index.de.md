@@ -9,8 +9,8 @@ weight = 1
   {{< youtube uy1XLORcgUQ >}}
 </div>
 
-Um eine SPS programmieren zu können, benötigt man einen **Laptop** auf welchem die SPS-Programmiersoftware – im Fachjargon Entwicklungsumgebung genannt – installiert ist.
+Um eine SPS programmieren zu können, benötigt man einen **Laptop**, auf welchem die SPS-Programmiersoftware – im Fachjargon Entwicklungsumgebung genannt – installiert ist.
 
-Der Pick&Place Roboter ist mit einer **Siemens SPS** ausgestattet, welche mittels der Entwicklungsumgebung **TIA Portal** programmiert werden kann. TIA ist die Kurzversion für «Totally Integrated Automation». Mehr Infos zu dieser Software gibt es auf der [Siemens Webseite]( https://new.siemens.com/de/de/produkte/automatisierung/industrie-software/automatisierungs-software/tia-portal.html).
+Der Pick&Place Roboter ist mit einer **Siemens SPS** ausgestattet, welche mittels der Entwicklungsumgebung **TIA Portal** programmiert wird. TIA ist die Kurzversion für «Totally Integrated Automation». Mehr Infos zu dieser Software gibt es auf der [Siemens Webseite]( https://new.siemens.com/de/de/produkte/automatisierung/industrie-software/automatisierungs-software/tia-portal.html).
 
 Im Video wird die Benutzeroberfläche erklärt mit den beiden Ansichten **Portalansicht** und **Projektansicht**. Zudem wird gezeigt, wie die Online-Hilfe funktioniert.
