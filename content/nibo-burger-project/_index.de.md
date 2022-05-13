@@ -63,7 +63,7 @@ Die elektrischen Bauteile sowie gelöteten Schaltkreise und die Programmierung w
 | Joel Glaus       | 2017-2021 | Automatiker | [Download PDF](./docs/2020-04-28_Nibo_Doku_JoelGlaus.de.pdf)
 | David Bernhard   | 2018-2022 | Automatiker | [Download PDF](./docs/2020-04-28_Nibo_Doku_DavidBernhard.de.pdf)
 | Jonas Bisig      | 2018-2022 | Automatiker | [Download PDF](./docs/2022-03-04_Nibo_Doku_JonasBisig.de.pdf)
-| Stefan Feier     | 2019-2023 | Automatiker |
+| Stefan Feier     | 2019-2023 | Automatiker | [Download PDF](./docs/2022-05-12_Nibo_Doku_StefanFeier.de.pdf)
 | Nicolas Diethelm | 2020-2024 | Automatiker |
 | Flavio Knobel    | 2020-2024 | Automatiker |
 | Kevin Kälin      | 2021-2025 | Automatiker |
