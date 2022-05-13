@@ -6,7 +6,7 @@ weight = 1
 ## Wie die Entwicklungsumgebung TIA Portal aufgebaut ist
 
 <div class="shadow">
-  {{< youtube uy1XLORcgUQ >}}
+  {{< youtube nbB4wCjD-jw >}}
 </div>
 
 Um eine SPS programmieren zu können, benötigt man einen **Laptop**, auf welchem die SPS-Programmiersoftware – im Fachjargon Entwicklungsumgebung genannt – installiert ist.

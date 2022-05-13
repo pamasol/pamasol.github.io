@@ -3,10 +3,10 @@ title = "Neues Projekt erstellen"
 weight = 2
 +++
 
-## Eine SPS Hardwarekonfiguration erstellen
+## Die SPS Hardwarekonfiguration als Basis
 
 <div class="shadow">
-  {{< youtube gSsB6I6tUcc >}}
+  {{< youtube uTUbFHpi8Xk >}}
 </div>
 
 In einem ersten Schritt wird in der Projektansicht ein neues SPS Projekt erstellt. Anschliessend muss man die im Schaltschrank verbaute SPS in der Software abbilden. Das wird mittels **Hardwarekonfiguration** gemacht.
