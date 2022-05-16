@@ -20,6 +20,6 @@ Die Exe-Datei, welche erstellt wird, kann auf einem PC mit **Windows Betriebssys
 
 Es wird eine Variante in [Winforms](https://de.wikipedia.org/wiki/Windows_Forms) und eine Variante in [WPF](https://de.wikipedia.org/wiki/Windows_Presentation_Foundation) erstellt, wobei beide Varianten im Anschluss verglichen werden.
 
-{{% notice tip %}}
+{{% notice info %}}
 Die Projektbeschreibung in Englisch sowie alle Aufgaben und Hilfestellungen gibt es in folgendem GitHub Repository: https://github.com/pamasol/PAM-Calculator
 {{% /notice %}}

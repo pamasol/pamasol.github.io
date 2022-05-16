@@ -18,8 +18,12 @@ Die BaseUnits der Eingangs und Ausgangsmodule gibt es in **Hell- und Dunkelgrau*
 
 Bei der **absoluten Adressierung** wird direkt der Operand (z.B. `I0.0`) eingegeben. Bei der **symbolischen Programmierung** wird nicht der Operand, sondern stellvertretend ein Symbolname (z.B. `CC_TB_24VMainOk`) anstelle des Operanden eingegeben.
 
-* **CC** steht für Control Cabinet oder in Deutsch Schaltschrank.
+* **CC** steht für Control Cabinet oder in Deutsch Schaltschrank. Es handelt sich somit um den Ort, wo das Bauteil eingebaut wird ([Ortsaspekt des Objekts](https://ibkastl.de/wiki/Normen_f%C3%BCr_die_Schaltplanerstellung#Struktur)).
 * **TB** steht für das elektrische Bauteil. In diesem Fall der Hilfskontakt des Netzgerätes `10TB1`.
 * **24VMainOk** steht für die Kurzbeschreibung der Funktion in [Upper Camel Case](https://en.wikipedia.org/wiki/Camel_case). In diesem Fall "24VDC Versorgung OK".
 
 Die Variabeln können in der Projektnavigation unter **Geräte > PLC-Variabeln** eingegeben und editiert werden. Im Video wird zusätlich auf die Excel Import und Export Funktion eingeganen.
+
+{{% notice tip %}}
+Das Excel File, welches als Import für die PLC Tags verwendet werden kann, findest du [hier als Download](./docs/Pick&Placer_PLCTags.de.xlsx).
+{{% /notice %}}
