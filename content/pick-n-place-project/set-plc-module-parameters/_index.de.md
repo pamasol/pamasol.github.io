@@ -3,7 +3,7 @@ title = "Modulkarten parametrieren"
 weight = 3
 +++
 
-## SPS CPU und IOs konfigurieren
+## Central processing unit (CPU) und IOs konfigurieren
 
 <div class="shadow">
   {{< youtube tg2kENLqTiM >}}

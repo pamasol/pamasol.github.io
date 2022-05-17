@@ -18,9 +18,9 @@ Neben der Bahnlampe erhältst du einen authentischen Einblick in unser tägliche
 
 ![Aerosol Abfüllanlage testen](images/pamasol-employee-tests-machine.de.jpg)
 
-Im obigen Bild testet ein Pamasol-Mitarbeiter einen **Macromat LB20**. Das ist eine Abfüll- und Verschliessmaschine für Spraydosen. Während sich Polymechaniker und Metallbauer um Mechanik und Metallteile kümmern, baut der **Automatiker** alle elektrischen Komponenten wie **Sensoren, Motoren** und den grossen **Touch-Screen** an. Im Anschluss wird die **SPS** (das ist der Computer und somit das Hirn der Anlage) **programmiert** und der Maschine Leben eingehaucht.
+Im obigen Bild testet ein Pamasol-Mitarbeiter einen **Macromat LB20**. Das ist eine Abfüll- und Verschliessmaschine für Spraydosen. Während sich Polymechaniker und Metallbauer um Mechanik und Metallteile kümmern, baut der **Automatiker** alle elektrischen Komponenten wie **Sensoren, Motoren** und den grossen **Touch-Screen** an. Im Anschluss wird die **SPS** (das ist der Computer und somit das Hirn der Anlage) **programmiert** und damit der Maschine Leben eingehaucht.
 
-Sobald die Anlage funktioniert und vom Endkunden abgenommen wurde, wird sie in das Produktionsland versendet. Das kann beispielsweise Australien, die USA oder Brasilien sein, aber auch Deutschland und die Schweiz.
+Sobald die Anlage funktioniert und vom Endkunden abgenommen wurde, wird sie in an den Produktionsstandort versendet. Das kann beispielsweise Australien, die USA oder Brasilien sein, aber auch Deutschland und die Schweiz. Es gibt Pamasol Anlagen auf allen fünk Kontintenen.
 
 Ausgelernte Automatiker haben neben dem vielfältigen Weiterbildungsangebot wie beispielsweise zum **Ingenieur** (siehe [ost.ch]( https://www.ost.ch/de/)) auch die Möglichkeit, andere **Länder und Kulturen** kennenzulernen. Denn die Anlagen, welche über die ganze Welt verteilt sind, werden durch Pamasol-Mitarbeiter vor Ort in Betrieb genommen.
 
