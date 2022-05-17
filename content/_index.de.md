@@ -10,6 +10,7 @@ Diese Webseite wird von technikbegeisterten Mitarbeitern und Lernenden der Pamas
 
 ## Changelog
 
+* **17-May-22:** Kapitel Schnupperlehre erweitert mit Infos zum Beruf
 * **13-May-22:** Kapitel Automatisierungsprojekt mit Unterkapiteln 1 bis 3 inklusive Videos befüllt
 * **15-Mar-22:** Kapitel C-Sharp Projekt hinzugefügt
 * **08-Mar-22:** Kapitel Bahnlampe, Elektronikprojekt und Automatisierungsprojekt erstellt
