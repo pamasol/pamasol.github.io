@@ -38,7 +38,7 @@ Source code of [pamasol.github.io](https://pamasol.github.io/) website, based on
 
     ```bash
     git submodule init
-    git submodule update
+    git submodule update --remote
     ```
 
 9. Now you can run hugo comands. Following commands are helpful:
