@@ -23,7 +23,9 @@ relativeURLs = true
   themeVariant = "pamasol"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "PRINT", "JSON"]
+  section = ["HTML", "RSS", "PRINT"]
+  page = ["HTML", "RSS", "PRINT"]
 
 [markup]
   [markup.highlight]

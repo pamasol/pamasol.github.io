@@ -9,9 +9,9 @@ weight = 5
   {{< youtube qJF1XHB1Bmo >}}
 </div>
 
-Mit Hilfe von SIMATIC **S7-PLCSIM Advanced** kann die Pick&Place Steuerung simuliert und somit getestet werden, ohne dass irgendwelche Hardwarekomponenten benötigt werden.
+Mit Hilfe von SIMATIC **S7-PLCSIM** kann die Pick&Place Steuerung simuliert und somit getestet werden, ohne dass irgendwelche Hardwarekomponenten benötigt werden.
 
-Im Video wird die PLC und das Touch-Panel emuliert. Emulieren bedeutet die Funkionen eines Computers auf einam anderen Gerät nachbilden.
+Im Video wird die PLC und das Touch-Panel emuliert. Emulieren bedeutet die Funkionen eines Computers auf einem anderen Gerät nachbilden.
 
 Um eine SPS oder ein HMI zu simulieren, muss man das Bauteil im **Projektnavigator** unter **Geräte** anwählen und anschliessend in der Symbolleiste auf das Icon **Simulation starten** klicken.
 
