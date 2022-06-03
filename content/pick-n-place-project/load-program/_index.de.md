@@ -18,6 +18,6 @@ In einem zweiten Schritt muss man dem **Laptop**, welcher sich im gleichen Netzw
 
 In der Symbolleiste wählt man das Symbol **Laden in Gerät**, um das Programm auf die SPS zu laden.
 
-Da eine Safety Integrated SPS zum Einsatz kommt, müssen die beiden **Safety Karten** `20KF5` (Eingänge) und `20KF6` (Ausgänge) identifiziert werden. Man muss eine Profinet-Adresse zuweisen.
+Da eine Safety Integrated SPS zum Einsatz kommt, müssen die beiden **Safety Karten** `20KF5` (Eingänge) und `20KF6` (Ausgänge) identifiziert werden. Man muss eine Profisafe-Adresse zuweisen.
 
 Auf dem **HMI** klickt man auf **Settings** > **Transfer** > **PN/IE** > **Properties...** > **PN_X1** > **Specify an IP Address** > `192.168.10.5` um die IP-Adresse einzustellen. Ebenfalls muss man im Anschluss auf **Laden in Gerät** klicken.
