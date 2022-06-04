@@ -36,7 +36,7 @@ Zusätzlich zur Berufsschule besucht man die überbetriebliche Kurse im Ausbildu
 
 Es gibt enorm viele Weiterbildungsmöglichkeiten wie beispielsweise die Berufsprüfung zum **Automatikfachmann** oder die Höhere Fachprüfung zum **Meister Schaltanlagen und Automatik**. Die mit Abstand beliebtesten Weiterbildungen von Pamasol Automatikern waren bisher jedoch die Ausbildungen zum **Techniker** (HF - Höhere Fachschule ) oder zum **Ingenieur** (FH - Fachhochschule).
 
-Hat man die Berufsmatura gemacht, kann man sich beispielsweise an der [ost.ch]( https://www.ost.ch/de/) zum Ingenieur weiterbilden.
+Hat man die Berufsmatura gemacht, kann man sich beispielsweise an der [ost.ch]( https://www.ost.ch/de/) in Rapperswil zum Ingenieur weiterbilden.
 
 ### Was verdient man als Automatiker?
 
