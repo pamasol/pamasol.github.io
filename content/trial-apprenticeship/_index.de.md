@@ -48,7 +48,7 @@ Ok, die obigen Angaben helfen dir nicht wirklich weiter und wir möchten dich ni
 
 **Automatiker**
 * [Jobs.ch für Automatiker](https://www.jobs.ch/de/lohn/?canton=ch&term=automatiker), abgerufen am 05.06.2022.
-* CHF 65'027 Jahreslohn, was bei 12 Monaten einem Lohn von **CHF 5'419** entspricht pro Monat.
+* CHF 65'027 Jahreslohn, was bei 12 Monaten einem Lohn von **CHF 5'418.90** entspricht pro Monat.
 
 **Elektroingenieur**
 * [Jobs.ch für Elektroingenieure](https://www.jobs.ch/de/lohn/?canton=ch&term=elektroingenieur), abgerufen am 05.06.2022.
