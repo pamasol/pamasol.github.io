@@ -1,7 +1,7 @@
 +++
 chapter = false
 title = "Schaltschrank Steckbrett"
-weight = 1
+weight = 2
 +++
 
 ## Elektroschema zeichnen und verdrahten
@@ -27,5 +27,5 @@ TODO: Erklärung Aufgabe
 TODO: Erklärung Schema
 
 {{% notice info %}}
-Das Elektroschema mit den Aufgaben kann [hier](https://radicasoftware.com/app/publish/-N3K8EXFBIiQDAMhzdRG/Steckbrett_Schaltschrankbau) als Vorlage importiert werden. Wer das Schema nicht online mit [Electra Cloud](https://radicasoftware.com/) zeichnen möchte, kann es hier als [PDF herunterladen](./docs/Steckbrett_Schaltschrankbau.de.pdf).
+Das Elektroschema mit den Aufgaben kann [hier](https://radicasoftware.com/app/publish/-N3K8EXFBIiQDAMhzdRG/Steckbrett_Schaltschrankbau) als Vorlage importiert werden. Wer das Schema nicht online mit [Electra Cloud](https://radicasoftware.com/) zeichnen möchte, kann es [hier als PDF](./docs/Steckbrett_Schaltschrankbau.de.pdf) herunterladen.
 {{% /notice %}}

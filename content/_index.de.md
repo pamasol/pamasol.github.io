@@ -10,6 +10,7 @@ Diese Webseite wird von technikbegeisterten Mitarbeitern und Lernenden der Pamas
 
 ## Changelog
 
+* **05-Jun-22:** Kapitel Schnupperlehre überarbeitet
 * **19-May-22:** Kapitel Automatisierungsprojekt mit Unterkapiteln 4 HMI parametrieren inklusive Video befüllt
 * **17-May-22:** Kapitel Schnupperlehre erweitert mit Infos zum Beruf
 * **13-May-22:** Kapitel Automatisierungsprojekt mit Unterkapiteln 1 bis 3 inklusive Videos befüllt
