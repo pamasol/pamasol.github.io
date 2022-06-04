@@ -42,9 +42,9 @@ Hat man die Berufsmatura gemacht, kann man sich beispielsweise an der [ost.ch]( 
 
 Pauschal kann man das nicht beantworten. Enorm viele Faktoren wie Ausbildung, Funktion und Position eines Mitarbeiters oder der Standort und die Branche des Unternehmens spielen eine Rolle.
 
-Was man aber sagen kann. Macht jemand seinen Job gerne und ist Feuer und Flamme für seinen Beruf, wirkt sich das auch positiv aus Gehalt aus.
+Was man aber sagen kann. Macht jemand seinen Job gerne und ist Feuer und Flamme für seinen Beruf, wirkt sich das auch positiv aufs Gehalt aus.
 
-Ok, die obigen Angaben helfen dir nicht wirklich weiter und wir möchten dich nicht im Ungewissen stehen lassen. Folgende Zahlen sind vom Online Portal jobs.ch und können einen ungefähren Anhaltspunkt geben.
+Ok, die obigen Angaben helfen nicht wirklich weiter und wir möchten Interessierte nicht im Ungewissen stehen lassen. Folgende Zahlen sind vom Online Portal jobs.ch und können einen ungefähren Anhaltspunkt geben.
 
 **Automatiker**
 * [Jobs.ch für Automatiker](https://www.jobs.ch/de/lohn/?canton=ch&term=automatiker), abgerufen am 05.06.2022.
