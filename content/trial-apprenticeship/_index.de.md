@@ -40,7 +40,7 @@ Hat man die Berufsmatura gemacht, kann man sich beispielsweise an der [ost.ch]( 
 
 ### Was verdient man als Automatiker?
 
-Pauschal kann man das nicht beantworten. Enorm viele Faktoren wie Ausbildung, Funktion und Position eines Mitarbeiters oder der Standort und die Branche des Unternehmens spielen eine Rolle.
+Pauschal kann man das nicht beantworten. Enorm viele Faktoren wie Ausbildung, Arbeitserfahrung, Funktion und Position eines Mitarbeiters oder der Standort und die Branche des Unternehmens spielen eine Rolle.
 
 Was man aber sagen kann. Macht jemand seinen Job gerne und ist Feuer und Flamme für seinen Beruf, wirkt sich das auch positiv aufs Gehalt aus.
 
