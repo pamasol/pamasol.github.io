@@ -14,9 +14,9 @@ Im obigen Bild testet ein Pamasol-Mitarbeiter einen **Macromat LB20**. Das ist e
 
 Sobald die Anlage funktioniert und vom Kunden abgenommen wurde, wird sie in an den Produktionsstandort versendet. Das kann beispielsweise Australien, die USA oder Brasilien sein, aber auch Deutschland und die Schweiz. Es gibt Pamasol Anlagen auf **der ganzen Welt**, welche Milliarden von Spraydosen produzieren.
 
-Ausgelernte Automatiker haben bei Pamasol die Möglichkeit, andere **Länder und Kulturen** kennenzulernen. Denn die Anlagen, welche über die ganze Welt verteilt sind, werden durch Pamasol-Mitarbeiter vor Ort in Betrieb genommen und gewartet.
+Ausgelernte Automatiker haben die Möglichkeit, andere **Länder und Kulturen** kennenzulernen. Denn die Anlagen, welche über die ganze Welt verteilt sind, werden durch Pamasol-Mitarbeiter vor Ort in Betrieb genommen und gewartet.
 
-Aufgefallen ist es dir wahrscheinlich nicht, aber du hattest bestimmt schon eine Spraydose in der Hand, welche auf einer Pamasol Anlage gefüllt wurde (Deo, Farbspray, Backofenreiniger, Rasierschaum, Silikonspray, Öl-Spray, und so weiter).
+Aufgefallen ist es dir wahrscheinlich nicht, aber du hattest bestimmt schon eine Spraydose in der Hand, welche auf einer Pamasol Anlage gefüllt wurde (Deo, Farbspray, Backofenreiniger, Rasierschaum, WC-Duftspray, Silikonspray, Öl-Spray, ...die Liste wäre noch viel länger).
 
 Folgend einige Antworten zu Fragen, welche uns oft gestellt werden.
 
@@ -28,13 +28,15 @@ Immer mehr Aufgaben und Arbeiten werden von Maschinen und Robotern übernommen. 
 
 ### Wie lange dauert die Lehre und wo geht man zur Berufsschule?
 
-Die Lehre dauert **4 Jahre**. Während dieser Zeit besuchen die lernenden Automatiker bei Pamasol an einem bis zwei Tagen pro Woche die [Berufsschule](https://www.bbzg.ch/) **in Goldau**. Macht man die Berufsmatura während der Lehre, hat man in allen vier Lehrjahren zwei Tage Schule.
+Die Lehre dauert **4 Jahre**. Während dieser Zeit besuchen die Lernenden an einem bis zwei Tagen pro Woche die [Berufsschule](https://www.bbzg.ch/) **in Arth-Goldau**. Macht man die **Berufsmatura** während der Lehre, hat man in allen vier Lehrjahren zwei Tage Schule.
 
 Zusätzlich zur Berufsschule besucht man die überbetriebliche Kurse im Ausbildungszentrum der [Swissmechanic](https://sz.swissmechanic.ch/ausbildungszentrum) in Pfäffikon. Diese Kurse dauern jeweils einige Wochen.
 
 ### Welche Weiterbildungsmöglichkeiten gibt es?
 
-Es gibt enorm viele Weiterbildungsmöglichkeiten wie beispielsweise die Berufsprüfung zum **Automatikfachmann** oder die Höhere Fachprüfung zum **Meister Schaltanlagen und Automatik**. Die mit Abstand beliebtesten Weiterbildungen von Pamasol Automatikern waren bisher jedoch die Ausbildungen zum **Techniker** (HF - Höhere Fachschule ) oder zum **Ingenieur** (FH - Fachhochschule).
+Es gibt enorm viele Weiterbildungsmöglichkeiten wie beispielsweise die Berufsprüfung zum **Automatikfachmann** oder die Höhere Fachprüfung zum **Meister Schaltanlagen und Automatik**.
+
+Die mit Abstand beliebtesten Weiterbildungen von Pamasol Automatikern waren bisher jedoch die Ausbildungen zum **Techniker** (HF - Höhere Fachschule) oder das Studium zum **Ingenieur** ([FH - Fachhochschule](https://www.sbfi.admin.ch/sbfi/de/home/hs/hochschulen/kantonale-hochschulen/fh-ph/die-fachhochschulen-der-schweiz.html)).
 
 Hat man die Berufsmatura gemacht, kann man sich beispielsweise an der [ost.ch]( https://www.ost.ch/de/) in Rapperswil zum Ingenieur weiterbilden.
 
