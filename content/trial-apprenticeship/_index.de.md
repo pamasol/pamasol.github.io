@@ -40,7 +40,7 @@ Die mit Abstand beliebtesten Weiterbildungen von Pamasol Automatikern waren bish
 
 Hat man die Berufsmatura gemacht, kann man sich beispielsweise an der [ost.ch]( https://www.ost.ch/de/) in Rapperswil zum Ingenieur weiterbilden.
 
-### Was verdient man als Automatiker?
+### Was verdient man als gelernter Automatiker?
 
 Pauschal kann man das nicht beantworten. Enorm viele Faktoren wie Ausbildung, Arbeitserfahrung, Funktion und Position eines Mitarbeiters oder der Standort und die Branche des Unternehmens spielen eine Rolle.
 
@@ -48,11 +48,11 @@ Was man aber sagen kann. Macht jemand seinen Job gerne und ist Feuer und Flamme 
 
 Ok, die obigen Angaben helfen nicht wirklich weiter und wir möchten Interessierte nicht im Ungewissen stehen lassen. Folgende Zahlen sind vom Online Portal jobs.ch und können einen ungefähren Anhaltspunkt geben.
 
-**Automatiker**
+Automatiker
 * [Jobs.ch für Automatiker](https://www.jobs.ch/de/lohn/?canton=ch&term=automatiker), abgerufen am 05.06.2022.
 * CHF 65'027 Jahreslohn, was bei 12 Monaten einem Lohn von **CHF 5'418.90** entspricht pro Monat.
 
-**Elektroingenieur**
+Elektroingenieur
 * [Jobs.ch für Elektroingenieure](https://www.jobs.ch/de/lohn/?canton=ch&term=elektroingenieur), abgerufen am 05.06.2022.
 * CHF 96'981 Jahreslohn, was bei 12 Monaten einem Lohn von **CHF 8'081.75** entspricht pro Monat.
 
