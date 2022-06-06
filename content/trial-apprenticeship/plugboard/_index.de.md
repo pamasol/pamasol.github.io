@@ -16,32 +16,36 @@ Beim Zeichnend des Schemas sowie beim Verdrahten ist somit höchste Konzentratio
 
 ### Elektroschema Zeichnen via Electra Cloud
 
-Im professionellen Umfeld werden Elektroschemas auf Programmen wie [EPLAN P8](https://www.eplan.com/), [Zucken E3](https://www.zuken.com/) oder [WS-Cad](https://www.wscad.com/) gezeichnet.
+Im professionellen Umfeld werden Elektroschemas auf Programmen wie [EPLAN P8](https://www.eplan.com/), [Zucken E3](https://www.zuken.com/) oder [WS-CAD](https://www.wscad.com/) gezeichnet.
 
-Für das folgende Projekt empfehlen wir jedoch das einfach zu bedienende CAD [Electra Cloud von Radica Software](https://radicasoftware.com/). Die Grundfunktionen, welche **kostenlos** genutzt werden können, sind völlig ausreichend für die beschriebenen Aufgaben. Zudem muss die Software nicht installiert werden. Sie läuft im **Internet-Browser**.
+Für das folgende Projekt empfehlen wir jedoch das einfach zu bedienende CAD [Electra Cloud von Radica Software](https://radicasoftware.com/). Die Grundfunktionen, welche **kostenlos** genutzt werden können, sind völlig ausreichend für den gelegentlichen Gebrauch. Zudem muss die Software nicht installiert werden, sie läuft im **Internet-Browser**.
 
+{{% notice style="grey" icon="user-circle" title="Account erstellen" %}}
 Auf [radicasoftware.com/app/login](https://radicasoftware.com/app/login.php) kann man sich registrieren, um Zugriff auf den Schema-Editor zu erhalten.
+{{% /notice %}}
 
 ### Normen für das Zeichnen
 
-https://de.wikipedia.org/wiki/Schaltzeichen
+Wie man ein Elektroschema zeichnen muss, und insbesondere wie die **Schaltzeichen** aussehen, ist genormt. Das hat den Vorteil, dass die Schemas überall auf der Welt gleich aussehen und dass sie von jeder Elektrofachkraft gelesen werden können.
+
+Die Norm für Schaltzeichen heisst [IEC 60617](https://de.wikipedia.org/wiki/Schaltzeichen). Die relevanten Zeichen gibt es auf Wikipedia unter folgenden Links:
 
 * [Allgemeine Schaltzeichen](https://de.wikipedia.org/wiki/Liste_der_Schaltzeichen)
 * [Elektrik/Elektronik](https://de.wikipedia.org/wiki/Liste_der_Schaltzeichen_(Elektrik/Elektronik))
 * [Mess-, Steuer- und Regelungstechnik](https://de.wikipedia.org/wiki/Liste_der_Schaltzeichen_(Mess-,_Steuer-_und_Regelungstechnik))
 
-### Vorlage Aufgabe 1
+### Aufgaben
+
+{{% notice info %}}
+Das Elektroschema mit den Aufgaben kann [hier](https://radicasoftware.com/app/publish/-N3K8EXFBIiQDAMhzdRG/Steckbrett_Schaltschrankbau) als Electra Cloud Vorlage importiert werden. Wer das Schema nicht online mit [Electra Cloud](https://radicasoftware.com/) zeichnen möchte, kann es [hier als PDF](./docs/Steckbrett_Schaltschrankbau.de.pdf) herunterladen.
+{{% /notice %}}
+
+Alle Aufgaben sind im selben Stil aufgebaut. Links oben gibt es eine Beschreibung mit einem Vorschlag für die zu verwendenden Bauteile. Das 24VDC Potential ist ebenfalls schon eingezeichnet. Oben ist das Plus, unten das Minus.
+
+**Vorlage Aufgabe 1**
 
 ![Aufgabe 1 Vorlage](images/aufgabe-1.de.svg)
 
-TODO: Erklärung Aufgabe
-
-### Beispiellösung Aufgabe 1
+**Lösung Aufgabe 1**
 
 ![Aufgabe 1 Lösung](images/aufgabe-1_loesung.de.svg)
-
-TODO: Erklärung Schema
-
-{{% notice info %}}
-Das Elektroschema mit den Aufgaben kann [hier](https://radicasoftware.com/app/publish/-N3K8EXFBIiQDAMhzdRG/Steckbrett_Schaltschrankbau) als Vorlage importiert werden. Wer das Schema nicht online mit [Electra Cloud](https://radicasoftware.com/) zeichnen möchte, kann es [hier als PDF](./docs/Steckbrett_Schaltschrankbau.de.pdf) herunterladen.
-{{% /notice %}}
