@@ -40,9 +40,9 @@ Die Norm für Schaltzeichen heisst [IEC 60617](https://de.wikipedia.org/wiki/Sch
 Das Elektroschema mit den Aufgaben kann [hier](https://radicasoftware.com/app/publish/-N3K8EXFBIiQDAMhzdRG/Steckbrett_Schaltschrankbau) als Electra Cloud Vorlage importiert werden. Wer das Schema nicht online mit [Electra Cloud](https://radicasoftware.com/) zeichnen möchte, kann es [hier als PDF](./docs/Steckbrett_Schaltschrankbau.de.pdf) herunterladen.
 {{% /notice %}}
 
-Alle Aufgaben sind im selben Stil aufgebaut. Links oben gibt es eine Beschreibung mit einem Vorschlag für die zu verwendenden Bauteile. Das 24VDC Potential ist ebenfalls schon eingezeichnet. Oben ist das Plus, unten das Minus. Zwischen Plus und Minus können die Bauteile eingezeichnet werden.
+Alle Aufgaben sind im selben Stil aufgebaut. Links oben gibt es eine Beschreibung mit einem Vorschlag für die zu verwendenden Bauteile. Das 24VDC Potential ist ebenfalls schon eingezeichnet. Oben ist das Plus, unten das Minus.
 
-Folgend die Aufgabe 1 als Beispiel.
+Zwischen Plus und Minus können die Bauteile eingezeichnet werden. Folgend die Aufgabe 1 als Beispiel.
 
 **Vorlage Aufgabe 1**
 
