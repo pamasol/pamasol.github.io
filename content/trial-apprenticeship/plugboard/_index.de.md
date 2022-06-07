@@ -26,7 +26,7 @@ Auf [radicasoftware.com/app/login](https://radicasoftware.com/app/login.php) kan
 
 ### Normen für das Zeichnen
 
-Wie man ein Elektroschema zeichnen muss, und insbesondere wie die **Schaltzeichen** aussehen, ist genormt. Das hat den Vorteil, dass die Schemas überall auf der Welt gleich aussehen und dass sie von jeder Elektrofachkraft gelesen werden können.
+Wie man ein Elektroschema zeichnet und insbesondere wie die **Schaltzeichen** aussehen, ist genormt. Das hat den Vorteil, dass die Schemas überall auf der Welt gleich aussehen und dass sie von jeder Elektrofachkraft gelesen werden können.
 
 Die Norm für Schaltzeichen heisst [IEC 60617](https://de.wikipedia.org/wiki/Schaltzeichen). Die relevanten Zeichen gibt es auf Wikipedia unter folgenden Links:
 
@@ -40,12 +40,14 @@ Die Norm für Schaltzeichen heisst [IEC 60617](https://de.wikipedia.org/wiki/Sch
 Das Elektroschema mit den Aufgaben kann [hier](https://radicasoftware.com/app/publish/-N3K8EXFBIiQDAMhzdRG/Steckbrett_Schaltschrankbau) als Electra Cloud Vorlage importiert werden. Wer das Schema nicht online mit [Electra Cloud](https://radicasoftware.com/) zeichnen möchte, kann es [hier als PDF](./docs/Steckbrett_Schaltschrankbau.de.pdf) herunterladen.
 {{% /notice %}}
 
-Alle Aufgaben sind im selben Stil aufgebaut. Links oben gibt es eine Beschreibung mit einem Vorschlag für die zu verwendenden Bauteile. Das 24VDC Potential ist ebenfalls schon eingezeichnet. Oben ist das Plus, unten das Minus.
+Alle Aufgaben sind im selben Stil aufgebaut. Links oben gibt es eine Beschreibung mit einem Vorschlag für die zu verwendenden Bauteile. Das 24VDC Potential ist ebenfalls schon eingezeichnet. Oben ist das Plus, unten das Minus. Zwischen Plus und Minus können die Bauteile eingezeichnet werden.
+
+Folgend die Aufgabe 1 als Beispiel.
 
 **Vorlage Aufgabe 1**
 
 ![Aufgabe 1 Vorlage](images/aufgabe-1.de.svg)
 
-**Lösung Aufgabe 1**
+**Musterlösung Aufgabe 1**
 
 ![Aufgabe 1 Lösung](images/aufgabe-1_loesung.de.svg)
