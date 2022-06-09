@@ -34,6 +34,8 @@ Die Norm für Schaltzeichen heisst [IEC 60617](https://de.wikipedia.org/wiki/Sch
 * [Elektrik/Elektronik](https://de.wikipedia.org/wiki/Liste_der_Schaltzeichen_(Elektrik/Elektronik))
 * [Mess-, Steuer- und Regelungstechnik](https://de.wikipedia.org/wiki/Liste_der_Schaltzeichen_(Mess-,_Steuer-_und_Regelungstechnik))
 
+Keine Angst, man muss diese Zeichen nicht von Beginn weg kennen und beherrschen. Dazu bleibt in der Lehre genügend Zeit.
+
 ### Aufgaben
 
 {{% notice info %}}
