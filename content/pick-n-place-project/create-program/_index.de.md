@@ -14,8 +14,8 @@ Im **Main [OB1]** wird ein Programm erstellt, um die horizontale Achse des Robot
 Beschreibung                                 | Symbolische Adresse      | Absolute Addresse
 -------------------------------------------- | ------------------------ | -----------------
 Pick&Placer Bedienstelle Start (160SF3)      | `PIPL_Pa_SF_Start`       | E1.1
-Pick&Placer Schlitten einfahren (125MB1)     | `PIPL_MB_CarrierExtend`  | A0.4
-Pick&Placer Schlitten ausfahren (125MB2)     | `PIPL_MB_CarrierRetract` | A0.5
+Pick&Placer Schlitten ausfahren (125MB1)     | `PIPL_MB_CarrierExtend`  | A0.4
+Pick&Placer Schlitten einfahren (125MB2)     | `PIPL_MB_CarrierRetract` | A0.5
 Pick&Placer Bedienstelle Stop (160SF4)       | `PIPL_Pa_SF_Stop`        | E1.2
 PLC Clock 0.4s (2.5Hz)                       | `ME_PLC_Clock_0.4s`      | M0.2
 Pick&Placer Bedienstelle LED Start (160SF3)  | `PIPL_Pa_PF_Start`       | A1.2
