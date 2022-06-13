@@ -34,6 +34,8 @@ Das folgende Bild zeigt ein Modem, welches sich erfolgreich verbinden konnte. Zu
 
 Normalerweise muss **Ihre IT-Abteilung** nichts tun, damit sich das Modem mit dem Server verbinden kann. Der VPN-Tunnel wird vom Modem initiiert. Es gibt nur eine ausgehende Verbindung (**HTTPS-Port 443** oder **UDP-Port 1194**) und keine eingehenden Verbindungen. Deshalb müssen in der Firewall keine Ports freigegeben werden.
 
+Weitere Informationen zur Verbindung gibt es [in diesem Dokument in Englisch](docs/faq_remote_access.en.pdf).
+
 {{% notice info %}}
 Wenn es Verbindungsprobleme gibt (und LED T2M nicht leuchtet), wird empfohlen, die URL `*.talk2m.com` von Ihrer IT-Abteilung auf die Whitelist zu setzen.
 {{% /notice %}}
