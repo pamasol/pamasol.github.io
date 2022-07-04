@@ -11,7 +11,7 @@ weight = 8
 
 Als HMI (Human Machine Interface) **155PH1** kommt ein [KTP400 Comfort](https://mall.industry.siemens.com/mall/en/de/Catalog/Product/6AV2124-2DC01-0AX0) Panel von Siemens zum Einsatz. 400 steht für die Bidschirmgrösse, was in diesem Fall 4.3" ist. Die Auflösung beträgt 480 auf 272 Pixels.
 
-Eine Störung, welche die rote Lampe aufleuchten lässt, ist bereiets vorhanden im **Main [OB1]**, jedoch gibt es zu dieser Leuchte keine Fehlermeldung. Das wirt mit Hilfe des HMIS gemacht. Die Störmeldung wird in Netzwerk 7 generiert, wo es folgende Variabeln gibt.
+Eine Störung, welche die rote Lampe aufleuchten lässt, ist bereiets vorhanden im **Main [OB1]**, jedoch gibt es zu dieser Leuchte keine Fehlermeldung. Das wird mit Hilfe des HMIS gemacht. Die Störmeldung wird in Netzwerk 7 generiert, wo es folgende Variabeln gibt.
 
 Beschreibung                                 | Symbolische Adresse        | Absolute Addresse
 -------------------------------------------- | -------------------------- | -----------------
@@ -30,11 +30,11 @@ Damit man dem HMI Fehlermeldungen übergeben kann, muss man einen **Datenbaustei
   * Warnungen (Struct)
   * Meldungen (Struct)
 
-In einem weiteren Schritt klackt man in der Projektnavigation unter 155PH1 das Menü **HMI-Meldungen**. Bei den Tabs wählt man **Bitmeldungen** und fügt folgende Bitmeldungen ein. Damit verknüpft man die Meldungen auf dem HMI mit dem Programm.
+In einem weiteren Schritt klickt man in der Projektnavigation unter 155PH1 das Menü **HMI-Meldungen**. Bei den Tabs wählt man **Bitmeldungen** und fügt folgende Bitmeldungen ein. Damit verknüpft man die Meldungen auf dem HMI mit dem Programm.
 
 ID | Meldetext                                 | Meldeklasse | Triggervariable | Triggerbit | Triggeradresse
 -- | ----------------------------------------- | ----------- | --------------- | ---------- | --------------
-1  | Horizontalzylinder ist nicht ausgefahren  | Errors      | Fehler          | 8          | `%DB120.DBX1.0`
-2  | Horizontalzylinder ist nicht eingefahren  | Errors      | Fehler          | 9          | `%DB120.DBX1.1`
+1  | Horizontalzylinder ist nicht ausgefahren  | Errors      | Fehler          | 8          | `%DB120.DBX0.0`
+2  | Horizontalzylinder ist nicht eingefahren  | Errors      | Fehler          | 9          | `%DB120.DBX0.1`
 
 Im letzten Schritt wird ein Bild erstellt mit einer **Meldeanzeige**.
