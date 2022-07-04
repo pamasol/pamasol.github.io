@@ -67,6 +67,7 @@ Die elektrischen Bauteile sowie gelöteten Schaltkreise und die Programmierung w
 | Nicolas Diethelm | 2020-2024 | Automatiker | [Download PDF](./docs/2022-06-02_Nibo_Doku_NicolasDiethelm.de.pdf)
 | Flavio Knobel    | 2020-2024 | Automatiker | [Download PDF](./docs/2022-05-23_Nibo_Doku_FlavioKnobel.de.pdf)
 | Kevin Kälin      | 2021-2025 | Automatiker |
+| Linus Lacher     | 2022-2026 | Automatiker |
 
 {{% notice info %}}
 Die Projektbeschreibung in Englisch sowie alle Aufgaben und Hilfestellungen gibt es in folgendem GitHub Repository: https://github.com/pamasol/Lehrlingsprojekt-Nibo-Burger
