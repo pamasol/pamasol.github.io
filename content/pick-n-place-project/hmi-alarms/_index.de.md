@@ -1,6 +1,6 @@
 +++
 title = "HMI Alarmmeldungen"
-weight = 9
+weight = 10
 +++
 
 ## HMI-Bitmeldungen auf Touch-Panel anzeigen

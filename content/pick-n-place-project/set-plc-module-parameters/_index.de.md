@@ -1,6 +1,6 @@
 +++
 title = "Modulkarten parametrieren"
-weight = 3
+weight = 4
 +++
 
 ## Central processing unit (CPU) und IOs konfigurieren

@@ -1,6 +1,6 @@
 +++
 title = "Kurzübersicht TIA V16"
-weight = 1
+weight = 2
 +++
 
 ## Wie die Entwicklungsumgebung TIA Portal aufgebaut ist

@@ -1,6 +1,6 @@
 +++
 title = "Programm erstellen"
-weight = 7
+weight = 8
 +++
 
 ## Erstes Programm für Pick&Place Roboter

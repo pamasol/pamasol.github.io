@@ -1,6 +1,6 @@
 +++
 title = "Visualisierung erstellen"
-weight = 8
+weight = 9
 +++
 
 ## Bindeglied zwischen Mensch und Maschine entwerfen

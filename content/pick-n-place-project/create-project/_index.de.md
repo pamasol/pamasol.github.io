@@ -1,6 +1,6 @@
 +++
 title = "Neues Projekt erstellen"
-weight = 2
+weight = 3
 +++
 
 ## Die SPS Hardwarekonfiguration als Basis

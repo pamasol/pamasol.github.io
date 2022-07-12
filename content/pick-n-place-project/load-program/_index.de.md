@@ -1,6 +1,6 @@
 +++
 title = "Programm laden"
-weight = 6
+weight = 7
 +++
 
 ## Download des Programms vom PC auf SPS und HMI

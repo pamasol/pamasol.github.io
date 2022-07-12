@@ -1,6 +1,6 @@
 +++
 title = "SPS simulieren"
-weight = 5
+weight = 6
 +++
 
 ## CPU und HMI emulieren für Tests ohne Hardware

@@ -1,6 +1,6 @@
 +++
 title = "HMI parametrieren"
-weight = 4
+weight = 5
 +++
 
 ## 4-Zoll Touch-Panel Siemens KTP400 Comfort
