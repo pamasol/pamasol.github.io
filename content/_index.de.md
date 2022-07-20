@@ -10,6 +10,7 @@ Diese Webseite wird von technikbegeisterten Mitarbeitern und Lernenden der Pamas
 
 ## Changelog
 
+* **20-Jul-22:** Kapitel Pick&Place Roboter mit Kapitel 10 von 10 vervollständigt
 * **05-Jun-22:** Kapitel Schnupperlehre überarbeitet
 * **19-May-22:** Kapitel Automatisierungsprojekt mit Unterkapiteln 4 HMI parametrieren inklusive Video befüllt
 * **17-May-22:** Kapitel Schnupperlehre erweitert mit Infos zum Beruf
