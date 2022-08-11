@@ -32,6 +32,7 @@ Die mit Kommentaren versehenen Projekte können als TIA Archivdatei (`*.zap16`, 
 
 | Name             | Lehrjahr  | Lehrberuf   | Programm        |
 | ---------------- | --------- | ----------- | --------------- |
+| Stefan Feier     | 2019-2023 | Automatiker |
 | Nicolas Diethelm | 2020-2024 | Automatiker | [Download ZAP16](./docs/NicolasDiethelm/ND_PiPl_20220809_0738.zap16)
 | Flavio Knobel    | 2020-2024 | Automatiker | [Download ZAP16](./docs/FlavioKnobel/FK_PiPl_20220809_0739.zap16)
 | Kevin Kälin      | 2021-2025 | Automatiker |
