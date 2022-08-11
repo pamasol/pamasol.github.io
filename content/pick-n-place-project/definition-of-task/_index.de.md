@@ -23,7 +23,7 @@ Die Positionen der wichtigsten Sensoren können folgender Grafik entnommen werde
 ![Festo Pick&Place Robot](./images/festo_pick_n_place_overview.de.png)
 
 {{% notice info %}}
-Das Elektroschema des Steuerschranks kann [hier als PDF](./docs/Pick_and_Placer.de.pdf) heruntergeladen werden.
+Das Elektroschema des Steuerschranks kann [hier als PDF](./docs/Pick_and_Placer_4_eView-5.de.pdf) heruntergeladen werden.
 {{% /notice %}}
 
 ## Dokumentation
