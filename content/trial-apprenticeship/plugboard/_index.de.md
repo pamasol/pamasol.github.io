@@ -39,7 +39,7 @@ Keine Angst, man muss diese Zeichen nicht von Beginn weg kennen und beherrschen.
 ### Aufgaben
 
 {{% notice info %}}
-Das Elektroschema mit den Aufgaben kann [hier](https://radicasoftware.com/app/publish/-N3K8EXFBIiQDAMhzdRG/Steckbrett_Schaltschrankbau) als Electra Cloud Vorlage importiert werden. Wer das Schema nicht online mit [Electra Cloud](https://radicasoftware.com/) zeichnen möchte, kann es [hier als PDF](./docs/Steckbrett_Schaltschrankbau.de.pdf) herunterladen.
+Das Elektroschema mit den Aufgaben kann [hier](https://radicasoftware.com/app/publish/-N3K8EXFBIiQDAMhzdRG/Steckbrett_Schaltschrankbau) als Capital™ Electra™ X Vorlage importiert werden. Wer das Schema nicht online mit [Capital™ Electra™ X](https://radicasoftware.com/) von Siemens zeichnen möchte, kann es [hier als PDF](./docs/Steckbrett_Schaltschrankbau.de.pdf) herunterladen.
 {{% /notice %}}
 
 Alle Aufgaben sind im selben Stil aufgebaut. Links oben gibt es eine Beschreibung mit einem Vorschlag für die zu verwendenden Bauteile. Das 24VDC Potential ist ebenfalls schon eingezeichnet. Oben ist das Plus, unten das Minus.
