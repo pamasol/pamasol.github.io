@@ -30,13 +30,13 @@ Immer mehr Aufgaben und Arbeiten werden von Maschinen und Robotern übernommen. 
 
 Die Lehre dauert **4 Jahre**. Während dieser Zeit besuchen die Lernenden an einem bis zwei Tagen pro Woche die [Berufsschule](https://www.bbzg.ch/) **in Arth-Goldau**. Macht man die **Berufsmatura** während der Lehre, hat man in allen vier Lehrjahren zwei Tage Schule.
 
-Zusätzlich zur Berufsschule besucht man die überbetriebliche Kurse im Ausbildungszentrum der [Swissmechanic](https://sz.swissmechanic.ch/ausbildungszentrum) in Pfäffikon. Diese Kurse dauern jeweils einige Wochen.
+Zusätzlich zur Berufsschule besucht man die überbetrieblichen Kurse im Ausbildungszentrum der [Swissmechanic](https://sz.swissmechanic.ch/ausbildungszentrum) in Pfäffikon. Diese Kurse dauern jeweils einige Wochen.
 
 ### Welche Weiterbildungsmöglichkeiten gibt es?
 
 Es gibt enorm viele Weiterbildungsmöglichkeiten wie beispielsweise die Berufsprüfung zum **Automatikfachmann** oder die Höhere Fachprüfung zum **Meister Schaltanlagen und Automatik**.
 
-Die mit Abstand beliebtesten Weiterbildungen von Pamasol Automatikern waren bisher jedoch die Ausbildungen zum **Techniker** (HF - Höhere Fachschule) oder das Studium zum **Ingenieur** ([FH - Fachhochschule](https://www.sbfi.admin.ch/sbfi/de/home/hs/hochschulen/kantonale-hochschulen/fh-ph/die-fachhochschulen-der-schweiz.html)).
+Die mit Abstand beliebtesten Weiterbildungen von Pamasol Automatikern waren bisher jedoch die Ausbildungen zum **Techniker** ([HF - Höhere Fachschule](https://www.sbfi.admin.ch/sbfi/de/home/bildung/hbb/hoehere-fachschulen.html)) oder das Studium zum **Ingenieur** ([FH - Fachhochschule](https://www.sbfi.admin.ch/sbfi/de/home/hs/hochschulen/kantonale-hochschulen/fh-ph/die-fachhochschulen-der-schweiz.html)).
 
 Hat man die Berufsmatura gemacht, kann man sich beispielsweise an der [ost.ch]( https://www.ost.ch/de/) in Rapperswil zum Ingenieur weiterbilden.
 
