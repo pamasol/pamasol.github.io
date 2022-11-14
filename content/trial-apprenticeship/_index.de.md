@@ -42,7 +42,7 @@ Hat man die Berufsmatura gemacht, kann man sich beispielsweise an der [ost.ch]( 
 
 ### Was verdient man als gelernter Automatiker?
 
-Pauschal kann man das nicht beantworten. Enorm viele Faktoren wie Ausbildung, Arbeitserfahrung, Funktion und Position eines Mitarbeiters oder der Standort und die Branche des Unternehmens spielen eine Rolle.
+Pauschal kann man das nicht beantworten. Enorm viele Faktoren wie Arbeitserfahrung, Funktion und Position eines Mitarbeiters oder der Standort und die Branche des Unternehmens spielen eine Rolle.
 
 Was man aber sagen kann. Macht jemand seinen Job gerne und ist Feuer und Flamme für seinen Beruf, wirkt sich das auch positiv aufs Gehalt aus.
 
@@ -61,6 +61,38 @@ Elektroingenieur
 <div class="shadow">
   {{< youtube WvwIp-llLqQ >}}
 </div>
+
+### Wie viele Automatiker hat Pamasol schon ausgebildet?
+
+| #  | Name                   | Lehrjahr  | Berufsbezeichnung |
+| -- | ---------------------- | --------- | ----------------- |
+| 1  | Beat Ziegler           | 1996-2000 | Elektromechaniker |
+| 2  | Ralph Kühn             | 1996-2000 | Elektromechaniker |
+| 3  | Andreas Schuler        | 1997-2001 | Elektromechaniker |
+| 4  | Eric Ziegler           | 1997-2001 | Elektromechaniker |
+| 5  | Patrick Lechner        | 1998-2002 | Automatiker       |
+| 6  | Yves Gautschi          | 1999-2003 | Automatiker       |
+| 7  | André Kälin            | 2000-2004 | Automatiker       |
+| 8  | Philipp Bruhin         | 2001-2005 | Automatiker       |
+| 9  | Matthias Bamert        | 2002-2006 | Automatiker       |
+| 10 | Roger Kälin            | 2002-2006 | Automatiker       |
+| 11 | Pascal Kälin           | 2003-2007 | Automatiker       |
+| 12 | Michel Keller          | 2004-2008 | Automatiker       |
+| 13 | Urban Bruhin           | 2005-2009 | Automatiker       |
+| 14 | Silvan Donner          | 2006-2010 | Automatiker       |
+| 15 | Simon Schätti          | 2007-2011 | Automatiker       |
+| 16 | Andreas Kälin          | 2008-2012 | Automatiker       |
+| 17 | Maurus Meier           | 2009-2013 | Automatiker       |
+| 18 | Tom Lauper             | 2010-2014 | Automatiker       |
+| 19 | Roman Feusi            | 2011-2015 | Automatiker       |
+| 20 | Lukas Kägi             | 2012-2016 | Automatiker       |
+| 21 | Sven Faas              | 2013-2017 | Automatiker       |
+| 22 | Fabian Suter           | 2014-2018 | Automatiker       |
+| 23 | Elias Kälin            | 2015-2019 | Automatiker       |
+| 24 | Marvin Büeler          | 2016-2020 | Automatiker       |
+| 25 | Joël Glaus             | 2017-2021 | Automatiker       |
+| 26 | Jonas Bisig            | 2018-2022 | Automatiker       |
+| 27 | David Bernhard         | 2018-2022 | Automatiker       |
 
 {{% notice tip %}}
 Auf der [offiziellen Webseite von Pamasol](https://www.pamasol.com/de/wer-wir-sind#lehrstellen#panel2084) kannst du dich zu allen Lehrberufen informieren, welche angeboten werden.
