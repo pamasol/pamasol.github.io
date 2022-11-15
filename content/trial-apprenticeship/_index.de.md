@@ -72,7 +72,7 @@ Elektroingenieur
 | 4  | Reto Inderbitzin    | 1995-2998 | Elektromechaniker |
 | 5  | Beat Ziegler        | 1996-2000 | Elektromechaniker |
 | 6  | Ralph Kühn          | 1996-2000 | Elektromechaniker |
-| 7  | Andreas Schuler     | 1997-2001 | Automatiker       |
+| 7  | Andreas Schuler     | 1997-2001 | Elektromechaniker |
 | 8  | Eric Ziegler        | 1997-2001 | Automatiker       |
 | 9  | Ernst Späni         | 1998-2002 | Automatiker       |
 | 10 | Patrick Lechner     | 1998-2002 | Automatiker       |
