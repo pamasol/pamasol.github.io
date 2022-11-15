@@ -66,8 +66,8 @@ Elektroingenieur
 
 | #  | Name                | Lehrjahr    | Berufsbezeichnung |
 | -- | ------------------- | ----------- | ----------------- |
-| 48 | Jonas Bisig         | 2018 - 2022 | Automatiker       |
-| 49 | David Bernhard      | 2018 - 2022 | Automatiker       |
+| 49 | Jonas Bisig         | 2018 - 2022 | Automatiker       |
+| 48 | David Bernhard      | 2018 - 2022 | Automatiker       |
 | 47 | Joël Glaus          | 2017 - 2021 | Automatiker       |
 | 46 | Marvin Büeler       | 2016 - 2020 | Automatiker       |
 | 45 | Elias Kälin         | 2015 - 2019 | Automatiker       |
@@ -83,34 +83,34 @@ Elektroingenieur
 | 35 | Urban Bruhin        | 2005 - 2009 | Automatiker       |
 | 34 | Michel Keller       | 2004 - 2008 | Automatiker       |
 | 33 | Pascal Kälin        | 2003 - 2007 | Automatiker       |
-| 31 | Matthias Bamert     | 2002 - 2006 | Automatiker       |
-| 32 | Roger Kälin         | 2002 - 2006 | Automatiker       |
+| 32 | Matthias Bamert     | 2002 - 2006 | Automatiker       |
+| 31 | Roger Kälin         | 2002 - 2006 | Automatiker       |
 | 30 | Philipp Bruhin      | 2001 - 2005 | Automatiker       |
 | 29 | André Kälin         | 2000 - 2004 | Automatiker       |
 | 28 | Yves Gautschi       | 1999 - 2003 | Automatiker       |
-| 26 | Ernst Späni         | 1998 - 2002 | Automatiker       |
-| 27 | Patrick Lechner     | 1998 - 2002 | Automatiker       |
-| 24 | Andreas Schuler     | 1997 - 2001 | Elektromechaniker |
-| 25 | Eric Ziegler        | 1997 - 2001 | Elektromechaniker |
+| 27 | Ernst Späni         | 1998 - 2002 | Automatiker       |
+| 26 | Patrick Lechner     | 1998 - 2002 | Automatiker       |
+| 25 | Andreas Schuler     | 1997 - 2001 | Elektromechaniker |
+| 24 | Eric Ziegler        | 1997 - 2001 | Elektromechaniker |
 | 23 | Ralph Kühn          | 1996 - 2000 | Elektromechaniker |
-| 22 | Beat Ziegler        | 1996  -2000 | Elektromechaniker |
+| 22 | Beat Ziegler        | 1996  -2000 | Elektromechaniker |
 | 21 | Reto Inderbitzin    | 1995 - 1998 | Elektromechaniker |
-| 19 | Christof von Allmen | 1994 - 1998 | Elektromechaniker |
-| 20 | Patrick Kühne       | 1994 - 1998 | Elektromechaniker |
+| 20 | Christof von Allmen | 1994 - 1998 | Elektromechaniker |
+| 19 | Patrick Kühne       | 1994 - 1998 | Elektromechaniker |
 | 18 | Roman Späni         | 1993 - 1997 | Elektromechaniker |
-| 15 | Reto Bachmann       | 1992 - 1996 | Elektromechaniker |
+| 17 | Reto Bachmann       | 1992 - 1996 | Elektromechaniker |
 | 16 | Marco Kälin         | 1992 - 1996 | Elektromechaniker |
-| 17 | Andreas Knobel      | 1992 - 1996 | Elektromechaniker |
+| 15 | Andreas Knobel      | 1992 - 1996 | Elektromechaniker |
 | 14 | Martin Ruoss        | 1992 - 1994 | Elektromechaniker |
 | 13 | Marco Räber         | 1991 - 1995 | Elektromechaniker |
 | 12 | Kessler Patrick     | 1990 - 1994 | Elektromechaniker |
-| 10 | Marco Corvi         | 1989 - 1993 | Elektromechaniker |
-| 11 | Michael Kistler     | 1989 - 1993 | Elektromechaniker |
-| 8  | Patrik Diethelm     | 1988 - 1992 | Elektromechaniker |
-| 9  | Michael Manser      | 1988 - 1992 | Elektromechaniker |
+| 11 | Marco Corvi         | 1989 - 1993 | Elektromechaniker |
+| 10 | Michael Kistler     | 1989 - 1993 | Elektromechaniker |
+| 9  | Patrik Diethelm     | 1988 - 1992 | Elektromechaniker |
+| 8  | Michael Manser      | 1988 - 1992 | Elektromechaniker |
 | 7  | Daniel Schätti      | 1986 - 1990 | Elektromechaniker |
-| 5  | Oskar Mäder         | 1985 - 1989 | Elektromechaniker |
-| 6  | Edgar Pfister       | 1985 - 1989 | Elektromechaniker |
+| 6  | Oskar Mäder         | 1985 - 1989 | Elektromechaniker |
+| 5  | Edgar Pfister       | 1985 - 1989 | Elektromechaniker |
 | 4  | Armin Zonder        | 1984 - 1988 | Elektromechaniker |
 | 3  | Peter Pedros        | 1982 - 1986 | Elektromechaniker |
 | 2  | Josef Schnüriger    | 1980 - 1984 | Elektromechaniker |
