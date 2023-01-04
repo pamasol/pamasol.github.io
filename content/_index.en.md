@@ -12,5 +12,6 @@ This website is maintained by employees and trainees at Pamasol Willi Mäder AG 
 
 ## Changelog
 
+* **04-Jan-23:** Template update
 * **17-Feb-22:** Support section extended with image of EWON Cosy 131
 * **15-Feb-22:** Support section added
