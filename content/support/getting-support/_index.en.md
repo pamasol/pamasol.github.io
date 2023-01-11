@@ -19,13 +19,13 @@ In a second step try to describe the error or malfunction. You should also ask y
 
 4. Has **something been changed prior** to the error occurrence? For example, was there a changeover, centerlining, servicing, shift change, recipe change?
 
-5. **Had you been in contact** with the after sales team regarding this machine or this issue **in the past** already?
+5. **Have you been in contact** with the after sales team regarding this machine or this issue **in the past** already?
 
 6. Has some **troubleshooting been performed already**? If so, what has been tested or checked?
 
 7. Is Pamasol **up to date regarding hard- and software** or have some modifications been done without involving Pamasol? For example a wiring change in the control cabinet or a sensor replacement.
 
-8. Can **photos and vides** be provided along with the error description?
+8. Can **photos and videos** be provided along with the error description?
 
 {{% notice tip %}}
 The Pamasol after sales team can be reached via email [after-sales@pamasol.com](after-sales@pamasol.com) or phone [+41 55 417 40 40](tel:+41554174040).

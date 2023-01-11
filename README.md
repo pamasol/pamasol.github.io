@@ -45,6 +45,10 @@ Source code of [pamasol.github.io](https://pamasol.github.io/) website, based on
     * `hugo help` gives you a command overview
     * `hugo server -D` runs a local server with drafts enabled.
     * `hugo -D` builds static pages and puts into folder `docs`. Not needed in this repo since build and deployment realized with GitHub actions.
+    * `git status` calls for the status of your local file, for example to check on untracked files
+    * `git add -- all` Adds everything up for the commit, such as untracked files etc.
+    * `git commit -m "text" ` Commits everything, the text can be changed to a commentary of the changes
+    * `git push` Pushes everything up to the server
 
 ## Deployment
 

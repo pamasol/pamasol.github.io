@@ -10,9 +10,9 @@ weight = 1
 
 Interessiert dich der Beruf des **Automatikers**? Dann nichts wie los, melde dich zur Schnupperlehre an und du erhältst einen Einblick in die spannende Welt des Maschinenbaus – angefangen von der **mechanischen Bearbeitung** und Montage, über die **Verdrahtung** von Elektrokomponenten bis hin zur **Pneumatiksteuerung** und **Softwareentwicklung**.
 
-Im obigen Bild testet ein Pamasol-Mitarbeiter einen **Macromat LB20**. Das ist eine Abfüll- und Verschliessmaschine für Spraydosen. Während sich Polymechaniker und Metallbauer um Mechanik und Metallteile kümmern, baut der **Automatiker** alle elektrischen Komponenten wie **Sensoren, Motoren** und den grossen **Touch-Screen** an. Im Anschluss wird die **SPS** (das ist der Computer und somit das Hirn der Anlage) **programmiert** und damit der Maschine Leben eingehaucht.
+Im obigen Bild testet ein Pamasol-Mitarbeiter einen **Macromat LB20**. Das ist eine Abfüll- und Verschliessmaschine für Spraydosen. Während sich Polymechaniker und Metallbauer um Mechanik und Metallteile kümmern, baut der **Automatiker** alle elektrischen Komponenten wie **Sensoren, Motoren** und den grossen **Touchscreen** an. Im Anschluss wird die **SPS** (das ist der Computer und somit das Hirn der Anlage) **programmiert** und damit der Maschine Leben eingehaucht.
 
-Sobald die Anlage funktioniert und vom Kunden abgenommen wurde, wird sie in an den Produktionsstandort versendet. Das kann beispielsweise Australien, die USA oder Brasilien sein, aber auch Deutschland und die Schweiz. Es gibt Pamasol Anlagen auf **der ganzen Welt**, welche Milliarden von Spraydosen produzieren.
+Sobald die Anlage funktioniert und vom Kunden abgenommen wurde, wird sie in an den Produktionsstandort versendet. Das kann beispielsweise Australien, die USA oder Brasilien sein, aber auch Deutschland und die Schweiz. Es gibt Pamasolanlagen auf **der ganzen Welt**, welche Milliarden von Spraydosen produzieren.
 
 Ausgelernte Automatiker haben die Möglichkeit, andere **Länder und Kulturen** kennenzulernen. Denn die Anlagen, welche über die ganze Welt verteilt sind, werden durch Pamasol-Mitarbeiter vor Ort in Betrieb genommen und gewartet.
 
@@ -30,7 +30,7 @@ Immer mehr Aufgaben und Arbeiten werden von Maschinen und Robotern übernommen. 
 
 Die Lehre dauert **4 Jahre**. Während dieser Zeit besuchen die Lernenden an einem bis zwei Tagen pro Woche die [Berufsschule](https://www.bbzg.ch/) **in Arth-Goldau**. Macht man die **Berufsmatura** während der Lehre, hat man in allen vier Lehrjahren zwei Tage Schule.
 
-Zusätzlich zur Berufsschule besucht man die überbetrieblichen Kurse im Ausbildungszentrum der [Swissmechanic](https://sz.swissmechanic.ch/ausbildungszentrum) in Pfäffikon. Diese Kurse dauern jeweils einige Wochen.
+Zusätzlich zur Berufsschule besucht man die überbetrieblichen Kurse im Ausbildungszentrum der [Swissmechanic](https://sz.swissmechanic.ch/ausbildungszentrum) in Pfäffikon SZ. Diese Kurse dauern jeweils einige Wochen.
 
 ### Welche Weiterbildungsmöglichkeiten gibt es?
 
@@ -38,13 +38,13 @@ Es gibt enorm viele Weiterbildungsmöglichkeiten wie beispielsweise die Berufspr
 
 Die mit Abstand beliebtesten Weiterbildungen von Pamasol Automatikern waren bisher jedoch die Ausbildungen zum **Techniker** ([HF - Höhere Fachschule](https://www.sbfi.admin.ch/sbfi/de/home/bildung/hbb/hoehere-fachschulen.html)) oder das Studium zum **Ingenieur** ([FH - Fachhochschule](https://www.sbfi.admin.ch/sbfi/de/home/hs/hochschulen/kantonale-hochschulen/fh-ph/die-fachhochschulen-der-schweiz.html)).
 
-Hat man die Berufsmatura gemacht, kann man sich beispielsweise an der [ost.ch]( https://www.ost.ch/de/) in Rapperswil zum Ingenieur weiterbilden.
+Hat man die Berufsmatura gemacht, kann man sich beispielsweise an der [ost.ch](https://www.ost.ch/de/) in Rapperswil zum Ingenieur weiterbilden.
 
 ### Was verdient man als gelernter Automatiker?
 
 Pauschal kann man das nicht beantworten. Enorm viele Faktoren wie Arbeitserfahrung, Funktion und Position eines Mitarbeiters oder der Standort und die Branche des Unternehmens spielen eine Rolle.
 
-Was man aber sagen kann. Macht jemand seinen Job gerne und ist Feuer und Flamme für seinen Beruf, wirkt sich das auch positiv aufs Gehalt aus.
+Was man aber sagen kann: Macht jemand seinen Job gerne und ist Feuer und Flamme für seinen Beruf, wirkt sich das auch positiv aufs Gehalt aus.
 
 Ok, die obigen Angaben helfen nicht wirklich weiter und wir möchten Interessierte nicht im Ungewissen stehen lassen. Folgende Zahlen sind vom Online Portal jobs.ch und können einen ungefähren Anhaltspunkt geben.
 

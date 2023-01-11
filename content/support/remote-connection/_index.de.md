@@ -5,7 +5,7 @@ weight = 2
 
 ## Fehleranalyse und Support via Fernwartung
 
-Die meisten Anlagen sind mit einem **Fernwartungsmodul** ausgestattet, welches eine sichere Verbindung via Internet von der Anlage zum Pamasol Techniker herstellt.
+Die meisten Anlagen sind mit einem **Fernwartungsmodul** ausgestattet, welches eine sichere Verbindung via Internet von der Anlage zum Pamasol-Techniker herstellt.
 
 Es handelt sich grösstenteils um ein blau gefärbtes Gerät von den Herstellern «EWON» oder «VIPA», welches im Hauptschaltschrank eingebaut ist. Das folgende Bild zeigt ein EWON Gateway.
 
