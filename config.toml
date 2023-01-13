@@ -21,6 +21,7 @@ relativeURLs = true
   disableMermaid = false
   titleSeparator = "-"
   themeVariant = "pamasol"
+  additionalContentLanguage = [ "de", "en" ]
 
 [outputs]
   home = ["HTML", "RSS", "PRINT", "JSON"]

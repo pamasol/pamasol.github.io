@@ -12,6 +12,8 @@ This website is maintained by employees and trainees at Pamasol Willi Mäder AG 
 
 ## Changelog
 
+* **13-Jan-23:** Plugboard & railway lamp translated
+* **11-Jan-23:** README updated, several text modifications, trial apprenticeship translated
 * **04-Jan-23:** Template update
 * **17-Feb-22:** Support section extended with image of EWON Cosy 131
 * **15-Feb-22:** Support section added
