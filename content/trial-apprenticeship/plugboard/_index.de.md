@@ -12,13 +12,13 @@ Zu den wichtigsten Aufgaben des Automatikers zählt das **Planen** und **Verdrah
 
 Gefüllt sind die Schränke mit komplexer **Elektronik**, welche mittels **Litzen** (flexible Drähte) verbunden werden. Ist von den vielen hundert Litzen nur eine falsch angeschlossen, läuft die Anlage nicht. Im dümmsten Fall gehen sogar Bauteile kaputt, welche so teuer sind wie ein Auto.
 
-Beim Zeichnend des Schemas sowie beim Verdrahten ist somit höchste Konzentration und Vorsicht geboten. Allem voran kommt jedoch das Üben – und genau das wird bei dieser Aufgabe gemacht.
+Beim Zeichnen des Schemas sowie beim Verdrahten ist somit höchste Konzentration und Vorsicht geboten. Allem voran kommt jedoch das Üben – und genau das wird bei dieser Aufgabe gemacht.
 
-### Elektroschema Zeichnen via Electra Cloud
+### Elektroschema zeichnen via Capital Electra X
 
 Im professionellen Umfeld werden Elektroschemas auf Programmen wie [EPLAN P8](https://www.eplan.com/), [Zucken E3](https://www.zuken.com/) oder [WS-CAD](https://www.wscad.com/) gezeichnet.
 
-Für das folgende Projekt empfehlen wir jedoch das einfach zu bedienende CAD [Electra Cloud von Radica Software](https://radicasoftware.com/). Die Grundfunktionen, welche **kostenlos** genutzt werden können, sind völlig ausreichend für den gelegentlichen Gebrauch. Zudem muss die Software nicht installiert werden, sie läuft im **Internet-Browser**.
+Für das folgende Projekt empfehlen wir jedoch das einfach zu bedienende CAD [Capital Electra X von Radica Software and Siemens](https://radicasoftware.com/). Die Grundfunktionen, welche **kostenlos** genutzt werden können, sind völlig ausreichend für den gelegentlichen Gebrauch. Zudem muss die Software nicht installiert werden, sie läuft im **Internet-Browser**.
 
 {{% notice style="grey" icon="user-circle" title="Account erstellen" %}}
 Auf [radicasoftware.com/app/login](https://radicasoftware.com/app/login.php) kann man sich registrieren, um Zugriff auf den Schema-Editor zu erhalten.
