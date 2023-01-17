@@ -12,6 +12,7 @@ This website is maintained by employees and trainees at Pamasol Willi Mäder AG 
 
 ## Changelog
 
+* **17-Jan-23:** Electronics project translated
 * **13-Jan-23:** Plugboard & railway lamp translated
 * **11-Jan-23:** README updated, several text modifications, trial apprenticeship translated
 * **04-Jan-23:** Template update

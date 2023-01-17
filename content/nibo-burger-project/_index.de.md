@@ -12,7 +12,7 @@ Neben Berufsschule, den überbetrieblichen [Swissmechanic](https://www.swissmech
 
 NIBO Burger repräsentiert das **Elektronikprojekt** der Ausbildung. Es handelt sich hierbei um einen kleinen Roboter, welcher von den Lernenden zusammengebaut, **gelötet** und in der [Hochsprache C](https://de.wikipedia.org/wiki/C_(Programmiersprache)) programmiert wird.
 
-Die Aufgabenstellung, wie auch sämtliche Datenblätter und Wiki Beiträge sind in Englisch geschrieben. Nach dem Zusammenbau und den Funktionstests, erhalten die Lernenden eine Einführung in die **C-Programmierung**. Den Projekthöhepunt bilden die unten folgend beschriebenen «Master-Tasks».
+Die Aufgabenstellung, wie auch sämtliche Datenblätter und Wiki Beiträge, sind in Englisch geschrieben. Nach dem Zusammenbau und den Funktionstests, erhalten die Lernenden eine Einführung in die **C-Programmierung**. Den Projekthöhepunt bilden die unten folgend beschriebenen «Master-Tasks».
 
 Als Bonusaufgabe wird der Roboter mit **3D-Druck Bauteilen** optisch aufgepeppt. Folgend als exemplarisches Beispiel ein [Heckspoiler](https://a360.co/3FAwiLr).
 
