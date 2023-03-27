@@ -30,10 +30,10 @@ The electrical diagram of the control cabinet can be downloaded [here as a PDF](
 
 The projects with all the comments can be downloaded as a TIA archive file (`*.zap16`, `*.zap17` etc.) from the following file.
 
-| Name             | Date      | Profession  | Program         |
-| ---------------- | --------- | ----------- | --------------- |
-| Stefan Feier     | 2019-2023 | Automatiker |
-| Nicolas Diethelm | 2020-2024 | Automatiker | [Download ZAP16](./docs/NicolasDiethelm/ND_PiPl_20220809_0738.zap16)
-| Flavio Knobel    | 2020-2024 | Automatiker | [Download ZAP16](./docs/FlavioKnobel/FK_PiPl_20220809_0739.zap16)
-| Kevin Kälin      | 2021-2025 | Automatiker |
-| Linus Lacher     | 2022-2026 | Automatiker |
+| Name             | Date      | Profession          | Program         |
+| ---------------- | --------- | ------------------- | --------------- |
+| Stefan Feier     | 2019-2023 | automation engineer |
+| Nicolas Diethelm | 2020-2024 | automation engineer | [Download ZAP16](./docs/NicolasDiethelm/ND_PiPl_20220809_0738.zap16)
+| Flavio Knobel    | 2020-2024 | automation engineer | [Download ZAP16](./docs/FlavioKnobel/FK_PiPl_20220809_0739.zap16)
+| Kevin Kälin      | 2021-2025 | automation engineer |
+| Linus Lacher     | 2022-2026 | automation engineer |
