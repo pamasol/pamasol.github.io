@@ -21,5 +21,5 @@ The created Exe-file can be executed on a PC with **Windows OS**.
 There will be one variant made in [Winforms](https://en.wikipedia.org/wiki/Windows_Forms) and one in [WPF](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation). Afterwards, both variants will be compared.
 
 {{% notice info %}}
-The project description in english as well as all excercises and assistance are found in the following GitHub repository: https://github.com/pamasol/PAM-Calculator
+The project description as well as all excercises and assistance are found in the following GitHub repository: https://github.com/pamasol/PAM-Calculator
 {{% /notice %}}
