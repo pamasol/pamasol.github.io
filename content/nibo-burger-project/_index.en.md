@@ -72,5 +72,5 @@ The elctrical parts, in combination with the soldered circuits and the program, 
 | Linus Lacher     | 2022-2026 | automation engineer |
 
 {{% notice info %}}
-The project description in english including the excercises and support are available in the following GitHub repository: https://github.com/pamasol/Lehrlingsprojekt-Nibo-Burger
+The project description including the excercises and support are available in the following GitHub repository: https://github.com/pamasol/Lehrlingsprojekt-Nibo-Burger
 {{% /notice %}}
