@@ -28,7 +28,7 @@ More and more tasks and operations are done by machines and robots. Automation e
 
 ### How long does an apprenticeship take and where do I need to go to school?
 
-The apprenticeship lasts **4 years**. During this time the apprentices will visit one to two days a week the [professional school](https://www.bbzg.ch/) **in Arth-Goldau**. If you attend the **Federal Professional Baccalaureate** during the apprenticeship, the school visit consists of two days a week for the entire apprenticeship.
+The apprenticeship lasts **4 years**. During this time the apprentices will visit one to two days a week the [vocational school](https://www.bbzg.ch/) **in Arth-Goldau**. If you attend the **Federal Professional Baccalaureate** during the apprenticeship, the school visit consists of two days a week for the entire apprenticeship.
 
 Additionally to the vocational school you will attend inter-company professional training in the training centre [Swissmechanic](https://sz.swissmechanic.ch/ausbildungszentrum) in Pfäffikon SZ. These trainings take a few weeks each.
 

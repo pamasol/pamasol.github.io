@@ -12,7 +12,7 @@ Neben Berufsschule, den überbetrieblichen [Swissmechanic](https://www.swissmech
 
 PAM-Calculator repräsentiert das **C#-Projekt** der Ausbildung. Es soll Lernende in die **objektorientierte Programmierung** einführen.
 
-Mithilfe der Visual Studio IDE (Integrated Development Environment) wird ein Windows Taschenrechner in C# programmiert. Der Rechner kann zwei zahlen addieren, subtrahieren, multiplizieren und dividieren. Bei Division durch 0 wird eine Warnung ausgegeben:
+Mithilfe der Visual Studio IDE (Integrated Development Environment) wird ein Windows Taschenrechner in C# programmiert. Der Rechner kann zwei Zahlen addieren, subtrahieren, multiplizieren und dividieren. Bei Division durch 0 wird eine Warnung ausgegeben:
 
 ![WinForms Demo](images/pam-calculator_winforms_demo.de.gif)
 
