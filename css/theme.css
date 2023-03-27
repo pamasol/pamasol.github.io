@@ -128,12 +128,12 @@ dd {
 #sidebar .searchbox > :first-child,
 #sidebar .searchbox button,
 .searchbox span {
-    opacity: .65;
+    color: rgba( 255, 255, 255, .6 );
 }
 
 #sidebar .searchbox button:hover,
 .searchbox span:hover {
-    opacity: 1;
+    color: rgba( 255, 255, 255, .9 );
 }
 
 .searchbox input {
@@ -148,7 +148,8 @@ dd {
 }
 
 .searchbox input::placeholder {
-    opacity: .45;
+    color: rgba( 255, 255, 255, .4 );
+    opacity: unset;
 }
 
 #content-wrapper {
@@ -487,19 +488,11 @@ div.box > .box-content {
     padding-right: 1rem;
 }
 
-#body table th > :first-child,
-#body table th > :first-child :first-child,
-#body table td > :first-child,
-#body table td > :first-child :first-child,
 #body div.box > .box-content > :first-child,
 #body div.box > .box-content > :first-child :first-child {
     margin-top: 0;
 }
 
-#body table th > :last-child,
-#body table th > :last-child :last-child,
-#body table td > :last-child,
-#body table td > :last-child :last-child,
 #body div.box > .box-content > :last-child,
 #body div.box > .box-content > :last-child :last-child {
     margin-bottom: 0;
@@ -1103,7 +1096,7 @@ option {
     margin-left: 0;
 }
 
-.mermaid-container {
+.mermaid {
     margin-bottom: 1.7rem;
     margin-top: 1.7rem;
 }
@@ -1609,10 +1602,9 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
     margin-inline-end: .5rem;
 }
 
-.searchform input::-webkit-input-placeholder,
 .searchform input::placeholder {
-    color: rgba( 134, 134, 134 );
-    opacity: .666;
+    color: rgba( 134, 134, 134, .666 );
+    opacity: unset;
 }
 
 .searchform .btn {
