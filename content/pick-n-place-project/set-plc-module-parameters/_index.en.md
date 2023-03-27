@@ -25,5 +25,5 @@ The **absolute addressing** uses the direct operand (i.e. `I0.0`), whereas the *
 The variables can be added and edited in the project navigation under **Devices > PLC variables**. The video additionally mentions the function for importing and exporting Excel files.
 
 {{% notice tip %}}
-The Excel file, which can be used to import the PLC tags, can be downloaded [here](./docs/Pick&Placer_PLCTags.de.xlsx)
+The Excel file, which can be used to import the PLC tags, can be downloaded [here](./docs/Pick&Placer_PLCTags.en.xlsx)
 {{% /notice %}}
