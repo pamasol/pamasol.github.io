@@ -23,7 +23,7 @@ The positions of the most relevant sensors are shown below:
 ![Festo Pick&Place Robot](./images/festo_pick_n_place_overview.en.png)
 
 {{% notice info %}}
-The electrical diagram of the control cabinet can be downloaded [here as a PDF](./docs/Pick_and_Placer_4_eView-5.en.pdf).
+The electrical diagram of the control cabinet can be downloaded [here as a PDF](./docs/Pick_and_Placer_4_eView-5.en.pdf)
 {{% /notice %}}
 
 ## Documentation

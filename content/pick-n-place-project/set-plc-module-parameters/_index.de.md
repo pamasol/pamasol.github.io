@@ -25,5 +25,5 @@ Bei der **absoluten Adressierung** wird direkt der Operand (z.B. `I0.0`) eingege
 Die Variabeln können in der Projektnavigation unter **Geräte > PLC-Variabeln** eingegeben und editiert werden. Im Video wird zusätlich auf die Excel Import und Export Funktion eingegangen.
 
 {{% notice tip %}}
-Das Excel File, welches als Import für die PLC Tags verwendet werden kann, findest du [hier als Download](./docs/Pick&Placer_PLCTags.de.xlsx).
+Das Excel File, welches als Import für die PLC Tags verwendet werden kann, findest du [hier als Download](./docs/Pick&Placer_PLCTags.de.xlsx)
 {{% /notice %}}
