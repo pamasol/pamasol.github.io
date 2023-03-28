@@ -1,5 +1,5 @@
 +++
-title = "Modulkarten parametrieren"
+title = "Set module parameters"
 weight = 4
 +++
 
