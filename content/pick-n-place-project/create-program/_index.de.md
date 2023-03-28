@@ -11,7 +11,7 @@ weight = 8
 
 Im **Main [OB1]** wird ein Programm erstellt, um die horizontale Achse des Roboters aus- und einzufahren. Dazu wird die grafische Programmiersprache **KOP (Kontaktplan)** verwendet mit folgenden Ein- und Ausgängen.
 
-Beschreibung                                 | Symbolische Adresse      | Absolute Addresse
+Beschreibung                                 | Symbolische Adresse      | Absolute Adresse
 -------------------------------------------- | ------------------------ | -----------------
 Pick&Placer Bedienstelle Start (160SF3)      | `PIPL_Pa_SF_Start`       | E1.1
 Pick&Placer Schlitten ausfahren (125MB1)     | `PIPL_MB_CarrierExtend`  | A0.4
