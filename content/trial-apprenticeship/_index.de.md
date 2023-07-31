@@ -66,6 +66,7 @@ Elektroingenieur
 
 | #  | Name                | Lehrjahr    | Berufsbezeichnung |
 | -- | ------------------- | ----------- | ----------------- |
+| 50 | Stefan Feier        | 2019 - 2023 | Automatiker       |
 | 49 | Jonas Bisig         | 2018 - 2022 | Automatiker       |
 | 48 | David Bernhard      | 2018 - 2022 | Automatiker       |
 | 47 | Joël Glaus          | 2017 - 2021 | Automatiker       |
