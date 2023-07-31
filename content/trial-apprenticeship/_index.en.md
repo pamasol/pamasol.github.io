@@ -68,6 +68,7 @@ Electrical engineer
 
 | #  | Name                | Date        | Profession         |
 | -- | ------------------- | ----------- | -------------------|
+| 50 | Stefan Feier        | 2019 - 2023 | automation engineer|
 | 49 | Jonas Bisig         | 2018 - 2022 | automation engineer|
 | 48 | David Bernhard      | 2018 - 2022 | automation engineer|
 | 47 | Joël Glaus          | 2017 - 2021 | automation engineer|
