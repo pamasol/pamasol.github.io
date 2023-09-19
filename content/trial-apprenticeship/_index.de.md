@@ -48,15 +48,13 @@ Was man aber sagen kann: Macht jemand seinen Job gerne und ist Feuer und Flamme 
 
 Ok, die obigen Angaben helfen nicht wirklich weiter und wir möchten Interessierte nicht im Ungewissen stehen lassen. Folgende Zahlen sind vom Online Portal jobs.ch und können einen ungefähren Anhaltspunkt geben.
 
-Automatiker
+**Automatiker**
+* [Jobs.ch für Automatiker](https://www.jobs.ch/de/lohn/?canton=ch&term=automatiker), abgerufen am 05.06.2022.
+* CHF 65'027 Jahreslohn, was bei 12 Monaten einem Lohn von **CHF 5'418.90** entspricht pro Monat.
 
-- [Jobs.ch für Automatiker](https://www.jobs.ch/de/lohn/?canton=ch&term=automatiker), abgerufen am 05.06.2022.
-- CHF 65'027 Jahreslohn, was bei 12 Monaten einem Lohn von **CHF 5'418.90** entspricht pro Monat.
-
-Elektroingenieur
-
-- [Jobs.ch für Elektroingenieure](https://www.jobs.ch/de/lohn/?canton=ch&term=elektroingenieur), abgerufen am 05.06.2022.
-- CHF 96'981 Jahreslohn, was bei 12 Monaten einem Lohn von **CHF 8'081.75** entspricht pro Monat.
+**Elektroingenieur**
+* [Jobs.ch für Elektroingenieure](https://www.jobs.ch/de/lohn/?canton=ch&term=elektroingenieur), abgerufen am 05.06.2022.
+* CHF 96'981 Jahreslohn, was bei 12 Monaten einem Lohn von **CHF 8'081.75** entspricht pro Monat.
 
 ### Video Automatiker EFZ
 
@@ -65,11 +63,6 @@ Elektroingenieur
 </div>
 
 ### Wie viele Automatiker hat Pamasol schon ausgebildet?
-
-<!--| 53  | Linus Lacher        | 2022 - 2026 | Automatiker       |
-| 53  | Kevin Kälin         | 2021 - 2025 | Automatiker       |
-| 52  | Nicolas Diethelm    | 2020 - 2024 | Automatiker       |
-| 51  | Flavio Knobel       | 2020 - 2024 | Automatiker       |-->
 
 | #   | Name                | Lehrjahr    | Berufsbezeichnung |
 | --- | ------------------- | ----------- | ----------------- |

@@ -48,15 +48,13 @@ What's definitively in every job: If you love it and put the effort into it, it 
 
 I know, the answers above do not help alot and we can't keep interested people guessing. Following are a few numbers from the online portal jobs.ch which can give you an estimated point of reference.
 
-Automation engineer
+**Automation engineer**
 * [Jobs.ch for automation engineers](https://www.jobs.ch/en/salary/?canton=ch&term=automatiker), called on 11.01.2023.
 * CHF 65'200 annual salary, which, for 12 months, would be **CHF 5433.33** each month.
 
-Electrical engineer
+**Electrical engineer**
 * [Jobs.ch for electrical engineers](https://www.jobs.ch/en/salary/?canton=ch&term=elektroingenieur), called on 11.01.2023
 * CHF 96'995 annual salary, which, for 12 months, would be **CHF 8082.92** each month.
-
-
 
 ### Video automation engineer VET
 
