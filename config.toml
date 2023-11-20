@@ -65,6 +65,12 @@ relativeURLs = true
     url = "https://github.com/pamasol/"
     weight = 30
 
+  [[Languages.en.menu.shortcuts]]
+    name = "<i class='fab fa-fw fa-instagram'></i> Pamasol on Instagram"
+    identifier = "pamasolInstagram"
+    url = "https://www.instagram.com/pamasol_willi_mader_ag/"
+    weight = 30
+
   [Languages.de]
     title = "Pamasol Electrics Portal"
     weight = 1
@@ -90,3 +96,8 @@ relativeURLs = true
     url = "https://github.com/pamasol/"
     weight = 30
 
+  [[Languages.de.menu.shortcuts]]
+    name = "<i class='fab fa-fw fa-instagram'></i> Pamasol auf Instagram"
+    identifier = "pamasolInstagram"
+    url = "https://www.instagram.com/pamasol_willi_mader_ag/"
+    weight = 30
